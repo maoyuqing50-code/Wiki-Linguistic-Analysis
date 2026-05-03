@@ -1,0 +1,331 @@
+title,label,label_name,topic,topic_specific,lang,hedging_density,def_ratio,citation_count,section_count,unique_editors,age_days,recency_ratio,revert_count,talk_words,talk_editors,word_count,trends_avg,partisan_density,causal_density
+Alen Hadzic,0,contested,culture,Culture.Biography.Biography*,en,1.1403,0.0476,94,9,44,1029,0.017,1,2054,13,2855,,0.0,3.4208
+Raiden Shogun,1,stable,geography,Geography.Regions.Asia.East_Asia,en,0.0,0.0732,77,6,158,1691,0.201,1,1202,16,3313,,0.0,0.0
+Sheikh Said,0,contested,geography,Geography.Regions.Asia.West_Asia,en,3.1819,0.0066,111,16,225,7385,0.024,0,1057,24,5940,,0.2893,3.4712
+John Rowan (Kentucky politician),1,stable,geography,Geography.Regions.Americas.North_America,en,1.1737,0.0163,186,11,98,7502,0.025,0,238,24,6358,,0.0,1.5649
+Quazi Sazzad Ali Zahir,0,contested,culture,Culture.Biography.Biography*,en,0.0,0.0444,15,8,42,2116,0.015,0,46,5,1600,,0.0,0.9259
+Enjoy Yourself (Pop Smoke song),1,stable,culture,Culture.Media.Music,en,0.0,0.0244,30,8,25,2129,0.065,0,43,10,1616,,0.0,2.0812
+Young-min Kim,0,contested,culture,Culture.Biography.Biography*,en,0.6112,0.0435,22,12,22,997,0.019,0,20,5,2234,,0.0,0.6112
+2024 World Athletics Indoor Championships – Women's 4 × 400 metres relay,1,stable,culture,Culture.Sports,en,0.0,0.0,34,8,18,789,0.011,0,70,6,2035,,0.0,1.2484
+Polisario Front,0,contested,geography,Geography.Regions.Africa.Africa*,en,1.4828,0.0667,39,22,245,2557,0.076,0,18995,15,4643,,0.0,3.8553
+Sunset Park (Brooklyn park),1,stable,geography,Geography.Regions.Americas.North_America,en,0.0,0.0412,116,15,22,2516,0.041,0,131,10,4272,,0.0,2.2535
+Battle of Hatikvah Neighborhood,0,contested,geography,Geography.Regions.Asia.West_Asia,en,0.6653,0.0128,12,5,19,557,0.395,0,101,5,1903,,0.0,2.6613
+Gay's Anatomy,1,stable,geography,Geography.Regions.Americas.North_America,en,0.0,0.0545,21,8,16,781,0.169,0,179,8,1834,,0.0,2.9732
+Nanobubble,0,contested,science,STEM.STEM*,en,0.0,0.0732,55,5,20,760,0.18,0,174,3,2134,,0.0,12.5945
+"Tornado outbreak of February 12, 1945",1,stable,science,STEM.Earth_and_environment,en,0.0,0.0,52,6,33,1070,0.101,0,227,8,2357,,0.0,0.0
+Farmworkers in the United States,0,contested,geography,Geography.Regions.Americas.North_America,en,0.7026,0.0474,146,14,39,1452,0.178,0,130,5,7111,,0.0,4.2155
+Armistead Abraham Lilly,1,stable,geography,Geography.Regions.Americas.North_America,en,0.0,0.0227,146,11,19,1564,0.033,0,89,7,5974,,0.0,0.5507
+Kuwaiti political gridlock,0,contested,culture,Culture.Biography.Biography*,en,1.4052,0.0208,78,17,20,757,0.034,0,84,3,3775,,0.0,0.4684
+Tasha Ghouri,1,stable,culture,Culture.Biography.Biography*,en,0.0,0.0189,105,5,86,823,0.134,0,509,10,4113,,0.0,1.233
+Anti-Bengali sentiment,0,contested,geography,Geography.Regions.Asia.Asia*,en,2.1876,0.024,173,46,138,1648,0.123,2,370,18,8629,,0.0,2.1876
+Bugesera invasion,1,stable,geography,Geography.Regions.Africa.Eastern_Africa,en,1.8501,0.022,45,17,37,1830,0.016,0,552,9,7761,,0.0,0.9251
+Digital literacy,0,contested,science,STEM.STEM*,en,0.3907,0.0606,136,21,230,2635,0.054,2,746,23,8733,,0.0,2.7349
+Baldwin I of Jerusalem,1,stable,politics_history,History_and_Society.Military_and_warfare,en,0.5805,0.0058,6,19,140,3102,0.01,3,1402,24,7881,,0.0,1.8865
+Feng Congde,0,contested,geography,Geography.Regions.Asia.East_Asia,en,0.0,0.0,65,5,68,5626,0.0,0,146,6,1589,,0.0,0.0
+Behemoth (roller coaster),1,stable,culture,Culture.Media.Entertainment,en,0.0,0.0678,46,12,219,6115,0.002,3,1376,20,1761,,0.0,1.1325
+Crisis of the Piast dynasty,0,contested,geography,Geography.Regions.Europe.Eastern_Europe,en,1.2265,0.0,19,24,27,821,0.051,0,9,3,4541,,0.0,2.0442
+2022 Peach Bowl,1,stable,culture,Culture.Sports,en,0.0,0.0299,50,14,63,1276,0.017,0,451,9,4936,,0.0,1.4674
+Nuance Party,0,contested,geography,Geography.Regions.Europe.Northern_Europe,en,2.7881,0.0385,46,11,66,1320,0.078,0,580,5,2062,,0.0,5.5762
+Zou Heng,1,stable,geography,Geography.Regions.Asia.East_Asia,en,0.4697,0.0208,5,9,15,695,0.0,0,92,10,2474,,0.0,3.2879
+Spanish nationalism,0,contested,geography,Geography.Regions.Europe.Europe*,en,0.3463,0.0833,97,16,159,6577,0.025,0,2412,13,6807,,0.0,2.4238
+590 Madison Avenue,1,stable,geography,Geography.Regions.Americas.North_America,en,0.3452,0.0621,267,22,128,6550,0.035,0,784,17,7515,,0.0,1.7259
+Invented tradition,0,contested,politics_history,History_and_Society.History,en,0.0,0.0444,38,9,122,5328,0.025,0,2731,18,2302,,0.0,1.8587
+SMS Greif (1886),1,stable,politics_history,History_and_Society.Transportation,en,0.0,0.0,0,9,23,5228,0.015,0,86,11,2303,,0.0,0.0
+Nuisance abatement,0,contested,politics_history,History_and_Society.Politics_and_government,en,0.0,0.0877,14,14,49,6611,0.0,0,128,2,1634,,0.0,0.771
+Supermarine Baby,1,stable,politics_history,History_and_Society.Transportation,en,0.0,0.0,2,10,43,6629,0.008,0,62,10,1839,,0.0,0.7764
+Sabina Shoal,0,contested,geography,Geography.Regions.Asia.Asia*,en,8.4746,0.0682,59,7,79,4362,0.086,0,7631,9,2641,,0.0,2.5424
+Siege of Kaifeng (1232),1,stable,geography,Geography.Regions.Asia.East_Asia,en,0.0,0.0078,6,7,77,4525,0.005,0,420,14,2898,,0.0,0.7994
+Epirus,0,contested,geography,Geography.Regions.Europe.Southern_Europe,en,0.4386,0.0361,81,22,155,2276,0.024,0,1111,13,9776,,0.0,2.193
+Trafalgar Square,1,stable,geography,Geography.Regions.Europe.Northern_Europe,en,0.2291,0.0573,142,26,240,2742,0.052,3,1069,24,7892,,0.0,3.4364
+Alasdair mac Mhaighstir Alasdair,0,contested,geography,Geography.Regions.Europe.Northern_Europe,en,0.2319,0.0331,116,16,48,1526,0.008,1,631,21,7730,,0.0,1.8549
+NeXT,1,stable,science,STEM.STEM*,en,0.0,0.0333,120,15,171,2069,0.054,3,6779,26,6406,,0.0,2.051
+"David Hope, Baron Hope of Craighead",0,contested,culture,Culture.Biography.Biography*,en,0.711,0.0556,58,23,157,7669,0.011,0,549,17,4229,,0.0,1.0665
+Denny Bautista,1,stable,culture,Culture.Sports,en,0.0,0.008,89,25,136,7727,0.003,0,156,23,4132,,0.0,0.0
+Chinese people in Myanmar,0,contested,geography,Geography.Regions.Asia.Asia*,en,0.2842,0.0364,124,31,128,2558,0.026,0,49,8,7016,,0.0,0.8525
+Muthu (film),1,stable,culture,Culture.Media.Media*,en,0.0,0.0267,114,18,112,2003,0.068,1,201,18,5756,,0.0,1.1641
+Project Fanboy,0,contested,culture,Culture.Visual_arts.Comics_and_Anime,en,0.0,0.0465,20,8,42,6173,0.018,0,474,8,1525,,0.0,0.8518
+David W. Mullins Jr.,1,stable,culture,Culture.Biography.Biography*,en,0.0,0.0377,27,7,61,6394,0.018,0,1522,23,1520,,0.0,1.1442
+Hannah Cullwick,0,contested,culture,Culture.Biography.Biography*,en,0.0,0.0,27,14,110,7530,0.109,0,242,15,4195,,0.0,1.2361
+Rey Bucanero,1,stable,culture,Culture.Media.Television,en,0.0,0.0357,94,11,109,7384,0.03,0,352,23,4352,,0.0,0.0
+Northern Transylvania,0,contested,geography,Geography.Regions.Europe.Eastern_Europe,en,0.0,0.0204,33,11,153,7819,0.031,0,707,11,4213,,0.0,2.7663
+Frederik Magle,1,stable,geography,Geography.Regions.Europe.Northern_Europe,en,0.0,0.0603,61,17,111,7697,0.008,1,374,23,4330,,0.0,1.692
+Karma Yoga (Bhagavad Gita),0,contested,culture,Culture.Philosophy_and_religion,en,0.0,0.087,11,7,25,1001,0.016,0,63,4,1717,,0.0,2.441
+Friday (Arapaho chief),1,stable,culture,Culture.Biography.Biography*,en,0.0,0.0,56,12,15,1606,0.035,0,78,7,1809,,0.0,2.7701
+Sheng-Ching Chang,0,contested,culture,Culture.Biography.Biography*,en,0.0,0.009,19,9,32,2748,0.018,0,12,4,2861,,0.0,0.8485
+1991 Football League Second Division play-off final,1,stable,culture,Culture.Sports,en,0.8333,0.0,37,7,30,3095,0.0,0,318,8,3057,,0.0,3.3333
+Md. Mahabub Elahi Ronju,0,contested,geography,Geography.Regions.Asia.South_Asia,en,0.0,0.0652,30,10,17,625,0.019,0,81,3,1761,,0.0,0.0
+Educationally subnormal,1,stable,politics_history,History_and_Society.Education,en,1.3369,0.0303,18,6,21,1173,0.0,1,155,9,1611,,0.0,0.0
+Sri Lankan Tamil diaspora,0,contested,geography,Geography.Regions.Asia.Asia*,en,0.0,0.033,40,29,195,5799,0.034,2,1360,26,4496,,0.0,3.8835
+W New York Union Square,1,stable,geography,Geography.Regions.Americas.North_America,en,0.0,0.0794,159,17,54,5751,0.041,0,68,11,4844,,0.0,1.2399
+Adult education,0,contested,politics_history,History_and_Society.Education,en,0.3979,0.0467,97,27,289,4872,0.032,3,2295,39,5826,,0.0,1.5917
+Union Square station (Somerville),1,stable,politics_history,History_and_Society.Transportation,en,0.0,0.0187,125,11,52,5049,0.026,2,1327,20,5922,,0.0,1.6906
+Antoine Barnave,0,contested,geography,Geography.Regions.Europe.Europe*,en,0.0,0.0423,28,14,131,8538,0.028,0,815,19,3100,,0.0,1.2346
+Jan Karol Chodkiewicz,1,stable,geography,Geography.Regions.Europe.Europe*,en,0.0,0.0,74,9,179,8517,0.029,0,1054,33,2799,,0.0,0.0
+Makhdoom Ali Khan,0,contested,culture,Culture.Biography.Biography*,en,0.4602,0.0317,18,6,124,6760,0.006,0,43,8,3429,,0.0,0.9204
+Adam Pardy,1,stable,culture,Culture.Sports,en,0.4558,0.0286,58,9,115,6728,0.02,0,152,15,3579,,0.0,0.9116
+FULRO insurgency,0,contested,geography,Geography.Regions.Asia.Asia*,en,0.5189,0.0,133,11,166,3633,0.102,0,909,14,8588,,0.0,2.7677
+Sam Simon,1,stable,culture,Culture.Media.Media*,en,0.3583,0.016,221,15,281,4071,0.018,0,42,37,7574,,0.0,2.1498
+Malik Siraj Akbar,0,contested,geography,Geography.Regions.Asia.South_Asia,en,0.0,0.0732,34,9,76,4803,0.011,0,73,10,1521,,0.0,0.0
+Rempstone Stone Circle,1,stable,geography,Geography.Regions.Europe.Europe*,en,0.0,0.0882,3,8,31,4768,0.009,0,18,7,1753,,0.0,0.0
+New media,0,contested,culture,Culture.Media.Media*,en,0.0,0.0415,96,20,296,4693,0.026,2,88,27,7976,,0.0,3.2044
+Star Trek: The Next Generation season 1,1,stable,culture,Culture.Media.Television,en,0.2606,0.0,73,15,150,4927,0.006,1,852,22,7108,,0.0,2.085
+Cristina Córdova,0,contested,culture,Culture.Biography.Biography*,en,0.0,0.0,27,8,62,5119,0.055,0,1853,12,1644,,0.0,0.0
+X-Flight,1,stable,culture,Culture.Media.Entertainment,en,0.0,0.0882,25,11,112,5357,0.006,0,347,13,1536,,0.0,2.8531
+Natural rights and legal rights,0,contested,politics_history,History_and_Society.Politics_and_government,en,1.208,0.0474,81,14,276,4074,0.016,5,2040,37,7946,,0.0,5.2345
+Obsidian Entertainment,1,stable,culture,Culture.Internet_culture,en,0.0,0.0263,164,12,240,3447,0.068,3,1219,33,7746,,0.0,2.0429
+Alexander Cameron (priest),0,contested,geography,Geography.Regions.Europe.Northern_Europe,en,0.364,0.0074,107,16,25,625,0.008,0,4637,6,5099,,0.0,0.0
+Albert Einstein College of Medicine,1,stable,science,STEM.STEM*,en,0.0,0.0226,0,27,20,427,0.042,0,33,25,5941,,0.0,2.9021
+Gender inequality in Australia,0,contested,geography,Geography.Regions.Oceania,en,0.0,0.0707,63,22,88,6004,0.005,0,219,7,3597,,0.0,4.374
+Battle of Ampfing (1800),1,stable,geography,Geography.Regions.Europe.Western_Europe,en,0.3152,0.0,37,9,48,5896,0.052,0,50,14,3744,,0.0,0.6303
+Lewis Namier,0,contested,geography,Geography.Regions.Europe.Europe*,en,0.5297,0.0,40,11,213,7976,0.005,0,1498,26,2966,,0.0,0.5297
+Eunos MRT station,1,stable,geography,Geography.Regions.Asia.Southeast_Asia,en,0.0,0.0169,49,5,211,7587,0.013,0,433,12,2651,,0.0,0.7418
+Shahzada Jamal Nazir,0,contested,culture,Culture.Biography.Biography*,en,0.0,0.0667,25,12,78,4025,0.008,0,14,5,3330,,0.0,0.4883
+1998 Football League Second Division play-off final,1,stable,culture,Culture.Sports,en,0.0,0.0,32,7,31,4550,0.0,0,143,13,3004,,0.0,0.8503
+Proto-Indo-European thunder god,0,contested,geography,Geography.Regions.Europe.Europe*,en,0.0,0.0407,68,20,113,2162,0.028,0,5216,22,5912,,0.0,2.5268
+Ready to Die,1,stable,culture,Culture.Media.Media*,en,0.706,0.0171,119,20,224,2819,0.184,0,1053,33,6931,,0.0,2.1179
+Roone Arledge,0,contested,culture,Culture.Biography.Biography*,en,0.0,0.0,19,12,224,8547,0.036,0,311,18,3429,,0.0,2.3603
+Zero Hour (Star Trek: Enterprise),1,stable,culture,Culture.Media.Television,en,0.0,0.0217,48,12,126,8010,0.0,0,313,15,3030,,0.0,0.0
+Nondestructive Evaluation 4.0,0,contested,science,STEM.STEM*,en,0.0,0.0625,33,10,29,1319,0.045,0,768,10,2329,,0.0,0.0
+Toward European Unity,1,stable,politics_history,History_and_Society.Politics_and_government,en,0.0,0.0274,0,8,20,892,0.02,0,66,7,2733,,0.0,4.8685
+Women in Jordan,0,contested,culture,Culture.Biography.Women,en,0.3074,0.0387,142,31,121,6632,0.025,0,298,18,7830,,0.0,4.9185
+Ty Herndon,1,stable,culture,Culture.Media.Music,en,0.0,0.0087,157,14,168,6281,0.006,1,600,22,6516,,0.0,2.1177
+Michele Fiore,0,contested,culture,Culture.Biography.Biography*,en,0.0,0.041,92,19,184,4547,0.035,0,1140,17,4902,,0.0,1.4316
+Tales of Xillia,1,stable,culture,Culture.Media.Video_games,en,0.0,0.0638,131,14,157,4785,0.014,1,676,24,5115,,0.0,0.5479
+Brunswick Secondary College,0,contested,geography,Geography.Regions.Oceania,en,0.0,0.0725,4,11,173,7190,0.003,1,293,20,1549,,0.0,2.8409
+Maryland Route 537,1,stable,geography,Geography.Regions.Americas.North_America,en,0.0,0.05,56,8,32,7375,0.012,0,144,15,1735,,0.0,0.0
+Albert Apponyi,0,contested,geography,Geography.Regions.Europe.Eastern_Europe,en,1.1193,0.0118,22,17,134,7483,0.092,0,15,11,8266,,0.0,1.7909
+Muslim conquest of Sicily,1,stable,geography,Geography.Regions.Europe.Southern_Europe,en,0.9979,0.0,2,22,126,6984,0.04,1,778,28,7853,,0.0,1.8532
+Soka Gakkai International,0,contested,culture,Culture.Philosophy_and_religion,en,1.3123,0.0745,129,17,198,3741,0.014,0,2716,22,5702,,0.0,1.3123
+Ermac,1,stable,culture,Culture.Internet_culture,en,1.0178,0.0455,159,10,134,3131,0.01,1,65,34,5278,,0.0,1.5267
+Amado Boudou,0,contested,geography,Geography.Regions.Americas.South_America,en,1.4164,0.0652,47,6,159,6141,0.004,0,148,12,2474,,0.0,0.0
+Chasing Vermeer,1,stable,geography,Geography.Regions.Europe.Western_Europe,en,1.2165,0.0312,42,10,287,6178,0.01,4,584,34,2258,,0.0,1.8248
+Summary executions during the Gaza war,0,contested,geography,Geography.Regions.Asia.West_Asia,en,1.2706,0.1143,56,11,52,686,0.058,1,1224,16,2485,,0.0,0.0
+Charles Merlin,1,stable,geography,Geography.Regions.Europe.Europe*,en,2.3095,0.0122,0,8,17,995,0.013,0,61,5,2846,,0.0,0.4619
+Space sexology,0,contested,science,STEM.Technology,en,1.2903,0.0303,62,7,47,1441,0.101,1,638,14,2575,,0.0,0.0
+Rhodinia fugax,1,stable,science,STEM.Biology,en,0.0,0.1167,82,15,16,1629,0.023,0,20,7,3009,,0.0,2.2422
+Quadruple jump controversy,0,contested,culture,Culture.Sports,en,0.4219,0.0377,73,16,90,5853,0.014,1,635,20,7276,,0.2109,3.3748
+Star Wars: The Force Unleashed II,1,stable,culture,Culture.Media.Media*,en,0.0,0.0275,128,19,283,5512,0.01,1,2768,27,5995,,0.0,0.417
+Government hiring and personnel of Donald Trump,0,contested,geography,Geography.Regions.Americas.North_America,en,5.1493,0.0,74,13,26,588,0.025,0,219,5,2994,,0.0,4.1195
+Arataki Itto,1,stable,geography,Geography.Regions.Asia.East_Asia,en,0.0,0.1014,53,12,23,794,0.753,0,743,10,3034,,0.0,0.7299
+Case of the Trotskyist Anti-Soviet Military Organization,0,contested,politics_history,History_and_Society.Military_and_warfare,en,1.3106,0.0159,10,10,139,7717,0.008,0,1518,26,1797,,0.0,1.9659
+Mikoyan-Gurevich DIS,1,stable,politics_history,History_and_Society.Transportation,en,0.0,0.0,10,7,87,7745,0.006,0,75,15,1583,,0.0,1.1173
+John Tillmann,0,contested,geography,Geography.Regions.Americas.North_America,en,0.8897,0.02,38,6,79,3781,0.008,0,1146,14,1930,,0.0,2.669
+Neopluvial,1,stable,geography,Geography.Regions.Americas.North_America,en,0.0,0.0,48,6,20,3221,0.012,0,28,7,1568,,0.0,0.0
+Alex Bertie,0,contested,politics_history,History_and_Society.Society,en,1.2077,0.0286,46,6,55,3060,0.043,0,501,11,1811,,0.0,4.8309
+Jorge López Pérez,1,stable,geography,Geography.Regions.Americas.North_America,en,0.0,0.0833,55,8,22,2335,0.014,0,97,11,1770,,0.0,0.0
+1987 Meerut riots,0,contested,geography,Geography.Regions.Asia.South_Asia,en,4.3431,0.0,22,4,81,4022,0.027,0,809,11,1554,,0.0,1.0858
+Xu Lai (actress),1,stable,geography,Geography.Regions.Asia.East_Asia,en,0.0,0.1111,33,7,44,4356,0.007,0,85,16,1591,,0.0,1.506
+Dance and health,0,contested,culture,Culture.Performing_arts,en,0.0,0.1011,44,13,171,6868,0.025,2,5186,26,2739,,0.0,6.6586
+Bart's Girlfriend,1,stable,culture,Culture.Media.Television,en,0.0,0.0758,36,6,259,7024,0.012,0,142,16,2583,,0.0,2.1661
+Social media use by Barack Obama,0,contested,geography,Geography.Regions.Americas.North_America,en,0.0,0.04,69,13,205,5066,0.014,0,789,24,2744,,0.0,1.4085
+"St Edern's Church, Bodedern",1,stable,geography,Geography.Regions.Europe.Northern_Europe,en,0.0,0.0714,65,10,37,5317,0.019,0,67,10,2761,,0.0,3.5149
+David Keyes,0,contested,geography,Geography.Regions.Asia.West_Asia,en,0.4564,0.0351,143,7,145,5490,0.015,0,580,10,5311,,0.0,1.3692
+British Engineerium,1,stable,geography,Geography.Regions.Europe.Europe*,en,0.5485,0.1096,132,9,45,5668,0.01,0,230,13,4950,,0.0,2.1942
+Madhe Sahaba Agitation,0,contested,culture,Culture.Philosophy_and_religion,en,0.0,0.0588,30,6,25,2030,0.025,0,17,5,3608,,0.0,1.432
+Miller Arnold case,1,stable,geography,Geography.Regions.Europe.Europe*,en,1.9531,0.0225,3,23,18,1300,0.133,0,60,6,2998,,0.0,2.9297
+Treaty 1,0,contested,geography,Geography.Regions.Americas.North_America,en,3.6541,0.1429,49,14,122,7260,0.048,0,287,12,2531,,0.0,3.6541
+Basarab I of Wallachia,1,stable,geography,Geography.Regions.Europe.Eastern_Europe,en,0.4985,0.0521,3,14,178,7079,0.016,1,5053,10,2484,,0.0,0.997
+History of the Ryukyu Islands,0,contested,geography,Geography.Regions.Asia.East_Asia,en,1.8323,0.0353,67,25,194,5472,0.016,1,6370,29,6593,,0.0,2.2904
+Nur Muhammad Taraki,1,stable,geography,Geography.Regions.Asia.Asia*,en,1.2315,0.0,68,16,286,5477,0.078,0,1563,36,6024,,0.0,0.6158
+Orstkhoy,0,contested,geography,Geography.Regions.Asia.Asia*,en,0.0,0.0259,27,21,50,1182,0.01,0,16314,7,7817,,0.0,2.1934
+Space Launch System core stage,1,stable,science,STEM.Technology,en,0.0,0.0513,124,19,35,989,0.216,0,108,6,7291,,0.0,1.9646
+Union of Good,0,contested,geography,Geography.Regions.Asia.West_Asia,en,3.663,0.12,46,5,66,5811,0.016,0,71,13,2352,,0.0,1.221
+John Komnenos Asen,1,stable,geography,Geography.Regions.Europe.Southern_Europe,en,0.0,0.0,32,5,45,5513,0.069,0,64,13,1943,,0.0,0.0
+Kingdom of Valencia,0,contested,geography,Geography.Regions.Europe.Southern_Europe,en,2.1368,0.0,5,9,189,7591,0.023,3,4343,19,3073,,0.0,4.2735
+1972 World Snooker Championship,1,stable,geography,Geography.Regions.Europe.Northern_Europe,en,0.0,0.0299,103,10,64,7305,0.01,1,635,14,3401,,0.0,0.7435
+Information Operations (United States),0,contested,politics_history,History_and_Society.Military_and_warfare,en,0.377,0.1017,93,38,95,5120,0.032,0,1155,8,8313,,0.0,2.262
+Mississippi-class battleship,1,stable,politics_history,History_and_Society.Military_and_warfare,en,0.0,0.0106,108,20,97,5700,0.006,0,1329,22,7070,,0.0,1.8353
+Biopsychosocial model,0,contested,science,STEM.Medicine_&_Health,en,0.5157,0.051,91,22,165,4247,0.034,0,3387,19,5298,,0.0,1.5472
+J1407b,1,stable,science,STEM.STEM*,en,0.0,0.0,134,14,107,4112,0.346,0,1710,18,4791,,0.0,0.0
+Aslam Khan (brigadier),0,contested,geography,Geography.Regions.Asia.South_Asia,en,0.0,0.0196,47,14,62,2935,0.015,0,412,12,3274,,0.0,0.7576
+Thomas S. Riley,1,stable,geography,Geography.Regions.Americas.North_America,en,0.0,0.0164,81,10,19,3097,0.012,0,169,8,3735,,0.0,1.6764
+Delwar Hossain Sayeedi,0,contested,culture,Culture.Biography.Biography*,en,2.1645,0.0139,89,15,208,1448,0.106,2,4799,29,3616,,0.0,1.0823
+Virginia Tango Piatti,1,stable,culture,Culture.Biography.Biography*,en,0.0,0.0083,0,8,21,1182,0.058,0,39,8,3621,,0.0,2.8536
+Rob Murphy,0,contested,culture,Culture.Sports,en,0.0,0.0139,13,10,93,7601,0.01,0,90,24,1717,,0.0,3.1671
+Piracy Funds Terrorism,1,stable,culture,Culture.Media.Media*,en,0.0,0.0286,25,7,127,7650,0.015,0,641,17,1736,,0.0,1.6234
+Spiritual activism,0,contested,culture,Culture.Philosophy_and_religion,en,0.0,0.0833,30,5,19,2009,0.024,0,76,4,2163,,0.0,3.3708
+Will Speck and Josh Gordon,1,stable,culture,Culture.Media.Media*,en,0.0,0.0,48,6,47,1809,0.005,0,109,6,1749,,0.0,0.0
+1999 New South Wales state election,0,contested,geography,Geography.Regions.Oceania,en,0.2213,0.0039,2,12,83,7030,0.042,0,71,8,5530,,0.0,1.328
+University of the Philippines Los Baños College of Forestry and Natural Resources,1,stable,geography,Geography.Regions.Asia.Southeast_Asia,en,0.0,0.0143,95,9,73,6862,0.014,0,268,9,5372,,0.0,3.1706
+2006 Fijian coup d'état,0,contested,geography,Geography.Regions.Oceania,en,3.7758,0.0094,118,18,240,7086,0.01,0,9562,22,8000,,0.0,1.1924
+72nd Street station (IRT Broadway–Seventh Avenue Line),1,stable,geography,Geography.Regions.Americas.North_America,en,0.0,0.0206,173,15,118,7638,0.016,1,684,24,6708,,0.0,2.5707
+Nanoelectronics,0,contested,science,STEM.STEM*,en,0.0,0.0278,24,19,189,7084,0.0,1,1124,14,2894,,0.0,5.1813
+Velvet belly lanternshark,1,stable,science,STEM.STEM*,en,0.0,0.0345,56,9,67,7153,0.008,0,392,14,2793,,0.0,0.0
+Nurul Haque Nur,0,contested,geography,Geography.Regions.Asia.Asia*,en,1.2136,0.0769,75,5,213,2607,0.152,0,491,18,2556,,0.0,0.0
+Battle of Simba Hills,1,stable,geography,Geography.Regions.Africa.Africa*,en,2.0555,0.0,3,8,23,2426,0.0,0,94,7,2407,,0.0,2.0555
+People of Praise,0,contested,culture,Culture.Philosophy_and_religion,en,1.3755,0.0833,80,23,166,2761,0.008,0,328,18,5459,,0.0,2.751
+WUPA,1,stable,culture,Culture.Media.Media*,en,0.5831,0.0368,86,13,153,2628,0.04,0,1113,22,5401,,0.0,2.9155
+Ukrainian Cyber Alliance,0,contested,geography,Geography.Regions.Europe.Eastern_Europe,en,0.3873,0.0182,116,25,91,2100,0.06,0,1293,4,4475,,0.0,0.3873
+Theodore Stephanides,1,stable,geography,Geography.Regions.Europe.Europe*,en,0.5348,0.025,124,11,44,2332,0.012,0,873,25,4125,,0.0,0.0
+First Anglo-Maratha War,0,contested,geography,Geography.Regions.Asia.South_Asia,en,0.7199,0.0,38,12,267,4927,0.062,2,2552,23,2878,,0.0,0.7199
+Samuel Gompers Memorial,1,stable,geography,Geography.Regions.Americas.North_America,en,0.0,0.0435,34,11,40,5363,0.0,0,132,8,2535,,0.0,1.8371
+Soneva,0,contested,geography,Geography.Regions.Asia.Asia*,en,0.5118,0.0875,50,11,53,3514,0.066,0,228,6,2684,,0.0,1.0235
+Deolinda Rodrigues,1,stable,geography,Geography.Regions.Africa.Central_Africa,en,0.6266,0.0143,15,8,69,3738,0.03,0,1555,35,2511,,0.0,1.8797
+Dollingstown F.C.,0,contested,geography,Geography.Regions.Europe.Northern_Europe,en,0.0,0.0,25,14,57,6107,0.025,0,103,6,1715,,0.0,1.7271
+No worries,1,stable,geography,Geography.Regions.Oceania,en,0.0,0.1282,30,9,148,6347,0.003,2,118,25,1834,,0.0,1.3643
+Chʼortiʼ language,0,contested,culture,Culture.Linguistics,en,0.0,0.0746,28,18,125,7708,0.009,0,589,21,3098,,0.0,3.7037
+Trish (Devil May Cry),1,stable,culture,Culture.Media.Video_games,en,0.0,0.0421,53,7,118,7687,0.011,0,23,9,3076,,0.0,5.8887
+History of Crimea (1991–2014),0,contested,geography,Geography.Regions.Europe.Eastern_Europe,en,0.9857,0.0233,53,7,34,1418,0.044,0,1307,15,3403,,0.0,0.9857
+Abel Tasman Monument,1,stable,geography,Geography.Regions.Oceania,en,0.0,0.0411,48,8,23,1596,0.011,0,426,10,2831,,0.0,1.7472
+Giacinto Scoles,0,contested,science,STEM.STEM*,en,0.0,0.027,21,5,67,6653,0.033,0,199,11,2738,,0.0,1.1105
+Pluto in fiction,1,stable,science,STEM.Space,en,0.0,0.0606,73,8,210,6789,0.0,0,2010,22,2315,,0.0,4.3042
+Ellsworth Culver,0,contested,culture,Culture.Biography.Biography*,en,1.2903,0.0,7,8,96,7183,0.007,0,362,10,1888,,0.0,1.2903
+Automatic scorer,1,stable,culture,Culture.Biography.Biography*,en,0.0,0.0789,42,4,51,6895,0.007,0,1319,17,1923,,0.0,1.3717
+Naromurar,0,contested,geography,Geography.Regions.Asia.South_Asia,en,0.0,0.128,21,36,47,3792,0.015,0,119,4,4242,,0.0,1.1344
+Al-Rahba,1,stable,geography,Geography.Regions.Asia.West_Asia,en,0.0,0.0513,189,19,45,3644,0.009,0,56,11,4939,,0.0,2.2459
+John P. Angelos,0,contested,culture,Culture.Sports,en,1.1969,0.058,72,10,162,7270,0.003,0,443,16,3056,,0.0,2.9922
+Shmap'n Shmazz,1,stable,culture,Culture.Media.Music,en,0.9671,0.0341,1,11,85,7341,0.012,0,450,17,2772,,0.0,4.8356
+Border security in the United States,0,contested,politics_history,History_and_Society.Politics_and_government,en,0.0,0.0299,31,13,82,6373,0.034,0,782,19,3040,,0.0,1.4631
+Case of the Hooded Man,1,stable,politics_history,History_and_Society.Politics_and_government,en,0.9141,0.0172,58,6,43,6241,0.0,0,560,14,2793,,0.0,1.8282
+Narendra Mehta,0,contested,culture,Culture.Biography.Biography*,en,3.125,0.0377,31,13,80,3668,0.091,0,40,8,1616,,1.0417,0.0
+The Art Teacher,1,stable,culture,Culture.Media.Media*,en,0.0,0.0,47,5,28,3368,0.0,0,108,10,1789,,0.0,0.0
+Workers World Party,0,contested,politics_history,History_and_Society.Politics_and_government,en,1.1099,0.0208,33,16,251,5826,0.022,0,3743,32,2876,,0.0,2.2198
+Francis Pegahmagabow,1,stable,politics_history,History_and_Society.Military_and_warfare,en,1.0593,0.0769,53,11,252,5784,0.05,0,2489,29,3136,,0.0,2.1186
+Islamic Association of Palestine,0,contested,politics_history,History_and_Society.Politics_and_government,en,1.6949,0.069,42,6,122,8472,0.044,0,933,23,1810,,0.0,0.0
+The Great Artiste,1,stable,politics_history,History_and_Society.Military_and_warfare,en,0.0,0.0,4,7,111,8298,0.012,0,687,20,1738,,0.0,0.9843
+David Ivon Jones,0,contested,culture,Culture.Biography.Biography*,en,0.0,0.0208,119,17,34,1848,0.032,0,996,11,4393,,0.0,0.0
+Welsh Corgi,1,stable,science,STEM.Biology,en,0.8969,0.0476,53,13,286,2352,0.05,1,6001,28,4165,,0.0,1.3453
+Cyberpsychology,0,contested,science,STEM.STEM*,en,0.0,0.0984,87,16,218,7385,0.034,0,1447,27,4500,,0.0,3.6134
+Antofalla,1,stable,science,STEM.STEM*,en,0.0,0.1429,72,14,95,7786,0.016,0,26,18,4126,,0.0,3.0303
+British Hit Singles & Albums,0,contested,culture,Culture.Media.Media*,en,0.4589,0.0305,4,10,137,7952,0.008,0,543,16,2918,,0.0,4.1303
+Hasil Adkins,1,stable,culture,Culture.Media.Media*,en,2.6619,0.0385,117,8,239,7919,0.002,0,475,21,3028,,0.0,0.8873
+St. Joseph's Indian School,0,contested,politics_history,History_and_Society.Education,en,0.5666,0.0444,77,14,91,4894,0.011,1,5341,11,4600,,0.0,2.2663
+12th (Eastern) Infantry Division,1,stable,politics_history,History_and_Society.Military_and_warfare,en,0.0,0.0057,1,12,26,4965,0.0,0,185,21,4952,,0.0,2.031
+Sex symbol,0,contested,culture,Culture.Media.Media*,en,0.0,0.1522,67,8,131,3713,0.048,1,3423,30,2200,,0.0,1.1013
+I Am Tour (Leona Lewis),1,stable,culture,Culture.Biography.Biography*,en,0.0,0.0185,22,5,38,3885,0.0,0,117,10,2332,,0.0,0.6998
+William Henry Dietz,0,contested,culture,Culture.Sports,en,2.0367,0.0204,13,14,142,7260,0.005,0,263,31,3011,,0.0,1.0183
+Harald Maddadsson,1,stable,culture,Culture.Biography.Biography*,en,2.4839,0.0,29,8,66,7289,0.008,0,740,25,2589,,0.0,3.4774
+Mathematics in the medieval Islamic world,0,contested,science,STEM.STEM*,en,0.0,0.0286,44,18,251,4514,0.028,0,8113,6,5374,,0.0,2.5632
+Damselfly,1,stable,science,STEM.STEM*,en,0.0,0.1,92,14,152,4077,0.004,0,420,29,6428,,0.0,1.7787
+Tania Tetlow,0,contested,culture,Culture.Biography.Biography*,en,2.7051,0.0755,31,8,68,2773,0.04,0,110,15,1977,,0.0,0.9017
+Mud Blood,1,stable,culture,Culture.Media.Media*,en,0.0,0.0968,59,9,21,2799,0.0,0,34,4,1838,,0.0,1.3908
+KTM 950 Super Enduro R,0,contested,culture,Culture.Sports,en,0.6631,0.0759,4,9,38,3425,0.062,0,64,3,1806,,0.0,5.9682
+Phyllis Lightbourn-Jones,1,stable,culture,Culture.Sports,en,0.0,0.0238,30,5,20,3250,0.075,0,198,8,1537,,0.0,0.0
+Non-heterosexual,0,contested,politics_history,History_and_Society.Society,en,0.8993,0.2222,51,5,179,8065,0.036,0,2754,25,2914,,0.0,2.6978
+Marcus Calpurnius Bibulus,1,stable,politics_history,History_and_Society.History,en,1.1876,0.0179,24,10,151,8102,0.063,1,1663,24,3137,,0.0,3.5629
+2023 cybercrime law in Jordan,0,contested,culture,Culture.Biography.Biography*,en,0.0,0.0161,75,8,21,808,0.014,0,101,1,3222,,0.0,0.0
+Fun Lounge police raid,1,stable,politics_history,History_and_Society.Society,en,0.0,0.0288,0,11,19,1490,0.028,0,362,10,3105,,0.0,0.7383
+Harold M. Jacobs,0,contested,culture,Culture.Philosophy_and_religion,en,0.0,0.0,25,14,26,4140,0.013,0,65,5,2844,,0.0,2.5
+Didi Tera Devar Deewana,1,stable,culture,Culture.Media.Media*,en,0.0,0.0286,39,7,67,4280,0.021,0,55,12,2405,,0.0,0.8078
+Superstition in Islamic tradition,0,contested,culture,Culture.Philosophy_and_religion,en,2.3566,0.1031,82,20,78,2094,0.017,0,2086,17,4736,,0.0,5.4988
+Graham Chapman,1,stable,culture,Culture.Media.Media*,en,0.3085,0.0135,36,16,226,2187,0.08,0,1770,19,5311,,0.0,0.9256
+Paul R. Ehrlich,0,contested,culture,Culture.Biography.Biography*,en,0.9194,0.0325,113,24,198,2830,0.174,0,5091,12,6846,,0.0,2.7582
+Praying (song),1,stable,culture,Culture.Media.Media*,en,0.0,0.0161,151,18,189,3113,0.024,0,38,13,6575,,0.0,0.7896
+Rachelle Henry,0,contested,culture,Culture.Media.Media*,en,0.9699,0.0323,55,9,55,3256,0.0,0,20,8,2080,,0.0,0.0
+Gutta Percha Company,1,stable,science,STEM.STEM*,en,0.0,0.0211,33,7,21,2660,0.0,0,272,11,1942,,0.0,3.5232
+Mary Eberstadt,0,contested,culture,Culture.Biography.Biography*,en,0.4701,0.0495,52,16,113,5895,0.035,4,677,16,3368,,0.0,1.8806
+Pierre Guillemin,1,stable,culture,Culture.Sports,en,0.0,0.0119,53,12,44,5955,0.028,0,195,13,3094,,0.0,3.0303
+Wyoming Senate Files 12 and 80 2015 'Trespassing To Collect Data',0,contested,politics_history,History_and_Society.Politics_and_government,en,5.0336,0.0323,49,8,18,3769,0.0,0,94,4,2122,,0.0,3.3557
+Boris Snetkov,1,stable,politics_history,History_and_Society.Military_and_warfare,en,0.0,0.0,24,8,30,3289,0.01,0,19,8,2391,,0.0,0.6146
+Patricia Cardoso,0,contested,culture,Culture.Media.Films,en,0.6878,0.0392,32,11,89,6863,0.021,0,252,11,2167,,0.0,1.3755
+Maverick (roller coaster),1,stable,culture,Culture.Media.Entertainment,en,0.0,0.0213,43,10,219,6817,0.008,0,743,24,2049,,0.0,2.1299
+Beating heart cadaver,0,contested,science,STEM.STEM*,en,3.2328,0.1026,55,10,89,5903,0.005,0,2258,17,2737,,0.0,5.3879
+Soroavisaurus,1,stable,science,STEM.STEM*,en,0.6575,0.1356,31,6,32,5860,0.333,0,15,7,2723,,0.0,0.0
+Contempt of parliament,0,contested,politics_history,History_and_Society.Politics_and_government,en,1.7534,0.0847,67,12,168,7104,0.0,3,1491,20,4504,,0.0,1.1689
+Battle of Ong Thanh,1,stable,politics_history,History_and_Society.Military_and_warfare,en,0.0,0.0,49,7,146,7196,0.013,0,880,19,4277,,0.0,1.9084
+Critical incident stress management,0,contested,science,STEM.Medicine_&_Health,en,0.8143,0.1321,48,9,112,7281,0.004,1,2906,23,2858,,0.0,0.8143
+Slimonia,1,stable,science,STEM.STEM*,en,0.5889,0.0588,39,7,66,6961,0.013,0,693,12,3137,,0.0,1.7668
+Thomas Crowther (ecologist),0,contested,science,STEM.STEM*,en,0.0,0.082,73,6,112,2749,0.083,1,1312,16,2435,,0.0,1.7079
+Rice-fish system,1,stable,science,STEM.Earth_and_environment,en,0.0,0.0286,54,14,53,2698,0.055,0,217,8,2449,,0.0,8.547
+Andhra Medical College,0,contested,science,STEM.Medicine_&_Health,en,0.0,0.0597,8,12,183,7039,0.002,0,167,12,2504,,0.0,0.0
+Breaker boy,1,stable,science,STEM.STEM*,en,0.0,0.0,76,6,115,6952,0.01,1,203,17,2014,,0.0,1.8248
+Divergent thinking,0,contested,science,STEM.STEM*,en,0.0,0.075,21,11,145,6944,0.064,1,345,26,1540,,0.0,2.4661
+Giant root-rat,1,stable,science,STEM.STEM*,en,0.0,0.0909,34,8,80,6850,0.312,1,541,18,1755,,0.0,2.9542
+Everpure,0,contested,politics_history,History_and_Society.Business_and_economics,en,1.0776,0.02,58,6,121,5503,0.057,0,4762,15,2391,,0.0,0.0
+SMS Budapest,1,stable,politics_history,History_and_Society.Military_and_warfare,en,0.0,0.0,0,10,35,5681,0.009,0,83,13,2355,,0.0,0.0
+Global citizenship education,0,contested,politics_history,History_and_Society.Society,en,0.4398,0.0315,56,22,82,4271,0.008,0,160,10,4801,,0.4398,0.0
+Invasion of Darfur (1916),1,stable,politics_history,History_and_Society.Military_and_warfare,en,1.0145,0.0076,5,15,82,4615,0.086,0,191,12,4192,,0.0,0.3382
+Bullying in nursing,0,contested,politics_history,History_and_Society.Business_and_economics,en,0.0,0.1042,42,14,87,5614,0.0,0,2008,26,2904,,0.0,3.9409
+German destroyer Z15 Erich Steinbrinck,1,stable,politics_history,History_and_Society.Military_and_warfare,en,0.8313,0.0,36,10,38,5508,0.01,0,164,10,3037,,0.0,0.8313
+Trade Unionist and Socialist Coalition,0,contested,politics_history,History_and_Society.Politics_and_government,en,2.3866,0.0455,69,17,196,4020,0.016,4,1612,29,3676,,0.0,0.5967
+Battle of Madang,1,stable,geography,Geography.Regions.Oceania,en,0.0,0.0263,10,6,28,3745,0.0,0,181,8,3042,,0.0,0.0
+New Jersey State Police,0,contested,politics_history,History_and_Society.Politics_and_government,en,1.5763,0.0451,55,26,230,5505,0.03,0,1381,18,4865,,0.0,0.9458
+Glasser v. United States,1,stable,politics_history,History_and_Society.Politics_and_government,en,0.0,0.031,130,21,34,5187,0.016,0,79,14,4850,,0.0,3.8429
+Electoral reform in the United States,0,contested,politics_history,History_and_Society.Politics_and_government,en,0.0,0.0414,62,19,178,6780,0.022,1,4097,23,4517,,0.0,1.6062
+Colin Falkland Gray,1,stable,politics_history,History_and_Society.Military_and_warfare,en,0.0,0.0072,25,11,75,6840,0.009,0,25,17,4547,,0.0,0.4032
+Calcium pyrophosphate dihydrate crystal deposition disease,0,contested,science,STEM.STEM*,en,0.0,0.0909,48,8,178,7568,0.003,0,787,19,2020,,0.0,3.4014
+1852 Atlantic hurricane season,1,stable,science,STEM.Earth_and_environment,en,0.0,0.0625,35,11,70,7625,0.015,0,297,12,2101,,0.0,4.8232
+Group psychotherapy,0,contested,science,STEM.Medicine_&_Health,en,0.4748,0.1364,44,8,191,8794,0.019,0,1110,19,3961,,0.0,1.4245
+Salyut 6,1,stable,science,STEM.Space,en,0.0,0.0,10,10,150,8358,0.024,1,283,17,4194,,0.0,0.0
+National Security Study Memorandum 200,0,contested,politics_history,History_and_Society.Politics_and_government,en,0.0,0.1053,15,8,105,7856,0.021,0,752,15,2229,,0.0,3.4247
+Warrior-class ironclad,1,stable,politics_history,History_and_Society.Transportation,en,0.0,0.0149,36,10,60,7910,0.031,0,98,12,2252,,0.0,2.331
+AAC-1937,0,contested,politics_history,History_and_Society.Military_and_warfare,en,0.0,0.0455,8,10,37,3195,0.0,0,11,5,1534,,0.0,1.8587
+Typhoon Holly (1984),1,stable,science,STEM.Earth_and_environment,en,0.0,0.0222,35,5,25,2869,0.0,0,16,9,1799,,0.0,8.0092
+Civilian casualty ratio,0,contested,politics_history,History_and_Society.Military_and_warfare,en,1.8235,0.0122,154,31,247,4337,0.07,0,2216,26,6356,,0.0,2.9176
+Arjan Singh,1,stable,geography,Geography.Regions.Asia.South_Asia,en,0.0,0.0186,86,19,229,3638,0.01,3,260,28,6040,,0.0,0.6092
+Manus O'Cahan's Regiment,0,contested,politics_history,History_and_Society.Military_and_warfare,en,0.6307,0.0113,4,11,85,7055,0.0,0,882,23,3620,,0.0,0.0
+Nostrand Avenue station (IND Fulton Street Line),1,stable,politics_history,History_and_Society.Transportation,en,0.0,0.0211,68,8,129,7263,0.017,0,239,13,3761,,0.0,3.9084
+J. G. Jolly,0,contested,science,STEM.Medicine_&_Health,en,0.0,0.0303,35,3,43,5331,0.018,0,125,7,2063,,0.0,2.9895
+Saproamanita thiersii,1,stable,science,STEM.STEM*,en,0.0,0.2727,62,9,67,5627,0.0,1,733,18,1748,,0.0,0.0
+TASCAM,0,contested,politics_history,History_and_Society.Business_and_economics,en,0.0,0.0179,71,11,142,7614,0.032,0,521,13,2400,,0.0,0.6658
+Ioveta,1,stable,politics_history,History_and_Society.History,en,0.0,0.0119,0,10,55,7685,0.0,0,179,18,2138,,0.0,2.6069
+Nikolai Kuznetsov (admiral),0,contested,politics_history,History_and_Society.Military_and_warfare,en,0.0,0.0,5,10,259,8831,0.02,0,610,32,2099,,0.0,0.576
+HMS Hesperus,1,stable,politics_history,History_and_Society.Military_and_warfare,en,0.0,0.0,40,5,68,8108,0.022,0,257,14,2206,,0.0,0.0
+Respectability politics,0,contested,politics_history,History_and_Society.Society,en,0.8543,0.0874,66,18,156,4267,0.033,0,1176,28,4454,,0.0,2.1358
+Twelfth siege of Gibraltar,1,stable,politics_history,History_and_Society.Military_and_warfare,en,0.425,0.0241,58,7,49,4809,0.033,0,158,12,4979,,0.0,0.85
+Kemalism,0,contested,politics_history,History_and_Society.Politics_and_government,en,0.8126,0.106,75,23,203,1746,0.014,0,10922,23,6879,,0.0,1.896
+Pamela Stephenson,1,stable,culture,Culture.Media.Media*,en,0.0,0.049,155,12,162,2417,0.014,0,892,35,6125,,0.0,1.19
+Battle of Yultong,0,contested,politics_history,History_and_Society.Military_and_warfare,en,0.7819,0.0161,15,6,242,3294,0.058,2,95,21,2173,,0.0,2.3456
+Medo-Babylonian conquest of the Assyrian Empire,1,stable,politics_history,History_and_Society.Military_and_warfare,en,0.0,0.0149,1,9,74,3157,0.016,0,109,13,2507,,0.0,1.4627
+Medical–industrial complex,0,contested,science,STEM.Medicine_&_Health,en,1.0599,0.0617,168,23,64,4005,0.019,0,2102,21,6114,,0.0,3.1797
+Windows Server 2012,1,stable,science,STEM.STEM*,en,0.834,0.0317,94,22,233,3743,0.02,1,4491,26,6314,,0.0,0.0
+Trauma model of mental disorders,0,contested,science,STEM.Medicine_&_Health,en,0.0,0.0411,28,6,110,7312,0.011,0,1927,23,2137,,0.0,1.4524
+French cruiser Pluton,1,stable,politics_history,History_and_Society.Transportation,en,0.0,0.0,23,8,66,6950,0.013,0,347,17,2065,,0.0,0.7616
+Special-purpose acquisition company,0,contested,politics_history,History_and_Society.Business_and_economics,en,0.5848,0.0349,44,15,224,6729,0.008,1,1867,17,3240,,0.0,3.5088
+Murder of Russel Timoshenko,1,stable,politics_history,History_and_Society.Politics_and_government,en,0.793,0.0,115,14,112,6734,0.011,1,838,19,3735,,0.0,4.7581
+"Life Partners, Inc.",0,contested,politics_history,History_and_Society.Business_and_economics,en,1.6667,0.0485,26,11,74,7377,0.017,0,584,12,2527,,0.0,1.6667
+German cruiser Königsberg,1,stable,politics_history,History_and_Society.Military_and_warfare,en,0.0,0.0,0,9,103,7426,0.007,0,85,20,2341,,0.0,1.4458
+Commons-based peer production,0,contested,politics_history,History_and_Society.Politics_and_government,en,2.3943,0.1346,39,9,240,7701,0.002,2,1455,33,2994,,0.7981,4.7885
+Public Storage,1,stable,politics_history,History_and_Society.Business_and_economics,en,2.5349,0.093,89,11,191,7583,0.04,0,1133,25,2942,,0.0,1.2674
+New Right (South Korea),0,contested,politics_history,History_and_Society.Politics_and_government,en,0.8945,0.1778,38,12,49,5276,0.026,0,263,8,2313,,0.0,7.1556
+Fair dealing in United Kingdom law,1,stable,politics_history,History_and_Society.Politics_and_government,en,0.0,0.1053,36,10,34,5370,0.011,0,423,11,2722,,0.0,2.2198
+Indigenous decolonization,0,contested,politics_history,History_and_Society.Society,en,0.0,0.0833,60,15,79,7111,0.007,0,1006,32,3191,,0.0,1.9724
+Clarence Ransom Edwards,1,stable,politics_history,History_and_Society.Military_and_warfare,en,1.6681,0.0455,34,14,96,7142,0.004,0,345,23,2931,,0.0,0.834
+Outpatient commitment,0,contested,science,STEM.Medicine_&_Health,en,0.9349,0.0314,79,33,132,8836,0.021,0,2463,23,5929,,0.0,1.5581
+Battle of the Eurymedon,1,stable,politics_history,History_and_Society.History,en,0.8035,0.0172,119,14,142,8185,0.0,1,337,30,4830,,0.0,4.8212
+The Genetic Lottery,0,contested,science,STEM.STEM*,en,2.7076,0.1081,16,3,17,1392,0.05,0,82,4,1697,,0.0,0.9025
+1909 Benavente earthquake,1,stable,science,STEM.Earth_and_environment,en,0.0,0.0,30,6,17,1646,0.025,0,170,4,1538,,0.0,0.0
+Equine-assisted therapy,0,contested,science,STEM.Biology,en,0.7092,0.0678,75,12,142,6930,0.023,0,1549,19,4227,,0.0,3.5461
+Fermium,1,stable,science,STEM.STEM*,en,0.0,0.0649,59,13,253,6733,0.014,0,743,18,4054,,0.0,6.4635
+CRDF Global,0,contested,science,STEM.STEM*,en,0.0,0.0102,22,11,59,7631,0.0,0,11,5,1913,,0.0,1.3841
+Cylindropuntia imbricata,1,stable,science,STEM.Biology,en,0.0,0.1034,29,7,97,7588,0.006,0,800,16,1559,,0.0,3.8023
+ILA Berlin Air Show,0,contested,science,STEM.STEM*,en,0.6761,0.0149,6,12,111,7385,0.016,0,489,14,1899,,0.0,0.6761
+Hogg Rock,1,stable,geography,Geography.Regions.Americas.North_America,en,1.5279,0.1,17,8,49,7003,0.0,0,17,15,2252,,0.0,0.7639
+Problematic social media use,0,contested,science,STEM.Medicine_&_Health,en,0.0,0.0538,99,20,232,1914,0.056,4,1695,24,5224,,0.0,3.003
+Fredrik Elfving,1,stable,science,STEM.STEM*,en,0.0,0.0,70,14,21,2062,0.023,0,20,5,4589,,0.0,0.0
+Patrick Matthew,0,contested,science,STEM.STEM*,en,1.1186,0.0135,56,16,139,5342,0.008,6,7123,14,7309,,0.0,2.5168
+1989 Pacific hurricane season,1,stable,science,STEM.Earth_and_environment,en,0.0,0.0051,149,32,123,5845,0.03,0,3035,19,7498,,0.0,5.0267
+Somatic psychology,0,contested,science,STEM.STEM*,en,0.0,0.0732,31,9,150,7184,0.003,0,2437,28,1759,,0.0,6.8182
+Azure-hooded jay,1,stable,science,STEM.Biology,en,0.0,0.1143,51,11,58,6855,0.0,0,78,10,1795,,0.0,2.0964
+Paul Sereno,0,contested,science,STEM.STEM*,en,0.0,0.0392,20,8,158,7562,0.069,0,601,17,1690,,0.0,0.9814
+Pennsylvania Route 97 (Adams County),1,stable,geography,Geography.Regions.Americas.North_America,en,0.0,0.0,62,6,35,7151,0.011,1,408,16,1875,,0.0,0.0
+Barnard's test,0,contested,science,STEM.Mathematics,en,0.0,0.1111,12,6,67,6189,0.008,0,2812,15,1752,,0.0,5.176
+Tropical Storm Soudelor (2009),1,stable,science,STEM.Earth_and_environment,en,0.0,0.0149,40,9,54,6157,0.027,0,851,18,1842,,0.0,1.004
+Lynne McTaggart,0,contested,science,STEM.STEM*,en,1.0753,0.1143,25,6,180,7392,0.002,0,1072,20,1747,,0.0,0.0
+Gants Hill tube station,1,stable,politics_history,History_and_Society.Transportation,en,0.0,0.1143,30,10,140,7841,0.009,0,766,19,1795,,0.0,0.0
+Extractivism,0,contested,science,STEM.Earth_and_environment,en,2.046,0.0938,155,25,94,3384,0.081,0,2142,18,5656,,0.0,10.7417
+Black-footed cat,1,stable,science,STEM.Biology,en,0.0,0.0303,98,14,163,3466,0.022,4,1113,34,4726,,0.0,2.3456
+NYU Langone Health,0,contested,science,STEM.STEM*,en,0.0,0.1008,187,28,191,4840,0.046,0,70,6,6709,,0.0,1.0586
+History of numerical weather prediction,1,stable,science,STEM.STEM*,en,0.0,0.0915,106,13,75,5553,0.009,0,1118,10,5932,,0.0,5.9022
+Pathological demand avoidance,0,contested,science,STEM.Medicine_&_Health,en,0.0,0.0851,54,12,179,5203,0.02,0,4797,17,2654,,0.0,0.0
+Ecnomiohyla rabborum,1,stable,science,STEM.STEM*,en,0.0,0.0253,52,8,107,5187,0.1,0,706,17,2948,,0.0,3.2362
+Digital Research,0,contested,science,STEM.Computing,en,1.3441,0.0222,66,14,188,8626,0.011,0,1447,9,2569,,0.0,0.0
+USS Rhode Island (BB-17),1,stable,politics_history,History_and_Society.Transportation,en,0.0,0.0,1,10,86,8450,0.01,0,50,13,2582,,0.0,0.4494
+Improving Access to Psychological Therapies,0,contested,science,STEM.Medicine_&_Health,en,2.9326,0.0282,32,8,67,6214,0.014,0,398,12,2594,,0.0,1.173
+Meteorological history of Hurricane Georges,1,stable,science,STEM.Earth_and_environment,en,0.0,0.0,63,7,29,6191,0.01,0,348,12,2534,,0.0,2.0202
+Szondi test,0,contested,science,STEM.STEM*,en,0.3738,0.0542,101,29,127,7241,0.007,0,1587,8,5193,,0.0,1.1215
+Phil Edwards (footballer),1,stable,culture,Culture.Sports,en,0.0,0.0,143,16,111,6633,0.006,0,270,14,4986,,0.0,2.8429
+Craigslist,0,contested,science,STEM.STEM*,en,1.2646,0.0186,113,22,313,2497,0.054,13,45,31,5973,,0.0,1.5808
+Friedreich's ataxia,1,stable,science,STEM.STEM*,en,0.0,0.1667,106,26,109,2699,0.012,1,1631,29,5613,,0.0,3.9548
+Criminal spin,0,contested,science,STEM.Medicine_&_Health,en,0.0,0.1039,11,13,24,3590,0.012,0,110,6,1736,,0.0,5.0615
+Typhoon Zola,1,stable,science,STEM.Earth_and_environment,en,0.0,0.0122,55,6,27,3231,0.015,0,62,10,1854,,0.0,2.1529
+Opel-RAK,0,contested,science,STEM.STEM*,en,0.0,0.0172,37,7,72,6300,0.005,0,823,11,3644,,0.0,2.8606
+Kanzi,1,stable,science,STEM.Biology,en,0.7927,0.0081,46,11,299,6354,0.148,0,6143,31,3831,,0.0,1.5854
+Decltype,1,stable,science,STEM.Computing,en,0.0,0.0909,68,5,51,6085,0.038,0,527,19,1829,,0.0,0.0
+Norfolk Spaniel,1,stable,science,STEM.Biology,en,0.0,0.1379,34,4,46,6941,0.0,0,24,9,1532,,0.0,1.1074
+Zigrasimecia,1,stable,science,STEM.STEM*,en,0.0,0.0317,36,8,40,4583,0.071,0,617,14,3731,,0.0,6.856
+Hurricane Easy (1950),1,stable,science,STEM.Earth_and_environment,en,0.0,0.0465,27,5,68,7547,0.022,0,1046,25,1525,,0.0,3.8265
+The Two Mrs. Nahasapeemapetilons,1,stable,culture,Culture.Media.Television,en,0.0,0.0238,28,6,271,7943,0.007,3,2124,28,1772,,0.0,0.0
+Amy Gardner,1,stable,culture,Culture.Media.Television,en,0.0,0.0333,15,5,110,7774,0.012,1,245,16,1650,,0.0,2.8169
+Echiura,1,stable,science,STEM.STEM*,en,0.0,0.025,54,9,162,8823,0.004,0,129,12,2994,,0.0,1.3831
+Catalytic triad,1,stable,science,STEM.STEM*,en,0.0,0.0755,128,28,119,7556,0.002,0,2178,13,5994,,0.0,4.1475
