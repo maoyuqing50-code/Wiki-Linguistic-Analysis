@@ -1,0 +1,167 @@
+================================================================================
+German Dataset Validation Report
+================================================================================
+Features file: /Users/snezihoglu/Wiki-Trends-Analysis/data/processed/final_features_de.csv
+Pairs file   : /Users/snezihoglu/Wiki-Trends-Analysis/data/processed/final_pairs_de.csv
+Raw articles : 396
+
+================================================================================
+Descriptive Statistics
+================================================================================
+Feature matrix shape: (396, 12)
+Pairs matrix shape  : (175, 9)
+
+Label counts:
+label
+1    200
+0    196
+
+Topic counts by label:
+label              0   1
+topic                   
+culture           50  50
+geography         50  58
+politics_history  50  29
+science           46  63
+
+Feature numeric summary:
+         word_count     age_days  hedging_density  weasel_density   def_ratio        mtld
+count    396.000000   396.000000       396.000000      396.000000  396.000000  396.000000
+mean    4525.967172  5959.234848         0.848190        2.929131    0.049097  130.390531
+std     3109.796034  1956.811222         1.209031        2.130443    0.038873   41.244719
+min     1502.000000   519.000000         0.000000        0.000000    0.000000   23.584800
+25%     2504.750000  5059.250000         0.000000        1.438350    0.021950  104.527125
+50%     3837.000000  6601.000000         0.421200        2.373550    0.038850  128.729300
+75%     5605.250000  7378.750000         1.200050        3.836775    0.066475  155.563625
+max    27146.000000  8482.000000         8.844300       12.165500    0.222200  391.367800
+
+Pair-difference numeric summary:
+       word_count_diff  age_days_diff   mtld_diff
+count       175.000000     175.000000  175.000000
+mean       2135.228571    1521.577143   27.892616
+std        2879.423207    1558.656496   27.022619
+min          14.000000      17.000000    0.079600
+25%         517.000000     402.500000    9.157300
+50%        1326.000000    1008.000000   21.840200
+75%        2509.500000    2077.000000   37.760900
+max       19482.000000    7210.000000  201.277600
+
+================================================================================
+Balance Checks
+================================================================================
+Contested articles: 196
+Stable articles   : 200
+Label ratio C/S   : 0.980
+
+Topic balance by label:
+label               0    1  All
+topic                          
+culture            50   50  100
+geography          50   58  108
+politics_history   50   29   79
+science            46   63  109
+All               196  200  396
+
+Matched pair topic distribution:
+topic
+culture             50
+geography           50
+politics_history    29
+science             46
+
+================================================================================
+Random Matched Pair Sample
+================================================================================
+                                             contested_title                   stable_title            topic                          contested_subtopic                          stable_subtopic  exact_subtopic_match
+                                                 EEW Holding                   Velociraptor          science                                  STEM.STEM*                               STEM.STEM*                  True
+                                                      T-Labs   Schwach koordinierende Ionen          science                                  STEM.STEM*                               STEM.STEM*                  True
+Chronik des Kriegs in Israel und Gaza, Februar und März 2024  Geschichte von Höchst am Main        geography            Geography.Regions.Asia.West_Asia  Geography.Regions.Europe.Western_Europe                 False
+                                            Linksextremismus            Schlacht bei Minden politics_history History_and_Society.Politics_and_government History_and_Society.Military_and_warfare                 False
+                                                Neoarchaikum                 Unzen (Vulkan)          science                  STEM.Earth_and_environment               STEM.Earth_and_environment                  True
+                                                      Zettle      Bahnbetriebswerk Lüneburg politics_history  History_and_Society.Business_and_economics       History_and_Society.Transportation                 False
+                                  SpVgg Grün-Weiß Deggendorf                     Ryan Ellis          culture                              Culture.Sports                           Culture.Sports                  True
+                                           Deutschenschwemme Bahnstrecke Halle–Hann. Münden        geography     Geography.Regions.Europe.Western_Europe  Geography.Regions.Europe.Western_Europe                  True
+     Chronik des Kriegs in Nahost, August und September 2024             LGV Est européenne        geography            Geography.Regions.Asia.West_Asia  Geography.Regions.Europe.Western_Europe                 False
+                                           Frauen im Militär                 Spezialeinheit politics_history    History_and_Society.Military_and_warfare History_and_Society.Military_and_warfare                  True
+
+================================================================================
+SUSPICIOUS: duplicate feature titles
+================================================================================
+None
+
+================================================================================
+SUSPICIOUS: duplicate contested pairs
+================================================================================
+None
+
+================================================================================
+SUSPICIOUS: duplicate stable pairs
+================================================================================
+None
+
+================================================================================
+Missing Values
+================================================================================
+Feature missing values:
+title              0
+label              0
+label_name         0
+topic              0
+topic_specific     0
+lang               0
+hedging_density    0
+weasel_density     0
+def_ratio          0
+mtld               0
+word_count         0
+age_days           0
+
+Pair missing values:
+contested_title         0
+stable_title            0
+topic                   0
+contested_subtopic      0
+stable_subtopic         0
+word_count_diff         0
+age_days_diff           0
+mtld_diff               0
+exact_subtopic_match    0
+
+================================================================================
+SUSPICIOUS: empty or near-empty texts
+================================================================================
+None
+
+================================================================================
+SUSPICIOUS: extremely short or long articles
+================================================================================
+None
+
+================================================================================
+SUSPICIOUS: articles missing raw text lookup
+================================================================================
+None
+
+================================================================================
+SUSPICIOUS: articles with non-German or uncertain dominant text
+================================================================================
+None
+
+================================================================================
+SUSPICIOUS: suspicious topic mismatches
+================================================================================
+None
+
+================================================================================
+Unmatched Topic Diagnostics
+================================================================================
+           topic  contested_total  stable_total  matched_contested  unused_stable  unmatched_contested
+         culture               50            50                 50              0                    0
+       geography               50            58                 50              8                    0
+politics_history               50            29                 29              0                   21
+         science               46            63                 46             17                    0
+
+================================================================================
+SUSPICIOUS: stable articles containing dispute templates
+================================================================================
+None
