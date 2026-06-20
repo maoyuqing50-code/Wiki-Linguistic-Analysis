@@ -1,0 +1,19 @@
+model,feature,feature_label,coefficient,abs_coefficient
+Original common sample,f4_current_ratio_min3,F4 original,-0.4876631031083673,0.4876631031083673
+Original common sample,f1_original_recomputed,F1 original,0.31292463536672116,0.31292463536672116
+Original common sample,f3_original_recomputed,F3 original,-0.3084379343852374,0.3084379343852374
+Original common sample,f6_contrastive_recomputed,F6 original recomputed,0.26993347957267233,0.26993347957267233
+Original common sample,topic_politics_history,topic_politics_history,-0.26749634706616143,0.26749634706616143
+Original common sample,topic_science,topic_science,-0.24904041016954648,0.24904041016954648
+Original common sample,f5_original_reproduced,F5 original,0.2244640265434153,0.2244640265434153
+Original common sample,topic_geography,topic_geography,-0.20370486770708246,0.20370486770708246
+Original common sample,f7_mtld_recomputed,F7 original recomputed,-0.054204215525733096,0.054204215525733096
+Improved common sample,f4_expanded_smoothed_ratio,F4 expanded smoothed ratio,-0.507573581574348,0.507573581574348
+Improved common sample,f1_original_recomputed,F1 original,0.3428740006812027,0.3428740006812027
+Improved common sample,topic_geography,topic_geography,-0.30534018434452415,0.30534018434452415
+Improved common sample,f6_contrastive_recomputed,F6 original recomputed,0.28470630080732995,0.28470630080732995
+Improved common sample,f3_no_generic_quantifiers,F3 no generic quantifiers,-0.2602707529857371,0.2602707529857371
+Improved common sample,topic_science,topic_science,-0.2577352251854475,0.2577352251854475
+Improved common sample,f5_revised,F5 revised robustness,0.24745670060863256,0.24745670060863256
+Improved common sample,topic_politics_history,topic_politics_history,-0.22275977430562555,0.22275977430562555
+Improved common sample,f7_mtld_recomputed,F7 original recomputed,-0.04718417416521855,0.04718417416521855

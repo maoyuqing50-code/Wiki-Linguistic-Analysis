@@ -1,0 +1,285 @@
+title,label,label_name,topic,word_count,age_days,n_classifiable_sentences,f5_original_reproduced,f5_original_biased_mean,f5_original_neutral_mean,f5_revised,f5_revised_biased_mean,f5_revised_neutral_mean,f5_revised_margin_mean
+Evolutionärer Humanismus,0,contested,culture,4220,6283,112,0.9464,0.8699,0.1301,0.7054,0.7509,0.2491,0.5018
+Ästhetische Theorie,1,stable,culture,3826,6252,82,0.9756,0.8849,0.1151,0.6098,0.7696,0.2304,0.5391
+Franz Eibel,0,contested,geography,2499,5239,38,1.0,0.9488,0.0512,0.9474,0.8426,0.1574,0.6853
+Wieladingen (Adelsgeschlecht),1,stable,geography,2128,5380,62,1.0,0.9607,0.0393,0.9516,0.8357,0.1643,0.6714
+Fluglärm,0,contested,science,8782,4818,280,1.0,0.9437,0.0563,0.9643,0.8508,0.1492,0.7015
+Spezielle Relativitätstheorie,1,stable,science,7138,4911,231,0.9784,0.9147,0.0853,0.7273,0.7717,0.2283,0.5435
+Armenisch-iranische Beziehungen,0,contested,geography,1595,2922,30,1.0,0.9126,0.0874,0.9,0.8464,0.1536,0.6929
+Absturz einer MiG-21 in Cottbus 1975,1,stable,geography,1838,2960,30,1.0,0.9425,0.0575,0.9667,0.8407,0.1593,0.6814
+Geschichte der Volksrepublik China,0,contested,geography,9016,4514,238,1.0,0.9341,0.0659,0.9832,0.8632,0.1368,0.7265
+Neukirchen (Gemeinde Altmünster),1,stable,geography,7451,4920,242,1.0,0.9511,0.0489,0.9421,0.8399,0.1601,0.6798
+Karl Haushofer,0,contested,culture,4928,7382,166,0.994,0.9421,0.0579,0.9096,0.8365,0.1635,0.673
+Jüdisches Museum Westfalen,1,stable,culture,4843,7377,110,1.0,0.9374,0.0626,0.9545,0.8508,0.1492,0.7015
+Mobile Jugendarbeit,0,contested,politics_history,3140,6853,76,0.9868,0.9056,0.0944,0.7237,0.7767,0.2233,0.5534
+Mayaguez-Zwischenfall,1,stable,politics_history,3187,6859,65,1.0,0.9508,0.0492,0.9846,0.8618,0.1382,0.7236
+Elektrokonvulsionstherapie,0,contested,science,4584,4075,70,0.9857,0.9089,0.0911,0.9286,0.8315,0.1685,0.6629
+Spirostachys africana,1,stable,science,3902,4581,1,1.0,0.9299,0.0701,1.0,0.7974,0.2026,0.5947
+Westdeutsche Studentenbewegung der 1960er Jahre,0,contested,geography,7487,6286,248,0.996,0.936,0.064,0.9153,0.8462,0.1538,0.6923
+Schloss Beuggen,1,stable,geography,7303,6546,215,1.0,0.9563,0.0437,0.9721,0.8593,0.1407,0.7187
+Ernst Melchior,0,contested,culture,1935,7254,36,1.0,0.9092,0.0908,0.8889,0.8264,0.1736,0.6529
+Vincenz Grimm,1,stable,culture,2044,6786,69,1.0,0.9424,0.0576,0.8696,0.8381,0.1619,0.6762
+Backhefe,0,contested,science,4108,6333,124,1.0,0.9383,0.0617,0.9435,0.8326,0.1674,0.6653
+Wellensittich,1,stable,science,4014,6270,80,0.975,0.9365,0.0635,0.8875,0.821,0.179,0.642
+Multikulturalismus,0,contested,geography,2029,8291,50,0.96,0.8868,0.1132,0.44,0.6926,0.3074,0.3851
+Jiang Wei,1,stable,geography,1997,8341,93,1.0,0.9494,0.0506,0.9785,0.8674,0.1326,0.7348
+Zeitfreiwilligenverband,0,contested,geography,1763,2659,51,1.0,0.9499,0.0501,0.9412,0.8449,0.1551,0.6898
+Soo Line High Bridge,1,stable,geography,1834,2461,41,1.0,0.9517,0.0483,0.9756,0.8579,0.1421,0.7157
+Witness Lee,0,contested,culture,6674,5700,123,0.9675,0.9111,0.0889,0.8211,0.787,0.213,0.574
+Curling,1,stable,culture,6780,5929,163,0.9939,0.9344,0.0656,0.9202,0.8326,0.1674,0.6651
+Alois Windisch,0,contested,politics_history,1749,6198,40,1.0,0.9487,0.0513,0.925,0.8314,0.1686,0.6628
+U-Boot mit Marschflugkörpern,1,stable,politics_history,1823,6205,79,1.0,0.9584,0.0416,1.0,0.8803,0.1197,0.7605
+GEMA-freie Musik,0,contested,politics_history,4401,6836,135,0.9481,0.8638,0.1362,0.8593,0.8129,0.1871,0.6258
+Landmine,1,stable,politics_history,4332,6744,194,0.9948,0.9362,0.0638,0.8763,0.817,0.183,0.634
+Tuileriensturm,0,contested,geography,3280,6752,140,0.9929,0.9441,0.0559,0.9643,0.8485,0.1515,0.697
+Christian Precht,1,stable,geography,3186,6889,132,0.9924,0.9449,0.0551,0.9545,0.8552,0.1448,0.7104
+Beichte,0,contested,culture,7520,5299,232,0.9871,0.9044,0.0956,0.7759,0.7875,0.2125,0.5749
+Francis Bacon,1,stable,culture,7111,5114,250,0.988,0.933,0.067,0.812,0.7991,0.2009,0.5982
+Liber AL vel Legis,0,contested,culture,8853,7730,210,0.9619,0.9035,0.0965,0.6619,0.7392,0.2608,0.4783
+Picket Fences – Tatort Gartenzaun,1,stable,culture,7688,7658,161,1.0,0.9347,0.0653,0.9193,0.8511,0.1489,0.7023
+"Chronik des Kriegs in Nahost, Dezember 2024 und Januar 2025",0,contested,geography,5111,565,144,1.0,0.9277,0.0723,0.9167,0.8435,0.1565,0.687
+Wälder und Wiesen bei Malsch,1,stable,geography,4405,804,92,0.9891,0.9445,0.0555,0.913,0.8175,0.1825,0.6351
+Institut für Zeitgeschichte,0,contested,geography,3634,7983,88,1.0,0.9365,0.0635,0.8864,0.8328,0.1672,0.6655
+Urnenfelderkultur,1,stable,geography,3438,8134,56,1.0,0.9533,0.0467,0.9107,0.8463,0.1537,0.6926
+Humanitäre Intervention,0,contested,politics_history,2407,8070,62,0.9677,0.901,0.099,0.7419,0.8049,0.1951,0.6097
+Projekt A119,1,stable,politics_history,2352,8033,51,1.0,0.9261,0.0739,0.8627,0.8359,0.1641,0.6719
+Weltraumhabitat,0,contested,science,4891,5444,132,0.9924,0.9311,0.0689,0.8636,0.8292,0.1708,0.6584
+Raffinerieexplosion in Texas City,1,stable,science,4849,5195,97,1.0,0.9365,0.0635,0.9588,0.8721,0.1279,0.7442
+Klassenpolitik,0,contested,politics_history,2527,5247,73,1.0,0.9134,0.0866,0.7671,0.8016,0.1984,0.6032
+Tabernae (Rheinzabern),1,stable,politics_history,2493,5545,92,1.0,0.9579,0.0421,0.9674,0.8591,0.1409,0.7183
+Kennedy-Methode,0,contested,science,2231,7211,88,0.9773,0.8985,0.1015,0.7159,0.7673,0.2327,0.5345
+Galle,1,stable,science,2257,7649,87,1.0,0.9446,0.0554,0.9195,0.8353,0.1647,0.6706
+Tiroler Festspiele Erl,0,contested,culture,2212,5566,60,1.0,0.9387,0.0613,1.0,0.8723,0.1277,0.7447
+Slughorn,1,stable,culture,2067,5642,43,1.0,0.9439,0.0561,0.5581,0.7417,0.2583,0.4834
+Heinrich von Brentano,0,contested,culture,1727,8229,42,1.0,0.9332,0.0668,0.9524,0.8251,0.1749,0.6502
+Geschmackliche Schärfe,1,stable,culture,1890,8128,56,0.9821,0.9135,0.0865,0.875,0.8128,0.1872,0.6256
+Bulgarische Wiedergeburt,0,contested,geography,4416,7138,90,0.9889,0.9358,0.0642,0.9444,0.837,0.163,0.6739
+Elisabeth von Weida,1,stable,geography,4396,7118,177,1.0,0.9466,0.0534,0.9096,0.8312,0.1688,0.6625
+Schulweg,0,contested,politics_history,1634,7342,47,1.0,0.9328,0.0672,0.8723,0.8274,0.1726,0.6549
+Operation Earnest Will,1,stable,politics_history,1676,7322,53,1.0,0.9239,0.0761,0.8868,0.8427,0.1573,0.6854
+Lindisfarne Castle,0,contested,geography,1782,7600,54,1.0,0.958,0.042,0.9815,0.8534,0.1466,0.7069
+Eliezer Ben-Jehuda,1,stable,geography,1931,7577,67,1.0,0.9409,0.0591,0.9403,0.8311,0.1689,0.6622
+Apadravya,0,contested,science,2037,7570,55,1.0,0.9309,0.0691,0.8545,0.8143,0.1857,0.6287
+Laufhühnchen,1,stable,science,1999,7514,89,0.9888,0.938,0.062,0.9101,0.8214,0.1786,0.6428
+Spervogelton,0,contested,culture,3667,5740,154,1.0,0.9386,0.0614,0.6494,0.7525,0.2475,0.5051
+Year Zero,1,stable,culture,3494,5529,67,1.0,0.92,0.08,0.8507,0.8304,0.1696,0.6607
+MHealth,0,contested,science,3078,3992,88,1.0,0.9286,0.0714,0.9773,0.8622,0.1378,0.7244
+Fraktursonografie,1,stable,science,3136,4153,58,1.0,0.9186,0.0814,0.8793,0.8378,0.1622,0.6756
+Sozionik und intertypische Beziehungen,0,contested,science,8239,7440,178,0.9831,0.8921,0.1079,0.7079,0.7689,0.2311,0.5378
+Porsche 930,1,stable,science,6837,7511,102,1.0,0.9338,0.0662,0.9902,0.8766,0.1234,0.7532
+Bürgerversicherung,0,contested,geography,1641,8330,54,1.0,0.9163,0.0837,0.8889,0.8122,0.1878,0.6243
+Grunewaldsee,1,stable,geography,1514,7961,51,1.0,0.9617,0.0383,0.9608,0.8472,0.1528,0.6944
+Kuno Raeber,0,contested,culture,1776,6648,41,1.0,0.9475,0.0525,0.9024,0.8247,0.1753,0.6494
+Garfield Akers,1,stable,culture,1516,7209,36,1.0,0.932,0.068,0.8333,0.8158,0.1842,0.6317
+Wandervogel,0,contested,geography,7752,7632,268,0.9739,0.92,0.08,0.8657,0.8101,0.1899,0.6201
+Ziehenschule,1,stable,geography,7411,7637,215,0.9953,0.9303,0.0697,0.9023,0.8296,0.1704,0.6592
+GS1,0,contested,politics_history,2105,6574,41,1.0,0.9337,0.0663,0.9756,0.8715,0.1285,0.7429
+"Seawolf (U-Boot, 1957)",1,stable,politics_history,2077,6750,84,1.0,0.9524,0.0476,1.0,0.8639,0.1361,0.7277
+Franz Ruppert,0,contested,culture,3026,4336,68,0.9853,0.9212,0.0788,0.8676,0.8116,0.1884,0.6232
+Wilhelm Kühnert,1,stable,culture,3270,4915,100,0.95,0.8998,0.1002,0.79,0.7981,0.2019,0.5962
+Sanktuarium der Barmherzigkeit Gottes,0,contested,culture,3222,4935,112,0.9911,0.9385,0.0615,0.9196,0.8354,0.1646,0.6709
+GateKeeper (Cedar Point),1,stable,culture,3262,5010,76,1.0,0.9515,0.0485,0.9868,0.8699,0.1301,0.7397
+Disneyland Park (Paris),0,contested,culture,6462,4414,208,1.0,0.955,0.045,0.9952,0.8755,0.1245,0.751
+Ismar Boas,1,stable,culture,6046,4441,104,1.0,0.9371,0.0629,0.9519,0.8401,0.1599,0.6801
+Entführung von Michal Kováč jun.,0,contested,geography,3140,4964,153,0.9935,0.9307,0.0693,0.9346,0.8508,0.1492,0.7017
+East Brother Light Station,1,stable,geography,3236,4822,80,0.9875,0.9475,0.0525,0.9875,0.8583,0.1417,0.7167
+Wiktor Juschtschenko,0,contested,geography,2728,7813,84,0.9762,0.924,0.076,0.8929,0.8323,0.1677,0.6645
+Bremer Wappen,1,stable,geography,2799,7563,90,0.9778,0.9383,0.0617,0.9333,0.8302,0.1698,0.6603
+International Christian Fellowship,0,contested,geography,4062,5032,96,1.0,0.9268,0.0732,0.8646,0.8236,0.1764,0.6472
+Gresgen,1,stable,geography,3968,5156,109,1.0,0.9515,0.0485,0.9541,0.8352,0.1648,0.6704
+Uniface,0,contested,science,3193,8031,140,0.9929,0.8983,0.1017,0.8929,0.8346,0.1654,0.6692
+Wiesenweihe,1,stable,science,3411,7967,112,1.0,0.9446,0.0554,0.9018,0.8203,0.1797,0.6406
+Mary Baker Eddy,0,contested,culture,1555,8101,39,1.0,0.9407,0.0593,0.8974,0.8372,0.1628,0.6744
+Gerrard Winstanley,1,stable,culture,1522,7732,50,1.0,0.9403,0.0597,0.92,0.8316,0.1684,0.6632
+Dorje Shugden,0,contested,culture,3353,6448,48,0.9792,0.9374,0.0626,0.8958,0.8246,0.1754,0.6492
+Britische Mount-Everest-Expedition 1922,1,stable,culture,3215,6594,65,1.0,0.954,0.046,1.0,0.8701,0.1299,0.7403
+Nichtregierungsorganisation,0,contested,politics_history,6021,5427,150,0.9333,0.8492,0.1508,0.7333,0.7617,0.2383,0.5235
+Straßenbahn München Baureihe R,1,stable,politics_history,5812,5115,104,1.0,0.946,0.054,0.9904,0.8718,0.1282,0.7436
+HolidayCheck Group,0,contested,geography,2018,6426,35,1.0,0.939,0.061,1.0,0.8677,0.1323,0.7355
+Drehstrom-Versuchsstrecke Groß-Lichterfelde–Zehlendorf,1,stable,geography,1810,6775,60,1.0,0.9453,0.0547,1.0,0.8606,0.1394,0.7212
+Ifo-Geschäftsklimaindex,0,contested,politics_history,1643,7779,31,1.0,0.9325,0.0675,0.9355,0.8326,0.1674,0.6652
+Halsamphora des Exekias (Berlin F 1720),1,stable,politics_history,1781,7148,72,1.0,0.9461,0.0539,0.9028,0.8481,0.1519,0.6962
+Klaus Berger (Theologe),0,contested,culture,5550,7120,169,0.9822,0.9129,0.0871,0.7811,0.7837,0.2163,0.5675
+Elias Canetti,1,stable,culture,5504,7178,136,0.9853,0.9144,0.0856,0.8088,0.8087,0.1913,0.6173
+Fußball in England,0,contested,culture,8496,7206,310,0.9935,0.9261,0.0739,0.9742,0.8698,0.1302,0.7395
+Uralische Sprachen,1,stable,culture,7959,7024,224,0.9821,0.9224,0.0776,0.6875,0.7696,0.2304,0.5392
+Wilhelm Aumer,0,contested,culture,5775,2146,67,0.9851,0.9133,0.0867,0.8955,0.8026,0.1974,0.6052
+Geneviève Thiroux d’Arconville,1,stable,culture,5869,2259,112,1.0,0.9241,0.0759,0.7946,0.8114,0.1886,0.6227
+Bund des russischen Volkes,0,contested,geography,4156,5808,91,0.989,0.9233,0.0767,0.9011,0.8279,0.1721,0.6557
+Dschabal Sindschar,1,stable,geography,4231,6027,125,1.0,0.9534,0.0466,0.96,0.8479,0.1521,0.6958
+Kaufmännischer Verband Schweiz,0,contested,geography,1990,7773,22,0.9545,0.8845,0.1155,0.8636,0.7937,0.2063,0.5874
+Lendkanal,1,stable,geography,2039,7454,72,0.9861,0.9413,0.0587,0.9722,0.8482,0.1518,0.6964
+Erzgebirgischer Schwibbogen,0,contested,geography,1863,8102,31,0.9677,0.9235,0.0765,0.9355,0.8192,0.1808,0.6383
+Tokugawa Ieyasu,1,stable,geography,1892,8029,82,1.0,0.9538,0.0462,0.9512,0.8608,0.1392,0.7216
+Kameralistik,0,contested,politics_history,5903,7024,194,0.9948,0.9219,0.0781,0.8763,0.8123,0.1877,0.6245
+Parkeisenbahn Wuhlheide,1,stable,politics_history,6250,7054,227,1.0,0.9493,0.0507,0.9868,0.8623,0.1377,0.7246
+Street Football/Episodenliste,0,contested,culture,5143,5086,202,0.995,0.9493,0.0507,0.9208,0.8365,0.1635,0.6729
+Apatheia,1,stable,culture,4792,5265,191,0.8168,0.7749,0.2251,0.466,0.6459,0.3541,0.2919
+Revisionismus,0,contested,politics_history,2070,8074,68,0.9559,0.9062,0.0938,0.8235,0.8153,0.1847,0.6306
+Oliver-Hazard-Perry-Klasse,1,stable,politics_history,2061,7712,83,1.0,0.9561,0.0439,0.9759,0.8635,0.1365,0.7269
+Ökostrom,0,contested,science,6638,5211,202,0.995,0.931,0.069,0.8713,0.8232,0.1768,0.6465
+Physikalische Größe,1,stable,science,6692,5691,126,0.9841,0.8961,0.1039,0.4524,0.7184,0.2816,0.4368
+Holy Spirit,0,contested,culture,2604,1951,83,1.0,0.9354,0.0646,0.8313,0.8252,0.1748,0.6504
+Ringo (Ballade),1,stable,culture,2764,2579,67,1.0,0.9301,0.0699,0.8209,0.8117,0.1883,0.6235
+Etikettierungsansatz,0,contested,politics_history,2806,6285,89,1.0,0.898,0.102,0.6966,0.7627,0.2373,0.5254
+Yorktown-Klasse (1937),1,stable,politics_history,2912,6767,44,1.0,0.9582,0.0418,1.0,0.8678,0.1322,0.7357
+Michael Vassiliadis,0,contested,politics_history,1670,7127,34,1.0,0.9447,0.0553,0.9706,0.8571,0.1429,0.7142
+Catarina (Schiff),1,stable,politics_history,1731,6980,72,1.0,0.9504,0.0496,0.9306,0.8427,0.1573,0.6854
+Parov Stelar,0,contested,culture,2939,6966,30,1.0,0.9243,0.0757,0.9667,0.8568,0.1432,0.7137
+Édouard Nanny,1,stable,culture,2965,6920,82,1.0,0.9344,0.0656,0.9268,0.854,0.146,0.708
+Reinhold Tüxen,0,contested,geography,4380,7475,70,1.0,0.9447,0.0553,0.9143,0.8393,0.1607,0.6786
+Carrara-Marmor,1,stable,geography,4575,7630,190,1.0,0.9572,0.0428,0.9684,0.8589,0.1411,0.7178
+Naturwissenschaft und Religion,0,contested,culture,5940,6019,198,1.0,0.9175,0.0825,0.8283,0.8127,0.1873,0.6254
+Metallica (Album),1,stable,culture,5993,6421,152,1.0,0.9319,0.0681,0.9605,0.8756,0.1244,0.7512
+Angela Merici,0,contested,culture,2983,8039,147,0.9932,0.9367,0.0633,0.9116,0.8318,0.1682,0.6635
+Fish and Chips,1,stable,culture,2808,8086,67,0.9851,0.9184,0.0816,0.9254,0.8309,0.1691,0.6618
+Biphobie,0,contested,politics_history,1604,6535,50,0.98,0.9121,0.0879,0.86,0.8069,0.1931,0.6139
+Fester Wechselkurs,1,stable,politics_history,1675,6609,39,1.0,0.9178,0.0822,0.8205,0.8032,0.1968,0.6063
+Troy Davis,0,contested,politics_history,2785,6205,71,0.9859,0.9217,0.0783,0.8732,0.8337,0.1663,0.6674
+"Dorsetshire (Schiff, 1930)",1,stable,politics_history,2897,5775,44,1.0,0.9547,0.0453,0.9773,0.8435,0.1565,0.6869
+Oberösterreichische Versicherung,0,contested,geography,2203,6905,36,1.0,0.9359,0.0641,0.9722,0.8478,0.1522,0.6955
+Lubok,1,stable,geography,2360,6702,36,1.0,0.9445,0.0555,0.8056,0.8118,0.1882,0.6236
+Kornische Sprache,0,contested,culture,3344,8397,59,0.9831,0.9102,0.0898,0.5763,0.7384,0.2616,0.4768
+Buch Tobit,1,stable,culture,3748,8372,147,0.9864,0.9356,0.0644,0.8027,0.7962,0.2038,0.5923
+George Peabody,0,contested,culture,1917,7564,67,1.0,0.9551,0.0449,0.9552,0.8665,0.1335,0.7331
+George Alsop,1,stable,culture,2251,7685,61,0.9836,0.9194,0.0806,0.8197,0.7826,0.2174,0.5652
+Intrexx,0,contested,science,2212,5393,72,1.0,0.9219,0.0781,0.9028,0.8446,0.1554,0.6891
+Coniophis,1,stable,science,2358,5038,0,,,,,,,
+Politikverdrossenheit,0,contested,politics_history,5765,8385,175,0.9657,0.896,0.104,0.7657,0.7878,0.2122,0.5756
+George Mason,1,stable,politics_history,5432,7668,228,0.9868,0.9326,0.0674,0.9298,0.839,0.161,0.678
+Nursultan Nasarbajew,0,contested,geography,3675,8066,73,1.0,0.9128,0.0872,0.9452,0.8326,0.1674,0.6653
+Diolkos,1,stable,geography,3917,8181,85,1.0,0.9516,0.0484,0.9647,0.8413,0.1587,0.6826
+Biofeedback,0,contested,science,2459,8066,67,1.0,0.8962,0.1038,0.8657,0.8032,0.1968,0.6064
+Theorie der endlichen Kugelpackungen,1,stable,science,2497,7939,78,0.9872,0.9251,0.0749,0.6923,0.7694,0.2306,0.5387
+Kindertagesbetreuung,0,contested,politics_history,3747,7665,88,1.0,0.9186,0.0814,0.8295,0.8197,0.1803,0.6395
+Wieslauftalbahn,1,stable,politics_history,3685,7828,127,1.0,0.9464,0.0536,0.9764,0.8578,0.1422,0.7157
+Geschichte Äquatorialguineas,0,contested,geography,4830,7164,23,1.0,0.9571,0.0429,1.0,0.8478,0.1522,0.6956
+Mesolongi,1,stable,geography,4885,7284,174,0.9943,0.9407,0.0593,0.954,0.8353,0.1647,0.6706
+Self Storage,0,contested,culture,2405,6942,51,1.0,0.9335,0.0665,0.9412,0.8606,0.1394,0.7212
+Adolf von Kröner,1,stable,culture,2360,7312,61,1.0,0.9349,0.0651,0.9672,0.8329,0.1671,0.6658
+Thomas Ball Barratt,0,contested,culture,3881,7063,161,0.9876,0.9289,0.0711,0.9006,0.8202,0.1798,0.6404
+Madlax,1,stable,culture,3843,6909,120,0.9917,0.9355,0.0645,0.8583,0.8225,0.1775,0.6451
+"Föderaler Öffentlicher Dienst Auswärtige Angelegenheiten, Außenhandel und Entwicklungszusammenarbeit",0,contested,politics_history,2826,6830,89,0.9888,0.9023,0.0977,0.8652,0.8167,0.1833,0.6334
+Fünfjahrplan (Briefmarkenserie),1,stable,politics_history,3042,6924,65,0.9692,0.931,0.069,0.8769,0.7947,0.2053,0.5895
+Unicredit Bank Austria,0,contested,geography,4408,7649,113,1.0,0.9344,0.0656,0.9735,0.8621,0.1379,0.7243
+Kloster Himmelkron,1,stable,geography,4657,7798,170,1.0,0.9559,0.0441,0.9647,0.8496,0.1504,0.6993
+Politisches System Japans,0,contested,geography,3643,7615,121,0.9669,0.8981,0.1019,0.8512,0.8188,0.1812,0.6376
+Craters of the Moon National Monument,1,stable,geography,3380,7639,118,1.0,0.9591,0.0409,0.9576,0.8512,0.1488,0.7024
+Al-Andalus,0,contested,geography,4645,6363,123,1.0,0.9521,0.0479,0.935,0.841,0.159,0.682
+Basler Fasnacht,1,stable,geography,4586,6279,209,0.9856,0.9261,0.0739,0.8804,0.8185,0.1815,0.6369
+Judentum in Afrika,0,contested,geography,7971,7232,240,1.0,0.9488,0.0512,0.9542,0.8467,0.1533,0.6934
+LGV Est européenne,1,stable,geography,7672,6732,230,0.9957,0.9444,0.0556,0.9739,0.8566,0.1434,0.7133
+Nornickel,0,contested,geography,4746,7044,135,1.0,0.9378,0.0622,0.963,0.8454,0.1546,0.6909
+Schwarzwaldbahn (Baden),1,stable,geography,4724,6736,147,0.9932,0.9462,0.0538,0.9796,0.854,0.146,0.708
+Data Loss Prevention,0,contested,science,1785,6603,62,0.9839,0.911,0.089,0.8871,0.8325,0.1675,0.6651
+Bonnetiaceae,1,stable,science,1746,6998,42,1.0,0.9551,0.0449,0.8571,0.8283,0.1717,0.6566
+Ahmad Schah Massoud,0,contested,geography,7270,5807,115,0.9913,0.9253,0.0747,0.9043,0.8372,0.1628,0.6743
+S-Bahn Zürich,1,stable,geography,7244,5747,240,1.0,0.9428,0.0572,0.9542,0.8534,0.1466,0.7068
+Andor Ákos,0,contested,culture,6610,5251,187,0.9786,0.918,0.082,0.8075,0.8059,0.1941,0.6118
+Deutsche Bank Park,1,stable,culture,6586,4927,187,0.9947,0.9195,0.0805,0.9626,0.8663,0.1337,0.7327
+Massivholzbau,0,contested,science,3306,6311,86,0.9767,0.9124,0.0876,0.9186,0.8336,0.1664,0.6672
+Zielratte,1,stable,science,3064,6195,7,0.8571,0.8233,0.1767,0.8571,0.7087,0.2913,0.4173
+Israelitische Synagogen-Gemeinde Adass Jisroel zu Berlin,0,contested,geography,4524,7455,149,0.9866,0.9298,0.0702,0.9128,0.8296,0.1704,0.6592
+Parochialkirche (Berlin),1,stable,geography,4997,7463,170,1.0,0.9509,0.0491,0.9588,0.8573,0.1427,0.7145
+Bernd Kebelmann,0,contested,culture,3223,2888,26,0.9615,0.9136,0.0864,0.8077,0.7909,0.2091,0.5819
+Halo-System,1,stable,culture,3035,3471,76,1.0,0.9144,0.0856,0.9737,0.8622,0.1378,0.7244
+Austerität,0,contested,politics_history,3875,5793,110,0.9909,0.9175,0.0825,0.8273,0.797,0.203,0.5941
+Georges Scelle,1,stable,politics_history,3758,6033,46,0.9783,0.903,0.097,0.8261,0.8109,0.1891,0.6218
+Montessori Biberkor,0,contested,politics_history,5744,3744,95,1.0,0.9298,0.0702,0.9263,0.8357,0.1643,0.6714
+Bruttoinlandsprodukt,1,stable,politics_history,5584,3756,159,0.9937,0.9269,0.0731,0.8868,0.8156,0.1844,0.6312
+Neukirchen-Vluyn,0,contested,geography,6493,5517,190,0.9895,0.9391,0.0609,0.9263,0.8373,0.1627,0.6745
+George Appo,1,stable,geography,6926,5577,175,0.9943,0.9407,0.0593,0.9143,0.8366,0.1634,0.6733
+Gesellschaft für Unternehmensgeschichte,0,contested,politics_history,1815,5314,71,1.0,0.9303,0.0697,0.9437,0.8579,0.1421,0.7157
+"Trier, Stadtbibliothek, Hs. 171/1626",1,stable,politics_history,1866,5562,64,0.9688,0.9232,0.0768,0.875,0.8085,0.1915,0.617
+Ilse Schwidetzky,0,contested,culture,2254,7038,28,1.0,0.9313,0.0687,0.9286,0.829,0.171,0.658
+Soliman (Elefant),1,stable,culture,2597,7273,55,1.0,0.9528,0.0472,0.9091,0.8238,0.1762,0.6475
+Wuestenstrom,0,contested,politics_history,3890,6977,5,1.0,0.929,0.071,0.8,0.8207,0.1793,0.6415
+Queen-Elizabeth-Klasse (2017),1,stable,politics_history,3990,7229,127,1.0,0.9411,0.0589,0.9764,0.869,0.131,0.7379
+Transzendentale Meditation,0,contested,culture,5905,6671,156,0.9808,0.9043,0.0957,0.8718,0.8165,0.1835,0.633
+Ammonios Hermeiou,1,stable,culture,6150,6567,169,0.9586,0.8939,0.1061,0.7041,0.7635,0.2365,0.527
+Monocab,0,contested,politics_history,2689,1208,51,1.0,0.9275,0.0725,0.902,0.8369,0.1631,0.6737
+Pont Ferroviaire Saint-Laurent,1,stable,politics_history,3119,1654,62,1.0,0.9479,0.0521,0.9839,0.854,0.146,0.708
+TransPod,0,contested,politics_history,1918,3145,32,1.0,0.9368,0.0632,1.0,0.877,0.123,0.754
+Richomer,1,stable,politics_history,1874,3017,52,1.0,0.9509,0.0491,0.9038,0.8214,0.1786,0.6428
+Wasser-Abrasiv-Suspensions-Strahlschneiden,0,contested,science,3033,1810,106,0.9906,0.9337,0.0663,0.9057,0.8259,0.1741,0.6519
+Kleine Magellansche Wolke,1,stable,science,2713,2256,60,1.0,0.9587,0.0413,0.9667,0.8637,0.1363,0.7274
+Propaganda im Ersten Weltkrieg,0,contested,geography,4383,7400,142,0.993,0.9373,0.0627,0.9366,0.8458,0.1542,0.6916
+Zwinger (Münster),1,stable,geography,4028,7535,126,1.0,0.9491,0.0509,0.9286,0.8432,0.1568,0.6864
+Dräxlmaier,0,contested,politics_history,1788,6630,56,1.0,0.9413,0.0587,1.0,0.873,0.127,0.746
+Brinkmanship,1,stable,politics_history,1823,6359,48,0.9792,0.9214,0.0786,0.8542,0.8198,0.1802,0.6396
+Schulpflicht,0,contested,politics_history,2860,5658,73,0.9726,0.9271,0.0729,0.9315,0.8326,0.1674,0.6652
+Straßenbahn München Baureihe S,1,stable,politics_history,2800,4948,64,1.0,0.9386,0.0614,0.9844,0.8634,0.1366,0.7267
+Babylon A.D.,0,contested,culture,2438,6449,12,0.9167,0.8837,0.1163,0.8333,0.8345,0.1655,0.669
+Richard Laymon,1,stable,culture,2708,7066,55,1.0,0.9397,0.0603,0.9455,0.8615,0.1385,0.7231
+Fraunhofer-Institut für Keramische Technologien und Systeme,0,contested,science,3163,6841,103,1.0,0.9409,0.0591,0.9417,0.8664,0.1336,0.7328
+Solanum subg. Leptostemonum,1,stable,science,3136,6809,53,0.9811,0.9362,0.0638,0.8113,0.7968,0.2032,0.5937
+Sexhandel in Thailand,0,contested,geography,2591,5650,67,1.0,0.9315,0.0685,0.9254,0.8373,0.1627,0.6746
+Bruno Büchner,1,stable,geography,2862,5475,77,1.0,0.9469,0.0531,0.974,0.8431,0.1569,0.6861
+Deutsche Steinzeug Cremer & Breuer,0,contested,politics_history,4735,3727,105,1.0,0.9453,0.0547,1.0,0.8665,0.1335,0.7329
+Wittem-Projekt,1,stable,politics_history,5402,3463,112,0.9911,0.9104,0.0896,0.7232,0.7815,0.2185,0.563
+Große Hungersnot in Irland,0,contested,geography,4827,5473,153,0.9935,0.9328,0.0672,0.9281,0.8359,0.1641,0.6718
+Teltow-Werft,1,stable,geography,4831,5967,128,1.0,0.9483,0.0517,0.9844,0.8549,0.1451,0.7098
+Staat,0,contested,politics_history,6601,3862,165,0.9758,0.8928,0.1072,0.8121,0.7998,0.2002,0.5996
+Computerbetrug,1,stable,politics_history,6487,3792,205,0.9707,0.902,0.098,0.7854,0.8053,0.1947,0.6105
+Ludwig-Boltzmann-Institut für Funktionelle Hirntopographie,0,contested,science,2042,3964,48,1.0,0.9247,0.0753,0.75,0.7805,0.2195,0.5611
+Drahtgewebe (Filtration),1,stable,science,2028,3238,37,1.0,0.9462,0.0538,0.8919,0.8303,0.1697,0.6607
+Partidul Social Democrat European,0,contested,politics_history,4067,6142,135,1.0,0.9017,0.0983,0.8,0.8024,0.1976,0.6047
+Philokartie,1,stable,politics_history,3825,6138,114,1.0,0.9362,0.0638,0.9474,0.8634,0.1366,0.7267
+Atari Teenage Riot,0,contested,culture,2984,8129,89,0.9888,0.9287,0.0713,0.9326,0.8614,0.1386,0.7227
+Cindy Sherman,1,stable,culture,2813,7866,67,0.9851,0.9186,0.0814,0.9552,0.8654,0.1346,0.7307
+Schlacht im Ia-Drang-Tal,0,contested,politics_history,3374,6973,175,0.9886,0.9421,0.0579,0.9829,0.8521,0.1479,0.7043
+Chinesische Volksbank,1,stable,politics_history,3333,7069,86,0.9767,0.9108,0.0892,0.9302,0.8549,0.1451,0.7097
+Hamburg Commercial Bank,0,contested,politics_history,3724,6985,112,1.0,0.931,0.069,0.9732,0.8568,0.1432,0.7137
+Korsika im Altertum,1,stable,politics_history,3764,7221,134,0.9851,0.9278,0.0722,0.9403,0.8309,0.1691,0.6617
+Helmtherapie,0,contested,science,1606,6387,68,1.0,0.9254,0.0746,0.8824,0.8257,0.1743,0.6515
+Acherontia lachesis,1,stable,science,1644,6076,19,1.0,0.9523,0.0477,0.8421,0.8035,0.1965,0.607
+EU-Erweiterung 2004,0,contested,politics_history,4246,7872,154,0.987,0.919,0.081,0.9221,0.8317,0.1683,0.6634
+Handelsgeschäft,1,stable,politics_history,4337,7610,186,0.9839,0.8948,0.1052,0.8548,0.8077,0.1923,0.6154
+Neokatechumenaler Weg,0,contested,culture,7067,6403,162,0.9815,0.9194,0.0806,0.8395,0.8076,0.1924,0.6152
+Günther Anders,1,stable,culture,7414,6370,172,0.9826,0.9197,0.0803,0.7384,0.7831,0.2169,0.5661
+Chartered Institute for Archaeologists,0,contested,politics_history,1970,3148,72,0.9722,0.8955,0.1045,0.7917,0.7926,0.2074,0.5853
+Philadelphia and Reading Railroad Bridge (Susquehanna River),1,stable,politics_history,2046,3086,35,1.0,0.9507,0.0493,0.9714,0.8583,0.1417,0.7166
+Neue Kadampa-Tradition,0,contested,culture,3187,7518,104,0.9904,0.9191,0.0809,0.875,0.8282,0.1718,0.6564
+Weinbau in Kanada,1,stable,culture,3142,7629,112,1.0,0.9497,0.0503,0.9732,0.839,0.161,0.678
+Timotheus Höttges,0,contested,politics_history,2234,7025,61,0.9836,0.926,0.074,0.9672,0.8648,0.1352,0.7296
+Josephus Daniels (Schiff),1,stable,politics_history,2320,7039,94,1.0,0.9519,0.0481,0.9894,0.8548,0.1452,0.7096
+Luftlager,0,contested,science,2434,8123,98,0.9796,0.929,0.071,0.9082,0.8232,0.1768,0.6465
+Löffelhund,1,stable,science,2356,8189,64,1.0,0.9484,0.0516,0.9375,0.8292,0.1708,0.6584
+Die Zeitgeist-Bewegung,0,contested,science,2269,5621,65,0.9692,0.8744,0.1256,0.7231,0.7645,0.2355,0.5289
+Basfia succiniciproducens,1,stable,science,2217,6089,34,1.0,0.9273,0.0727,0.9118,0.8271,0.1729,0.6542
+Tempolimit,0,contested,science,2813,5057,75,1.0,0.9353,0.0647,0.8533,0.8126,0.1874,0.6252
+Lift-off-Verfahren,1,stable,science,2762,5734,86,1.0,0.9306,0.0694,0.7791,0.7937,0.2063,0.5873
+Iqos,0,contested,politics_history,3138,2747,72,1.0,0.9188,0.0812,0.875,0.841,0.159,0.6819
+ASB Bridge,1,stable,politics_history,2819,2840,59,1.0,0.9463,0.0537,1.0,0.8516,0.1484,0.7032
+Sklavenhandel,0,contested,politics_history,6686,4921,200,1.0,0.9488,0.0512,0.915,0.8329,0.1671,0.6657
+Panzerhaubitze 2000,1,stable,politics_history,7112,4790,258,1.0,0.9492,0.0508,0.969,0.8534,0.1466,0.7068
+The Third Wave,0,contested,science,1904,6635,36,1.0,0.9128,0.0872,0.8611,0.8264,0.1736,0.6528
+Regenbaum,1,stable,science,2149,6650,54,1.0,0.9378,0.0622,0.8704,0.8023,0.1977,0.6046
+Verelendungstheorie,0,contested,politics_history,2803,6150,69,0.9855,0.9153,0.0847,0.8116,0.797,0.203,0.5941
+Big-Mac-Index,1,stable,politics_history,3101,6577,48,0.9792,0.9281,0.0719,0.8542,0.827,0.173,0.654
+Jüngere Dryaszeit,0,contested,science,4041,7523,70,1.0,0.944,0.056,0.8857,0.8143,0.1857,0.6286
+Keilzinkung,1,stable,science,4160,7317,4,1.0,0.9406,0.0594,1.0,0.7931,0.2069,0.5861
+Gestalttherapie,0,contested,science,5807,6863,202,0.9703,0.8818,0.1182,0.797,0.7846,0.2154,0.5692
+Katalyse,1,stable,science,5736,7129,201,0.995,0.9341,0.0659,0.8706,0.8207,0.1793,0.6414
+Küchenabfallzerkleinerer,0,contested,science,2890,7233,73,1.0,0.9443,0.0557,0.9178,0.8487,0.1513,0.6974
+Kauffmann-White-Schema,1,stable,science,2713,7240,79,1.0,0.9316,0.0684,0.7848,0.7958,0.2042,0.5916
+Kurort,0,contested,science,1685,8317,46,1.0,0.9401,0.0599,0.8696,0.8299,0.1701,0.6598
+Schäbe,1,stable,science,1623,8149,5,1.0,0.8833,0.1167,0.8,0.8283,0.1717,0.6566
+Substanzinduzierte Psychose,0,contested,science,4000,7285,63,1.0,0.9299,0.0701,0.8571,0.8391,0.1609,0.6783
+Wechselwirkende Galaxien,1,stable,science,3738,7268,196,1.0,0.9625,0.0375,0.9541,0.8544,0.1456,0.7087
+Das sogenannte Böse,0,contested,science,4425,8199,162,0.9938,0.9127,0.0873,0.679,0.7519,0.2481,0.5039
+Gänsegeier,1,stable,science,4135,8216,130,0.9692,0.9362,0.0638,0.9077,0.8288,0.1712,0.6576
+Pharmahersteller,0,contested,science,5099,6198,97,1.0,0.9228,0.0772,0.9381,0.8519,0.1481,0.7037
+(136199) Eris,1,stable,science,5115,6412,23,1.0,0.9546,0.0454,0.913,0.8487,0.1513,0.6974
+PANalytical,0,contested,science,1964,6618,83,1.0,0.9445,0.0555,0.9157,0.8376,0.1624,0.6752
+Waldsteppenotter,1,stable,science,2168,6660,56,1.0,0.9567,0.0433,0.9464,0.8288,0.1712,0.6575
+T-Labs,0,contested,science,1563,7299,31,1.0,0.9318,0.0682,1.0,0.8814,0.1186,0.7628
+Lilium pardalinum subsp. pitkinense,1,stable,science,1511,6986,41,1.0,0.9393,0.0607,0.8293,0.801,0.199,0.6019
+Ungarische Notation,0,contested,science,3275,8097,134,0.9776,0.8935,0.1065,0.2537,0.6488,0.3512,0.2975
+Ankylosauria,1,stable,science,3322,7859,79,0.9873,0.9394,0.0606,0.9114,0.8269,0.1731,0.6537
+Prophylaxe (Zahnmedizin),0,contested,science,4188,7368,172,0.9942,0.9297,0.0703,0.8547,0.8138,0.1862,0.6277
+Crashtest-Dummy,1,stable,science,4430,7688,153,1.0,0.9289,0.0711,0.8693,0.8369,0.1631,0.6737
+Alexander-Technik,0,contested,science,2036,8192,56,0.9821,0.9098,0.0902,0.8929,0.8186,0.1814,0.6372
+Ringelröteln,1,stable,science,1818,8101,67,0.9851,0.9348,0.0652,0.9254,0.8411,0.1589,0.6823
+Neoarchaikum,0,contested,science,3302,7638,72,1.0,0.9529,0.0471,0.9306,0.842,0.158,0.6841
+Schlangenadler,1,stable,science,3358,7734,133,1.0,0.9551,0.0449,0.9474,0.8276,0.1724,0.6551

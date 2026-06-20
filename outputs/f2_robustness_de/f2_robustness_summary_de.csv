@@ -1,0 +1,2 @@
+Variant,Column,Contested mean,Stable mean,Percent difference,NaN rate,n_pairs,pct_contested_higher,wilcoxon_p,effect_r,logistic_coefficient,macro_f1_with_feature_topic,macro_f1_topic_baseline,macro_f1_contribution,n_model_rows
+Hyland-only,f2_hyland_only,0.2633073394552732,0.31821102089251035,-17.253859124899602,0.0,142,30.985915492957744,0.5958627749282184,0.5327620604596413,0.10229159852339333,0.4384443195816969,0.4220813198940707,0.016362999687626167,284

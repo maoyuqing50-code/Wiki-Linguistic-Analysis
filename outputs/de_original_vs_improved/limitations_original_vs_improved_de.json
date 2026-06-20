@@ -1,0 +1,26 @@
+{
+  "status": "completed_with_limitation",
+  "base_features_loaded": "final_features_de.csv",
+  "base_features_shape": [
+    284,
+    17
+  ],
+  "omitted_unchanged_feature": "F2 original Hyland + SentiWS",
+  "reason": "final_features_de.csv exists, but it does not contain f2_affective or the full German v4 F1-F7 matrix. Because F2 is unchanged in the Original and Improved specifications, both fitted models omit F2. The comparison is therefore a valid estimate of the robustness-change delta for F3/F4/F5, but not an exact F2-inclusive reproduction of the original notebook model.",
+  "original_features_used": [
+    "f1_original_recomputed",
+    "f3_original_recomputed",
+    "f4_current_ratio_min3",
+    "f5_original_reproduced",
+    "f6_contrastive_recomputed",
+    "f7_mtld_recomputed"
+  ],
+  "improved_features_used": [
+    "f1_original_recomputed",
+    "f3_no_generic_quantifiers",
+    "f4_expanded_smoothed_ratio",
+    "f5_revised",
+    "f6_contrastive_recomputed",
+    "f7_mtld_recomputed"
+  ]
+}

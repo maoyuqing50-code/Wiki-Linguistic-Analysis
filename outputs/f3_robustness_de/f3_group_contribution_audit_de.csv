@@ -1,0 +1,4 @@
+group,frequency_contested,frequency_stable,density_sum_contested,density_sum_stable,article_hits_contested,article_hits_stable,total_density_sum,contested_minus_stable_density_sum
+vague_quantifier,888.0,783.0,230.51484191018116,210.4847450284753,501.0,490.0,440.9995869386564,20.030096881705873
+evaluative_puffery,58.0,51.0,16.057843507990654,13.467651260719666,56.0,47.0,29.52549476871032,2.5901922472709877
+vague_attribution,15.0,7.0,4.345485463559786,1.942281234719999,13.0,7.0,6.2877666982797855,2.4032042288397872
