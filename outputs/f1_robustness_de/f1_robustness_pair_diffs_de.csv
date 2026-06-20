@@ -1,0 +1,711 @@
+feature,contested_title,stable_title,contested_value,stable_value,diff
+f1_original_recomputed,Evolutionärer Humanismus,Ästhetische Theorie,2.3696682464454977,0.7841087297438578,1.5855595167016399
+f1_original_recomputed,Franz Eibel,Wieladingen (Adelsgeschlecht),0.4001600640256103,11.278195488721805,-10.878035424696193
+f1_original_recomputed,Fluglärm,Spezielle Relativitätstheorie,0.2277385561375541,0.7004763239002523,-0.47273776776269816
+f1_original_recomputed,Armenisch-iranische Beziehungen,Absturz einer MiG-21 in Cottbus 1975,1.2539184952978057,0.0,1.2539184952978057
+f1_original_recomputed,Geschichte der Volksrepublik China,Neukirchen (Gemeinde Altmünster),0.0,0.5368406925244934,-0.5368406925244934
+f1_original_recomputed,Karl Haushofer,Jüdisches Museum Westfalen,0.0,0.6194507536650836,-0.6194507536650836
+f1_original_recomputed,Mobile Jugendarbeit,Mayaguez-Zwischenfall,0.6369426751592356,0.0,0.6369426751592356
+f1_original_recomputed,Elektrokonvulsionstherapie,Spirostachys africana,0.4363001745200698,0.0,0.4363001745200698
+f1_original_recomputed,Westdeutsche Studentenbewegung der 1960er Jahre,Schloss Beuggen,0.40069453719780956,1.9170204025742847,-1.516325865376475
+f1_original_recomputed,Ernst Melchior,Vincenz Grimm,1.0335917312661498,1.467710371819961,-0.4341186405538111
+f1_original_recomputed,Backhefe,Wellensittich,0.48685491723466406,0.4982561036372695,-0.011401186402605457
+f1_original_recomputed,Multikulturalismus,Jiang Wei,0.0,1.00150225338007,-1.00150225338007
+f1_original_recomputed,Zeitfreiwilligenverband,Soo Line High Bridge,2.268859897901305,0.0,2.268859897901305
+f1_original_recomputed,Witness Lee,Curling,1.198681450404555,0.14749262536873156,1.0511888250358234
+f1_original_recomputed,Alois Windisch,U-Boot mit Marschflugkörpern,0.0,0.0,0.0
+f1_original_recomputed,GEMA-freie Musik,Landmine,3.1810952056350827,0.23084025854108955,2.950254947093993
+f1_original_recomputed,Tuileriensturm,Christian Precht,0.9146341463414634,7.219083490269931,-6.304449343928467
+f1_original_recomputed,Beichte,Francis Bacon,0.9308510638297873,2.250035156799325,-1.3191840929695378
+f1_original_recomputed,Liber AL vel Legis,Picket Fences – Tatort Gartenzaun,1.4684287812041115,0.6503642039542143,0.8180645772498971
+f1_original_recomputed,"Chronik des Kriegs in Nahost, Dezember 2024 und Januar 2025",Wälder und Wiesen bei Malsch,1.1739385638818234,0.681044267877412,0.49289429600441137
+f1_original_recomputed,Institut für Zeitgeschichte,Urnenfelderkultur,0.0,2.9086678301337985,-2.9086678301337985
+f1_original_recomputed,Humanitäre Intervention,Projekt A119,1.2463647694225177,0.8503401360544217,0.396024633368096
+f1_original_recomputed,Weltraumhabitat,Raffinerieexplosion in Texas City,7.5649151502760175,0.20622808826562178,7.358687062010396
+f1_original_recomputed,Klassenpolitik,Tabernae (Rheinzabern),1.187178472497032,1.604492579221821,-0.41731410672478897
+f1_original_recomputed,Kennedy-Methode,Galle,0.44822949350067237,0.44306601683650865,0.005163476664163724
+f1_original_recomputed,Tiroler Festspiele Erl,Slughorn,0.0,4.354136429608127,-4.354136429608127
+f1_original_recomputed,Heinrich von Brentano,Geschmackliche Schärfe,0.5790387955993052,0.0,0.5790387955993052
+f1_original_recomputed,Bulgarische Wiedergeburt,Elisabeth von Weida,0.0,4.3221110100091,-4.3221110100091
+f1_original_recomputed,Schulweg,Operation Earnest Will,0.6119951040391677,0.5966587112171838,0.015336392821983846
+f1_original_recomputed,Lindisfarne Castle,Eliezer Ben-Jehuda,1.6835016835016834,0.5178663904712584,1.165635293030425
+f1_original_recomputed,Apadravya,Laufhühnchen,1.4727540500736376,0.0,1.4727540500736376
+f1_original_recomputed,Spervogelton,Year Zero,7.908371966184892,0.0,7.908371966184892
+f1_original_recomputed,MHealth,Fraktursonografie,2.599090318388564,1.2755102040816326,1.3235801143069312
+f1_original_recomputed,Sozionik und intertypische Beziehungen,Porsche 930,0.8496176720475787,0.1462629808395495,0.7033546912080292
+f1_original_recomputed,Bürgerversicherung,Grunewaldsee,0.6093845216331506,0.0,0.6093845216331506
+f1_original_recomputed,Kuno Raeber,Garfield Akers,0.5630630630630631,1.978891820580475,-1.415828757517412
+f1_original_recomputed,Wandervogel,Ziehenschule,0.38699690402476783,1.2144110106598298,-0.827414106635062
+f1_original_recomputed,GS1,"Seawolf (U-Boot, 1957)",0.0,0.48146364949446313,-0.48146364949446313
+f1_original_recomputed,Franz Ruppert,Wilhelm Kühnert,1.6523463317911435,0.0,1.6523463317911435
+f1_original_recomputed,Sanktuarium der Barmherzigkeit Gottes,GateKeeper (Cedar Point),0.31036623215394166,0.0,0.31036623215394166
+f1_original_recomputed,Disneyland Park (Paris),Ismar Boas,0.1547508511296812,0.0,0.1547508511296812
+f1_original_recomputed,Entführung von Michal Kováč jun.,East Brother Light Station,1.2738853503184713,0.0,1.2738853503184713
+f1_original_recomputed,Wiktor Juschtschenko,Bremer Wappen,0.36656891495601174,0.7145409074669524,-0.3479719925109407
+f1_original_recomputed,International Christian Fellowship,Gresgen,0.4923682914820286,1.0080645161290323,-0.5156962246470036
+f1_original_recomputed,Uniface,Wiesenweihe,0.9395552771688068,1.1726766344180592,-0.23312135724925243
+f1_original_recomputed,Mary Baker Eddy,Gerrard Winstanley,0.0,1.314060446780552,-1.314060446780552
+f1_original_recomputed,Dorje Shugden,Britische Mount-Everest-Expedition 1922,0.894721145243066,0.9331259720062208,-0.03840482676315482
+f1_original_recomputed,Nichtregierungsorganisation,Straßenbahn München Baureihe R,0.4982561036372695,0.6882312456985547,-0.18997514206128513
+f1_original_recomputed,HolidayCheck Group,Drehstrom-Versuchsstrecke Groß-Lichterfelde–Zehlendorf,0.0,1.1049723756906078,-1.1049723756906078
+f1_original_recomputed,Ifo-Geschäftsklimaindex,Halsamphora des Exekias (Berlin F 1720),0.0,2.2459292532285233,-2.2459292532285233
+f1_original_recomputed,Klaus Berger (Theologe),Elias Canetti,2.1621621621621623,0.7267441860465116,1.4354179761156507
+f1_original_recomputed,Fußball in England,Uralische Sprachen,0.4708097928436911,1.5077271013946476,-1.0369173085509564
+f1_original_recomputed,Wilhelm Aumer,Geneviève Thiroux d’Arconville,0.8658008658008658,1.0223206679161698,-0.15651980211530403
+f1_original_recomputed,Bund des russischen Volkes,Dschabal Sindschar,0.9624639076034649,0.2363507445048452,0.7261131630986197
+f1_original_recomputed,Kaufmännischer Verband Schweiz,Lendkanal,0.0,0.4904364884747425,-0.4904364884747425
+f1_original_recomputed,Erzgebirgischer Schwibbogen,Tokugawa Ieyasu,1.0735373054213635,2.6427061310782243,-1.5691688256568608
+f1_original_recomputed,Kameralistik,Parkeisenbahn Wuhlheide,1.355243096730476,0.0,1.355243096730476
+f1_original_recomputed,Street Football/Episodenliste,Apatheia,1.74995139023916,1.4607679465776293,0.2891834436615306
+f1_original_recomputed,Revisionismus,Oliver-Hazard-Perry-Klasse,0.4830917874396135,0.0,0.4830917874396135
+f1_original_recomputed,Ökostrom,Physikalische Größe,0.4519433564326605,0.14943215780035862,0.30251119863230186
+f1_original_recomputed,Holy Spirit,Ringo (Ballade),1.152073732718894,0.361794500723589,0.7902792319953049
+f1_original_recomputed,Etikettierungsansatz,Yorktown-Klasse (1937),1.069137562366358,0.0,1.069137562366358
+f1_original_recomputed,Michael Vassiliadis,Catarina (Schiff),0.5988023952095808,2.8885037550548818,-2.289701359845301
+f1_original_recomputed,Parov Stelar,Édouard Nanny,0.0,1.6863406408094435,-1.6863406408094435
+f1_original_recomputed,Reinhold Tüxen,Carrara-Marmor,0.45662100456621,0.4371584699453552,0.019462534620854843
+f1_original_recomputed,Naturwissenschaft und Religion,Metallica (Album),1.6835016835016834,0.5005840146837978,1.1829176688178857
+f1_original_recomputed,Angela Merici,Fish and Chips,0.670465973851827,0.7122507122507122,-0.04178473839888519
+f1_original_recomputed,Biphobie,Fester Wechselkurs,1.2468827930174564,0.0,1.2468827930174564
+f1_original_recomputed,Troy Davis,"Dorsetshire (Schiff, 1930)",1.436265709156194,0.34518467380048323,1.0910810353557108
+f1_original_recomputed,Oberösterreichische Versicherung,Lubok,0.0,0.0,0.0
+f1_original_recomputed,Kornische Sprache,Buch Tobit,2.3923444976076556,1.6008537886873,0.7914907089203556
+f1_original_recomputed,George Peabody,George Alsop,0.0,7.107952021323856,-7.107952021323856
+f1_original_recomputed,Intrexx,Coniophis,3.6166365280289328,0.0,3.6166365280289328
+f1_original_recomputed,Politikverdrossenheit,George Mason,2.2549869904596704,1.840942562592047,0.4140444278676234
+f1_original_recomputed,Nursultan Nasarbajew,Diolkos,0.0,3.8294613224406433,-3.8294613224406433
+f1_original_recomputed,Biofeedback,Theorie der endlichen Kugelpackungen,1.2200081333875559,1.6019223067681216,-0.38191417338056577
+f1_original_recomputed,Kindertagesbetreuung,Wieslauftalbahn,0.26688017080330934,0.542740841248304,-0.2758606704449947
+f1_original_recomputed,Geschichte Äquatorialguineas,Mesolongi,0.0,1.0235414534288638,-1.0235414534288638
+f1_original_recomputed,Self Storage,Adolf von Kröner,0.0,0.423728813559322,-0.423728813559322
+f1_original_recomputed,Thomas Ball Barratt,Madlax,0.0,1.3010668748373666,-1.3010668748373666
+f1_original_recomputed,"Föderaler Öffentlicher Dienst Auswärtige Angelegenheiten, Außenhandel und Entwicklungszusammenarbeit",Fünfjahrplan (Briefmarkenserie),0.0,0.0,0.0
+f1_original_recomputed,Unicredit Bank Austria,Kloster Himmelkron,0.22686025408348456,2.791496671677045,-2.5646364175935603
+f1_original_recomputed,Politisches System Japans,Craters of the Moon National Monument,0.2744990392533626,0.8875739644970414,-0.6130749252436788
+f1_original_recomputed,Al-Andalus,Basler Fasnacht,0.6458557588805167,0.21805494984736154,0.4278008090331552
+f1_original_recomputed,Judentum in Afrika,LGV Est européenne,1.380002509095471,0.26068821689259647,1.1193142922028745
+f1_original_recomputed,Nornickel,Schwarzwaldbahn (Baden),0.0,0.21168501270110077,-0.21168501270110077
+f1_original_recomputed,Data Loss Prevention,Bonnetiaceae,0.5602240896358543,0.0,0.5602240896358543
+f1_original_recomputed,Ahmad Schah Massoud,S-Bahn Zürich,0.4126547455295736,0.5521811154058531,-0.13952636987627953
+f1_original_recomputed,Andor Ákos,Deutsche Bank Park,1.059001512859304,0.45551169146674764,0.6034898213925564
+f1_original_recomputed,Massivholzbau,Zielratte,0.9074410163339383,0.0,0.9074410163339383
+f1_original_recomputed,Israelitische Synagogen-Gemeinde Adass Jisroel zu Berlin,Parochialkirche (Berlin),0.44208664898320066,2.2013207924754856,-1.759234143492285
+f1_original_recomputed,Bernd Kebelmann,Halo-System,0.0,0.6589785831960461,-0.6589785831960461
+f1_original_recomputed,Austerität,Georges Scelle,0.7741935483870968,0.532197977647685,0.2419955707394118
+f1_original_recomputed,Montessori Biberkor,Bruttoinlandsprodukt,0.6963788300835655,0.35816618911174786,0.33821264097181764
+f1_original_recomputed,Neukirchen-Vluyn,George Appo,0.30802402587401817,0.43315044758879584,-0.12512642171477767
+f1_original_recomputed,Gesellschaft für Unternehmensgeschichte,"Trier, Stadtbibliothek, Hs. 171/1626",0.0,2.1436227224008575,-2.1436227224008575
+f1_original_recomputed,Ilse Schwidetzky,Soliman (Elefant),0.0,1.9252984212552946,-1.9252984212552946
+f1_original_recomputed,Wuestenstrom,Queen-Elizabeth-Klasse (2017),0.0,1.0025062656641603,-1.0025062656641603
+f1_original_recomputed,Transzendentale Meditation,Ammonios Hermeiou,0.8467400508044031,2.7642276422764227,-1.9174875914720197
+f1_original_recomputed,Monocab,Pont Ferroviaire Saint-Laurent,0.3718854592785422,0.3206155819172812,0.05126987736126104
+f1_original_recomputed,TransPod,Richomer,0.0,3.735325506937033,-3.735325506937033
+f1_original_recomputed,Wasser-Abrasiv-Suspensions-Strahlschneiden,Kleine Magellansche Wolke,0.9891196834817012,1.1057869517139698,-0.11666726823226858
+f1_original_recomputed,Propaganda im Ersten Weltkrieg,Zwinger (Münster),0.9126169290440338,1.4895729890764648,-0.576956060032431
+f1_original_recomputed,Dräxlmaier,Brinkmanship,0.0,0.5485463521667581,-0.5485463521667581
+f1_original_recomputed,Schulpflicht,Straßenbahn München Baureihe S,0.6993006993006993,0.0,0.6993006993006993
+f1_original_recomputed,Babylon A.D.,Richard Laymon,0.0,0.0,0.0
+f1_original_recomputed,Fraunhofer-Institut für Keramische Technologien und Systeme,Solanum subg. Leptostemonum,0.0,0.0,0.0
+f1_original_recomputed,Sexhandel in Thailand,Bruno Büchner,0.0,0.0,0.0
+f1_original_recomputed,Deutsche Steinzeug Cremer & Breuer,Wittem-Projekt,0.21119324181626187,1.295816364309515,-1.0846231224932532
+f1_original_recomputed,Große Hungersnot in Irland,Teltow-Werft,1.243008079552517,0.206996481059822,1.036011598492695
+f1_original_recomputed,Staat,Computerbetrug,0.15149219815179518,0.7707723138584861,-0.619280115706691
+f1_original_recomputed,Ludwig-Boltzmann-Institut für Funktionelle Hirntopographie,Drahtgewebe (Filtration),0.0,0.4930966469428008,-0.4930966469428008
+f1_original_recomputed,Partidul Social Democrat European,Philokartie,0.0,0.5228758169934641,-0.5228758169934641
+f1_original_recomputed,Atari Teenage Riot,Cindy Sherman,0.3351206434316354,0.7109847138286527,-0.3758640703970173
+f1_original_recomputed,Schlacht im Ia-Drang-Tal,Chinesische Volksbank,0.2963841138114997,0.3000300030003,-0.003645889188800322
+f1_original_recomputed,Hamburg Commercial Bank,Korsika im Altertum,0.5370569280343717,2.922422954303932,-2.38536602626956
+f1_original_recomputed,Helmtherapie,Acherontia lachesis,0.0,0.0,0.0
+f1_original_recomputed,EU-Erweiterung 2004,Handelsgeschäft,2.5906735751295336,0.6917223887479824,1.8989511863815511
+f1_original_recomputed,Neokatechumenaler Weg,Günther Anders,1.1320220744304514,0.4046398705152414,0.72738220391521
+f1_original_recomputed,Chartered Institute for Archaeologists,Philadelphia and Reading Railroad Bridge (Susquehanna River),0.0,0.0,0.0
+f1_original_recomputed,Neue Kadampa-Tradition,Weinbau in Kanada,0.6275494195167869,1.591343093570974,-0.9637936740541871
+f1_original_recomputed,Timotheus Höttges,Josephus Daniels (Schiff),0.0,0.43103448275862066,-0.43103448275862066
+f1_original_recomputed,Luftlager,Löffelhund,0.8216926869350862,0.8488964346349746,-0.027203747699888314
+f1_original_recomputed,Die Zeitgeist-Bewegung,Basfia succiniciproducens,1.3221683561040105,0.0,1.3221683561040105
+f1_original_recomputed,Tempolimit,Lift-off-Verfahren,1.0664770707429791,0.3620564808110065,0.7044205899319727
+f1_original_recomputed,Iqos,ASB Bridge,0.9560229445506692,1.0642071656615821,-0.10818422111091297
+f1_original_recomputed,Sklavenhandel,Panzerhaubitze 2000,0.7478312892611427,0.7030371203599549,0.044794168901187814
+f1_original_recomputed,The Third Wave,Regenbaum,0.0,0.46533271288971617,-0.46533271288971617
+f1_original_recomputed,Verelendungstheorie,Big-Mac-Index,2.4973242953977883,0.32247662044501774,2.1748476749527708
+f1_original_recomputed,Jüngere Dryaszeit,Keilzinkung,1.7322444939371442,0.2403846153846154,1.4918598785525288
+f1_original_recomputed,Gestalttherapie,Katalyse,0.5166178749784742,0.34867503486750345,0.16794284011097077
+f1_original_recomputed,Küchenabfallzerkleinerer,Kauffmann-White-Schema,1.7301038062283738,1.474382602285293,0.25572120394308073
+f1_original_recomputed,Kurort,Schäbe,0.0,0.0,0.0
+f1_original_recomputed,Substanzinduzierte Psychose,Wechselwirkende Galaxien,0.25,1.8726591760299625,-1.6226591760299625
+f1_original_recomputed,Das sogenannte Böse,Gänsegeier,1.3559322033898307,3.143893591293833,-1.7879613879040022
+f1_original_recomputed,Pharmahersteller,(136199) Eris,0.588350656991567,0.39100684261974583,0.19734381437182114
+f1_original_recomputed,PANalytical,Waldsteppenotter,1.0183299389002036,0.0,1.0183299389002036
+f1_original_recomputed,T-Labs,Lilium pardalinum subsp. pitkinense,0.0,1.3236267372600927,-1.3236267372600927
+f1_original_recomputed,Ungarische Notation,Ankylosauria,0.916030534351145,5.418422636965683,-4.502392102614539
+f1_original_recomputed,Prophylaxe (Zahnmedizin),Crashtest-Dummy,0.2387774594078319,0.45146726862302483,-0.21268980921519293
+f1_original_recomputed,Alexander-Technik,Ringelröteln,0.49115913555992136,1.1001100110011,-0.6089508754411785
+f1_original_recomputed,Neoarchaikum,Schlangenadler,2.1199273167777104,2.084574151280524,0.03535316549718637
+f1_lexical_only,Evolutionärer Humanismus,Ästhetische Theorie,1.8957345971563981,0.7841087297438578,1.1116258674125403
+f1_lexical_only,Franz Eibel,Wieladingen (Adelsgeschlecht),0.4001600640256103,10.338345864661653,-9.938185800636042
+f1_lexical_only,Fluglärm,Spezielle Relativitätstheorie,0.2277385561375541,0.5603810591202018,-0.33264250298264764
+f1_lexical_only,Armenisch-iranische Beziehungen,Absturz einer MiG-21 in Cottbus 1975,1.2539184952978057,0.0,1.2539184952978057
+f1_lexical_only,Geschichte der Volksrepublik China,Neukirchen (Gemeinde Altmünster),0.0,0.5368406925244934,-0.5368406925244934
+f1_lexical_only,Karl Haushofer,Jüdisches Museum Westfalen,0.0,0.6194507536650836,-0.6194507536650836
+f1_lexical_only,Mobile Jugendarbeit,Mayaguez-Zwischenfall,0.6369426751592356,0.0,0.6369426751592356
+f1_lexical_only,Elektrokonvulsionstherapie,Spirostachys africana,0.2181500872600349,0.0,0.2181500872600349
+f1_lexical_only,Westdeutsche Studentenbewegung der 1960er Jahre,Schloss Beuggen,0.2671296914652063,1.5062303163083663,-1.23910062484316
+f1_lexical_only,Ernst Melchior,Vincenz Grimm,1.0335917312661498,1.467710371819961,-0.4341186405538111
+f1_lexical_only,Backhefe,Wellensittich,0.48685491723466406,0.4982561036372695,-0.011401186402605457
+f1_lexical_only,Multikulturalismus,Jiang Wei,0.0,1.00150225338007,-1.00150225338007
+f1_lexical_only,Zeitfreiwilligenverband,Soo Line High Bridge,1.7016449234259785,0.0,1.7016449234259785
+f1_lexical_only,Witness Lee,Curling,0.2996703626011388,0.14749262536873156,0.1521777372324072
+f1_lexical_only,Alois Windisch,U-Boot mit Marschflugkörpern,0.0,0.0,0.0
+f1_lexical_only,GEMA-freie Musik,Landmine,2.953874119518291,0.23084025854108955,2.7230338609772016
+f1_lexical_only,Tuileriensturm,Christian Precht,0.9146341463414634,5.021971123666039,-4.107336977324575
+f1_lexical_only,Beichte,Francis Bacon,0.6648936170212766,1.9687807621994093,-1.3038871451781326
+f1_lexical_only,Liber AL vel Legis,Picket Fences – Tatort Gartenzaun,1.4684287812041115,0.5202913631633715,0.9481374180407399
+f1_lexical_only,"Chronik des Kriegs in Nahost, Dezember 2024 und Januar 2025",Wälder und Wiesen bei Malsch,1.1739385638818234,0.681044267877412,0.49289429600441137
+f1_lexical_only,Institut für Zeitgeschichte,Urnenfelderkultur,0.0,2.326934264107039,-2.326934264107039
+f1_lexical_only,Humanitäre Intervention,Projekt A119,1.2463647694225177,0.0,1.2463647694225177
+f1_lexical_only,Weltraumhabitat,Raffinerieexplosion in Texas City,0.8178286648947045,0.20622808826562178,0.6116005766290827
+f1_lexical_only,Klassenpolitik,Tabernae (Rheinzabern),1.187178472497032,1.203369434416366,-0.01619096191933389
+f1_lexical_only,Kennedy-Methode,Galle,0.0,0.44306601683650865,-0.44306601683650865
+f1_lexical_only,Tiroler Festspiele Erl,Slughorn,0.0,3.386550556361877,-3.386550556361877
+f1_lexical_only,Heinrich von Brentano,Geschmackliche Schärfe,0.5790387955993052,0.0,0.5790387955993052
+f1_lexical_only,Bulgarische Wiedergeburt,Elisabeth von Weida,0.0,3.867151956323931,-3.867151956323931
+f1_lexical_only,Schulweg,Operation Earnest Will,0.6119951040391677,0.5966587112171838,0.015336392821983846
+f1_lexical_only,Lindisfarne Castle,Eliezer Ben-Jehuda,1.6835016835016834,0.5178663904712584,1.165635293030425
+f1_lexical_only,Apadravya,Laufhühnchen,0.9818360333824251,0.0,0.9818360333824251
+f1_lexical_only,Spervogelton,Year Zero,5.181347150259067,0.0,5.181347150259067
+f1_lexical_only,MHealth,Fraktursonografie,0.649772579597141,1.2755102040816326,-0.6257376244844917
+f1_lexical_only,Sozionik und intertypische Beziehungen,Porsche 930,0.6068697657482705,0.1462629808395495,0.460606784908721
+f1_lexical_only,Bürgerversicherung,Grunewaldsee,0.6093845216331506,0.0,0.6093845216331506
+f1_lexical_only,Kuno Raeber,Garfield Akers,0.5630630630630631,1.978891820580475,-1.415828757517412
+f1_lexical_only,Wandervogel,Ziehenschule,0.38699690402476783,0.9445418971798677,-0.5575449931550999
+f1_lexical_only,GS1,"Seawolf (U-Boot, 1957)",0.0,0.0,0.0
+f1_lexical_only,Franz Ruppert,Wilhelm Kühnert,0.9914077990746861,0.0,0.9914077990746861
+f1_lexical_only,Sanktuarium der Barmherzigkeit Gottes,GateKeeper (Cedar Point),0.31036623215394166,0.0,0.31036623215394166
+f1_lexical_only,Disneyland Park (Paris),Ismar Boas,0.1547508511296812,0.0,0.1547508511296812
+f1_lexical_only,Entführung von Michal Kováč jun.,East Brother Light Station,0.6369426751592356,0.0,0.6369426751592356
+f1_lexical_only,Wiktor Juschtschenko,Bremer Wappen,0.36656891495601174,0.7145409074669524,-0.3479719925109407
+f1_lexical_only,International Christian Fellowship,Gresgen,0.4923682914820286,0.7560483870967741,-0.26368009561474554
+f1_lexical_only,Uniface,Wiesenweihe,0.9395552771688068,0.8795074758135445,0.06004780135526233
+f1_lexical_only,Mary Baker Eddy,Gerrard Winstanley,0.0,0.657030223390276,-0.657030223390276
+f1_lexical_only,Dorje Shugden,Britische Mount-Everest-Expedition 1922,0.894721145243066,0.9331259720062208,-0.03840482676315482
+f1_lexical_only,Nichtregierungsorganisation,Straßenbahn München Baureihe R,0.33217073575817974,0.6882312456985547,-0.3560605099403749
+f1_lexical_only,HolidayCheck Group,Drehstrom-Versuchsstrecke Groß-Lichterfelde–Zehlendorf,0.0,1.1049723756906078,-1.1049723756906078
+f1_lexical_only,Ifo-Geschäftsklimaindex,Halsamphora des Exekias (Berlin F 1720),0.0,2.2459292532285233,-2.2459292532285233
+f1_lexical_only,Klaus Berger (Theologe),Elias Canetti,2.1621621621621623,0.7267441860465116,1.4354179761156507
+f1_lexical_only,Fußball in England,Uralische Sprachen,0.4708097928436911,1.1307953260459858,-0.6599855332022946
+f1_lexical_only,Wilhelm Aumer,Geneviève Thiroux d’Arconville,0.6926406926406926,0.8519338899301414,-0.1592931972894488
+f1_lexical_only,Bund des russischen Volkes,Dschabal Sindschar,0.9624639076034649,0.0,0.9624639076034649
+f1_lexical_only,Kaufmännischer Verband Schweiz,Lendkanal,0.0,0.4904364884747425,-0.4904364884747425
+f1_lexical_only,Erzgebirgischer Schwibbogen,Tokugawa Ieyasu,1.0735373054213635,2.6427061310782243,-1.5691688256568608
+f1_lexical_only,Kameralistik,Parkeisenbahn Wuhlheide,1.0164323225478569,0.0,1.0164323225478569
+f1_lexical_only,Street Football/Episodenliste,Apatheia,0.7777561734396267,1.4607679465776293,-0.6830117731380027
+f1_lexical_only,Revisionismus,Oliver-Hazard-Perry-Klasse,0.4830917874396135,0.0,0.4830917874396135
+f1_lexical_only,Ökostrom,Physikalische Größe,0.30129557095510695,0.14943215780035862,0.15186341315474833
+f1_lexical_only,Holy Spirit,Ringo (Ballade),0.7680491551459293,0.0,0.7680491551459293
+f1_lexical_only,Etikettierungsansatz,Yorktown-Klasse (1937),0.7127583749109052,0.0,0.7127583749109052
+f1_lexical_only,Michael Vassiliadis,Catarina (Schiff),0.0,2.310803004043905,-2.310803004043905
+f1_lexical_only,Parov Stelar,Édouard Nanny,0.0,1.349072512647555,-1.349072512647555
+f1_lexical_only,Reinhold Tüxen,Carrara-Marmor,0.45662100456621,0.2185792349726776,0.23804176959353243
+f1_lexical_only,Naturwissenschaft und Religion,Metallica (Album),1.5151515151515151,0.5005840146837978,1.0145675004677175
+f1_lexical_only,Angela Merici,Fish and Chips,0.670465973851827,0.7122507122507122,-0.04178473839888519
+f1_lexical_only,Biphobie,Fester Wechselkurs,1.2468827930174564,0.0,1.2468827930174564
+f1_lexical_only,Troy Davis,"Dorsetshire (Schiff, 1930)",1.436265709156194,0.0,1.436265709156194
+f1_lexical_only,Oberösterreichische Versicherung,Lubok,0.0,0.0,0.0
+f1_lexical_only,Kornische Sprache,Buch Tobit,1.4952153110047848,1.6008537886873,-0.10563847768251522
+f1_lexical_only,George Peabody,George Alsop,0.0,6.219458018658374,-6.219458018658374
+f1_lexical_only,Intrexx,Coniophis,3.6166365280289328,0.0,3.6166365280289328
+f1_lexical_only,Politikverdrossenheit,George Mason,1.7346053772766694,1.288659793814433,0.44594558346223634
+f1_lexical_only,Nursultan Nasarbajew,Diolkos,0.0,2.808271636456472,-2.808271636456472
+f1_lexical_only,Biofeedback,Theorie der endlichen Kugelpackungen,1.2200081333875559,1.2014417300760913,0.01856640331146453
+f1_lexical_only,Kindertagesbetreuung,Wieslauftalbahn,0.26688017080330934,0.542740841248304,-0.2758606704449947
+f1_lexical_only,Geschichte Äquatorialguineas,Mesolongi,0.0,1.0235414534288638,-1.0235414534288638
+f1_lexical_only,Self Storage,Adolf von Kröner,0.0,0.0,0.0
+f1_lexical_only,Thomas Ball Barratt,Madlax,0.0,1.0408534998698933,-1.0408534998698933
+f1_lexical_only,"Föderaler Öffentlicher Dienst Auswärtige Angelegenheiten, Außenhandel und Entwicklungszusammenarbeit",Fünfjahrplan (Briefmarkenserie),0.0,0.0,0.0
+f1_lexical_only,Unicredit Bank Austria,Kloster Himmelkron,0.22686025408348456,2.576766158471119,-2.3499059043876342
+f1_lexical_only,Politisches System Japans,Craters of the Moon National Monument,0.2744990392533626,0.8875739644970414,-0.6130749252436788
+f1_lexical_only,Al-Andalus,Basler Fasnacht,0.6458557588805167,0.21805494984736154,0.4278008090331552
+f1_lexical_only,Judentum in Afrika,LGV Est européenne,1.1290929619872037,0.13034410844629823,0.9987488535409055
+f1_lexical_only,Nornickel,Schwarzwaldbahn (Baden),0.0,0.0,0.0
+f1_lexical_only,Data Loss Prevention,Bonnetiaceae,0.5602240896358543,0.0,0.5602240896358543
+f1_lexical_only,Ahmad Schah Massoud,S-Bahn Zürich,0.4126547455295736,0.5521811154058531,-0.13952636987627953
+f1_lexical_only,Andor Ákos,Deutsche Bank Park,0.7564296520423601,0.3036744609778318,0.45275519106452833
+f1_lexical_only,Massivholzbau,Zielratte,0.9074410163339383,0.0,0.9074410163339383
+f1_lexical_only,Israelitische Synagogen-Gemeinde Adass Jisroel zu Berlin,Parochialkirche (Berlin),0.44208664898320066,1.6009605763458075,-1.1588739273626067
+f1_lexical_only,Bernd Kebelmann,Halo-System,0.0,0.32948929159802304,-0.32948929159802304
+f1_lexical_only,Austerität,Georges Scelle,0.5161290322580645,0.2660989888238425,0.250030043434222
+f1_lexical_only,Montessori Biberkor,Bruttoinlandsprodukt,0.6963788300835655,0.17908309455587393,0.5172957355276916
+f1_lexical_only,Neukirchen-Vluyn,George Appo,0.30802402587401817,0.43315044758879584,-0.12512642171477767
+f1_lexical_only,Gesellschaft für Unternehmensgeschichte,"Trier, Stadtbibliothek, Hs. 171/1626",0.0,2.1436227224008575,-2.1436227224008575
+f1_lexical_only,Ilse Schwidetzky,Soliman (Elefant),0.0,1.5402387370042356,-1.5402387370042356
+f1_lexical_only,Wuestenstrom,Queen-Elizabeth-Klasse (2017),0.0,0.2506265664160401,-0.2506265664160401
+f1_lexical_only,Transzendentale Meditation,Ammonios Hermeiou,0.8467400508044031,2.6016260162601625,-1.7548859654557596
+f1_lexical_only,Monocab,Pont Ferroviaire Saint-Laurent,0.3718854592785422,0.3206155819172812,0.05126987736126104
+f1_lexical_only,TransPod,Richomer,0.0,3.735325506937033,-3.735325506937033
+f1_lexical_only,Wasser-Abrasiv-Suspensions-Strahlschneiden,Kleine Magellansche Wolke,0.6594131223211342,1.1057869517139698,-0.44637382939283554
+f1_lexical_only,Propaganda im Ersten Weltkrieg,Zwinger (Münster),0.9126169290440338,0.9930486593843098,-0.08043173034027595
+f1_lexical_only,Dräxlmaier,Brinkmanship,0.0,0.5485463521667581,-0.5485463521667581
+f1_lexical_only,Schulpflicht,Straßenbahn München Baureihe S,0.6993006993006993,0.0,0.6993006993006993
+f1_lexical_only,Babylon A.D.,Richard Laymon,0.0,0.0,0.0
+f1_lexical_only,Fraunhofer-Institut für Keramische Technologien und Systeme,Solanum subg. Leptostemonum,0.0,0.0,0.0
+f1_lexical_only,Sexhandel in Thailand,Bruno Büchner,0.0,0.0,0.0
+f1_lexical_only,Deutsche Steinzeug Cremer & Breuer,Wittem-Projekt,0.21119324181626187,1.1106997408367272,-0.8995064990204653
+f1_lexical_only,Große Hungersnot in Irland,Teltow-Werft,1.0358400662937641,0.206996481059822,0.8288435852339422
+f1_lexical_only,Staat,Computerbetrug,0.15149219815179518,0.616617851086789,-0.46512565293499386
+f1_lexical_only,Ludwig-Boltzmann-Institut für Funktionelle Hirntopographie,Drahtgewebe (Filtration),0.0,0.0,0.0
+f1_lexical_only,Partidul Social Democrat European,Philokartie,0.0,0.5228758169934641,-0.5228758169934641
+f1_lexical_only,Atari Teenage Riot,Cindy Sherman,0.0,0.0,0.0
+f1_lexical_only,Schlacht im Ia-Drang-Tal,Chinesische Volksbank,0.2963841138114997,0.0,0.2963841138114997
+f1_lexical_only,Hamburg Commercial Bank,Korsika im Altertum,0.5370569280343717,2.922422954303932,-2.38536602626956
+f1_lexical_only,Helmtherapie,Acherontia lachesis,0.0,0.0,0.0
+f1_lexical_only,EU-Erweiterung 2004,Handelsgeschäft,0.7065473386716911,0.46114825916532165,0.2453990795063694
+f1_lexical_only,Neokatechumenaler Weg,Günther Anders,1.1320220744304514,0.4046398705152414,0.72738220391521
+f1_lexical_only,Chartered Institute for Archaeologists,Philadelphia and Reading Railroad Bridge (Susquehanna River),0.0,0.0,0.0
+f1_lexical_only,Neue Kadampa-Tradition,Weinbau in Kanada,0.6275494195167869,0.9548058561425843,-0.3272564366257974
+f1_lexical_only,Timotheus Höttges,Josephus Daniels (Schiff),0.0,0.43103448275862066,-0.43103448275862066
+f1_lexical_only,Luftlager,Löffelhund,0.8216926869350862,0.4244482173174873,0.39724446961759896
+f1_lexical_only,Die Zeitgeist-Bewegung,Basfia succiniciproducens,0.881445570736007,0.0,0.881445570736007
+f1_lexical_only,Tempolimit,Lift-off-Verfahren,0.0,0.3620564808110065,-0.3620564808110065
+f1_lexical_only,Iqos,ASB Bridge,0.9560229445506692,1.0642071656615821,-0.10818422111091297
+f1_lexical_only,Sklavenhandel,Panzerhaubitze 2000,0.5982650314089142,0.281214848143982,0.3170501832649322
+f1_lexical_only,The Third Wave,Regenbaum,0.0,0.46533271288971617,-0.46533271288971617
+f1_lexical_only,Verelendungstheorie,Big-Mac-Index,2.1405636817695326,0.32247662044501774,1.8180870613245148
+f1_lexical_only,Jüngere Dryaszeit,Keilzinkung,1.2373174956693886,0.2403846153846154,0.9969328802847732
+f1_lexical_only,Gestalttherapie,Katalyse,0.34441191665231613,0.34867503486750345,-0.004263118215187323
+f1_lexical_only,Küchenabfallzerkleinerer,Kauffmann-White-Schema,0.6920415224913494,0.7371913011426465,-0.0451497786512971
+f1_lexical_only,Kurort,Schäbe,0.0,0.0,0.0
+f1_lexical_only,Substanzinduzierte Psychose,Wechselwirkende Galaxien,0.25,1.8726591760299625,-1.6226591760299625
+f1_lexical_only,Das sogenannte Böse,Gänsegeier,1.1299435028248588,3.143893591293833,-2.013950088468974
+f1_lexical_only,Pharmahersteller,(136199) Eris,0.3922337713277113,0.39100684261974583,0.00122692870796548
+f1_lexical_only,PANalytical,Waldsteppenotter,1.0183299389002036,0.0,1.0183299389002036
+f1_lexical_only,T-Labs,Lilium pardalinum subsp. pitkinense,0.0,1.3236267372600927,-1.3236267372600927
+f1_lexical_only,Ungarische Notation,Ankylosauria,0.3053435114503817,2.7092113184828417,-2.40386780703246
+f1_lexical_only,Prophylaxe (Zahnmedizin),Crashtest-Dummy,0.2387774594078319,0.22573363431151242,0.013043825096319489
+f1_lexical_only,Alexander-Technik,Ringelröteln,0.0,1.1001100110011,-1.1001100110011
+f1_lexical_only,Neoarchaikum,Schlangenadler,1.8170805572380375,1.7867778439547348,0.030302713283302696
+f1_konjunktiv_ii_only,Evolutionärer Humanismus,Ästhetische Theorie,0.47393364928909953,0.0,0.47393364928909953
+f1_konjunktiv_ii_only,Franz Eibel,Wieladingen (Adelsgeschlecht),0.0,0.9398496240601504,-0.9398496240601504
+f1_konjunktiv_ii_only,Fluglärm,Spezielle Relativitätstheorie,0.0,0.14009526478005044,-0.14009526478005044
+f1_konjunktiv_ii_only,Armenisch-iranische Beziehungen,Absturz einer MiG-21 in Cottbus 1975,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Geschichte der Volksrepublik China,Neukirchen (Gemeinde Altmünster),0.0,0.0,0.0
+f1_konjunktiv_ii_only,Karl Haushofer,Jüdisches Museum Westfalen,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Mobile Jugendarbeit,Mayaguez-Zwischenfall,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Elektrokonvulsionstherapie,Spirostachys africana,0.2181500872600349,0.0,0.2181500872600349
+f1_konjunktiv_ii_only,Westdeutsche Studentenbewegung der 1960er Jahre,Schloss Beuggen,0.13356484573260316,0.41079008626591806,-0.2772252405333149
+f1_konjunktiv_ii_only,Ernst Melchior,Vincenz Grimm,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Backhefe,Wellensittich,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Multikulturalismus,Jiang Wei,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Zeitfreiwilligenverband,Soo Line High Bridge,0.5672149744753262,0.0,0.5672149744753262
+f1_konjunktiv_ii_only,Witness Lee,Curling,0.8990110878034162,0.0,0.8990110878034162
+f1_konjunktiv_ii_only,Alois Windisch,U-Boot mit Marschflugkörpern,0.0,0.0,0.0
+f1_konjunktiv_ii_only,GEMA-freie Musik,Landmine,0.22722108611679165,0.0,0.22722108611679165
+f1_konjunktiv_ii_only,Tuileriensturm,Christian Precht,0.0,2.197112366603892,-2.197112366603892
+f1_konjunktiv_ii_only,Beichte,Francis Bacon,0.26595744680851063,0.28125439459991564,-0.015296947791405002
+f1_konjunktiv_ii_only,Liber AL vel Legis,Picket Fences – Tatort Gartenzaun,0.0,0.1300728407908429,-0.1300728407908429
+f1_konjunktiv_ii_only,"Chronik des Kriegs in Nahost, Dezember 2024 und Januar 2025",Wälder und Wiesen bei Malsch,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Institut für Zeitgeschichte,Urnenfelderkultur,0.0,0.5817335660267597,-0.5817335660267597
+f1_konjunktiv_ii_only,Humanitäre Intervention,Projekt A119,0.0,0.8503401360544217,-0.8503401360544217
+f1_konjunktiv_ii_only,Weltraumhabitat,Raffinerieexplosion in Texas City,6.747086485381312,0.0,6.747086485381312
+f1_konjunktiv_ii_only,Klassenpolitik,Tabernae (Rheinzabern),0.0,0.40112314480545525,-0.40112314480545525
+f1_konjunktiv_ii_only,Kennedy-Methode,Galle,0.44822949350067237,0.0,0.44822949350067237
+f1_konjunktiv_ii_only,Tiroler Festspiele Erl,Slughorn,0.0,0.9675858732462506,-0.9675858732462506
+f1_konjunktiv_ii_only,Heinrich von Brentano,Geschmackliche Schärfe,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Bulgarische Wiedergeburt,Elisabeth von Weida,0.0,0.45495905368516837,-0.45495905368516837
+f1_konjunktiv_ii_only,Schulweg,Operation Earnest Will,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Lindisfarne Castle,Eliezer Ben-Jehuda,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Apadravya,Laufhühnchen,0.49091801669121254,0.0,0.49091801669121254
+f1_konjunktiv_ii_only,Spervogelton,Year Zero,2.727024815925825,0.0,2.727024815925825
+f1_konjunktiv_ii_only,MHealth,Fraktursonografie,1.949317738791423,0.0,1.949317738791423
+f1_konjunktiv_ii_only,Sozionik und intertypische Beziehungen,Porsche 930,0.24274790629930817,0.0,0.24274790629930817
+f1_konjunktiv_ii_only,Bürgerversicherung,Grunewaldsee,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Kuno Raeber,Garfield Akers,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Wandervogel,Ziehenschule,0.0,0.26986911347996223,-0.26986911347996223
+f1_konjunktiv_ii_only,GS1,"Seawolf (U-Boot, 1957)",0.0,0.48146364949446313,-0.48146364949446313
+f1_konjunktiv_ii_only,Franz Ruppert,Wilhelm Kühnert,0.6609385327164573,0.0,0.6609385327164573
+f1_konjunktiv_ii_only,Sanktuarium der Barmherzigkeit Gottes,GateKeeper (Cedar Point),0.0,0.0,0.0
+f1_konjunktiv_ii_only,Disneyland Park (Paris),Ismar Boas,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Entführung von Michal Kováč jun.,East Brother Light Station,0.6369426751592356,0.0,0.6369426751592356
+f1_konjunktiv_ii_only,Wiktor Juschtschenko,Bremer Wappen,0.0,0.0,0.0
+f1_konjunktiv_ii_only,International Christian Fellowship,Gresgen,0.0,0.25201612903225806,-0.25201612903225806
+f1_konjunktiv_ii_only,Uniface,Wiesenweihe,0.0,0.2931691586045148,-0.2931691586045148
+f1_konjunktiv_ii_only,Mary Baker Eddy,Gerrard Winstanley,0.0,0.657030223390276,-0.657030223390276
+f1_konjunktiv_ii_only,Dorje Shugden,Britische Mount-Everest-Expedition 1922,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Nichtregierungsorganisation,Straßenbahn München Baureihe R,0.16608536787908987,0.0,0.16608536787908987
+f1_konjunktiv_ii_only,HolidayCheck Group,Drehstrom-Versuchsstrecke Groß-Lichterfelde–Zehlendorf,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Ifo-Geschäftsklimaindex,Halsamphora des Exekias (Berlin F 1720),0.0,0.0,0.0
+f1_konjunktiv_ii_only,Klaus Berger (Theologe),Elias Canetti,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Fußball in England,Uralische Sprachen,0.0,0.3769317753486619,-0.3769317753486619
+f1_konjunktiv_ii_only,Wilhelm Aumer,Geneviève Thiroux d’Arconville,0.17316017316017315,0.1703867779860283,0.0027733951741448493
+f1_konjunktiv_ii_only,Bund des russischen Volkes,Dschabal Sindschar,0.0,0.2363507445048452,-0.2363507445048452
+f1_konjunktiv_ii_only,Kaufmännischer Verband Schweiz,Lendkanal,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Erzgebirgischer Schwibbogen,Tokugawa Ieyasu,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Kameralistik,Parkeisenbahn Wuhlheide,0.338810774182619,0.0,0.338810774182619
+f1_konjunktiv_ii_only,Street Football/Episodenliste,Apatheia,0.9721952167995334,0.0,0.9721952167995334
+f1_konjunktiv_ii_only,Revisionismus,Oliver-Hazard-Perry-Klasse,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Ökostrom,Physikalische Größe,0.15064778547755348,0.0,0.15064778547755348
+f1_konjunktiv_ii_only,Holy Spirit,Ringo (Ballade),0.38402457757296465,0.361794500723589,0.02223007684937567
+f1_konjunktiv_ii_only,Etikettierungsansatz,Yorktown-Klasse (1937),0.3563791874554526,0.0,0.3563791874554526
+f1_konjunktiv_ii_only,Michael Vassiliadis,Catarina (Schiff),0.5988023952095808,0.5777007510109763,0.021101644198604497
+f1_konjunktiv_ii_only,Parov Stelar,Édouard Nanny,0.0,0.3372681281618887,-0.3372681281618887
+f1_konjunktiv_ii_only,Reinhold Tüxen,Carrara-Marmor,0.0,0.2185792349726776,-0.2185792349726776
+f1_konjunktiv_ii_only,Naturwissenschaft und Religion,Metallica (Album),0.16835016835016836,0.0,0.16835016835016836
+f1_konjunktiv_ii_only,Angela Merici,Fish and Chips,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Biphobie,Fester Wechselkurs,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Troy Davis,"Dorsetshire (Schiff, 1930)",0.0,0.34518467380048323,-0.34518467380048323
+f1_konjunktiv_ii_only,Oberösterreichische Versicherung,Lubok,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Kornische Sprache,Buch Tobit,0.8971291866028709,0.0,0.8971291866028709
+f1_konjunktiv_ii_only,George Peabody,George Alsop,0.0,0.888494002665482,-0.888494002665482
+f1_konjunktiv_ii_only,Intrexx,Coniophis,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Politikverdrossenheit,George Mason,0.5203816131830009,0.5522827687776142,-0.03190115559461326
+f1_konjunktiv_ii_only,Nursultan Nasarbajew,Diolkos,0.0,1.0211896859841716,-1.0211896859841716
+f1_konjunktiv_ii_only,Biofeedback,Theorie der endlichen Kugelpackungen,0.0,0.4004805766920304,-0.4004805766920304
+f1_konjunktiv_ii_only,Kindertagesbetreuung,Wieslauftalbahn,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Geschichte Äquatorialguineas,Mesolongi,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Self Storage,Adolf von Kröner,0.0,0.423728813559322,-0.423728813559322
+f1_konjunktiv_ii_only,Thomas Ball Barratt,Madlax,0.0,0.2602133749674733,-0.2602133749674733
+f1_konjunktiv_ii_only,"Föderaler Öffentlicher Dienst Auswärtige Angelegenheiten, Außenhandel und Entwicklungszusammenarbeit",Fünfjahrplan (Briefmarkenserie),0.0,0.0,0.0
+f1_konjunktiv_ii_only,Unicredit Bank Austria,Kloster Himmelkron,0.0,0.21473051320592657,-0.21473051320592657
+f1_konjunktiv_ii_only,Politisches System Japans,Craters of the Moon National Monument,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Al-Andalus,Basler Fasnacht,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Judentum in Afrika,LGV Est européenne,0.2509095471082675,0.13034410844629823,0.12056543866196928
+f1_konjunktiv_ii_only,Nornickel,Schwarzwaldbahn (Baden),0.0,0.21168501270110077,-0.21168501270110077
+f1_konjunktiv_ii_only,Data Loss Prevention,Bonnetiaceae,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Ahmad Schah Massoud,S-Bahn Zürich,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Andor Ákos,Deutsche Bank Park,0.302571860816944,0.1518372304889159,0.15073463032802809
+f1_konjunktiv_ii_only,Massivholzbau,Zielratte,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Israelitische Synagogen-Gemeinde Adass Jisroel zu Berlin,Parochialkirche (Berlin),0.0,0.6003602161296778,-0.6003602161296778
+f1_konjunktiv_ii_only,Bernd Kebelmann,Halo-System,0.0,0.32948929159802304,-0.32948929159802304
+f1_konjunktiv_ii_only,Austerität,Georges Scelle,0.25806451612903225,0.2660989888238425,-0.008034472694810224
+f1_konjunktiv_ii_only,Montessori Biberkor,Bruttoinlandsprodukt,0.0,0.17908309455587393,-0.17908309455587393
+f1_konjunktiv_ii_only,Neukirchen-Vluyn,George Appo,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Gesellschaft für Unternehmensgeschichte,"Trier, Stadtbibliothek, Hs. 171/1626",0.0,0.0,0.0
+f1_konjunktiv_ii_only,Ilse Schwidetzky,Soliman (Elefant),0.0,0.3850596842510589,-0.3850596842510589
+f1_konjunktiv_ii_only,Wuestenstrom,Queen-Elizabeth-Klasse (2017),0.0,0.7518796992481204,-0.7518796992481204
+f1_konjunktiv_ii_only,Transzendentale Meditation,Ammonios Hermeiou,0.0,0.16260162601626016,-0.16260162601626016
+f1_konjunktiv_ii_only,Monocab,Pont Ferroviaire Saint-Laurent,0.0,0.0,0.0
+f1_konjunktiv_ii_only,TransPod,Richomer,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Wasser-Abrasiv-Suspensions-Strahlschneiden,Kleine Magellansche Wolke,0.3297065611605671,0.0,0.3297065611605671
+f1_konjunktiv_ii_only,Propaganda im Ersten Weltkrieg,Zwinger (Münster),0.0,0.4965243296921549,-0.4965243296921549
+f1_konjunktiv_ii_only,Dräxlmaier,Brinkmanship,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Schulpflicht,Straßenbahn München Baureihe S,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Babylon A.D.,Richard Laymon,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Fraunhofer-Institut für Keramische Technologien und Systeme,Solanum subg. Leptostemonum,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Sexhandel in Thailand,Bruno Büchner,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Deutsche Steinzeug Cremer & Breuer,Wittem-Projekt,0.0,0.18511662347278787,-0.18511662347278787
+f1_konjunktiv_ii_only,Große Hungersnot in Irland,Teltow-Werft,0.20716801325875286,0.0,0.20716801325875286
+f1_konjunktiv_ii_only,Staat,Computerbetrug,0.0,0.15415446277169725,-0.15415446277169725
+f1_konjunktiv_ii_only,Ludwig-Boltzmann-Institut für Funktionelle Hirntopographie,Drahtgewebe (Filtration),0.0,0.4930966469428008,-0.4930966469428008
+f1_konjunktiv_ii_only,Partidul Social Democrat European,Philokartie,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Atari Teenage Riot,Cindy Sherman,0.3351206434316354,0.7109847138286527,-0.3758640703970173
+f1_konjunktiv_ii_only,Schlacht im Ia-Drang-Tal,Chinesische Volksbank,0.0,0.3000300030003,-0.3000300030003
+f1_konjunktiv_ii_only,Hamburg Commercial Bank,Korsika im Altertum,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Helmtherapie,Acherontia lachesis,0.0,0.0,0.0
+f1_konjunktiv_ii_only,EU-Erweiterung 2004,Handelsgeschäft,1.8841262364578428,0.23057412958266083,1.653552106875182
+f1_konjunktiv_ii_only,Neokatechumenaler Weg,Günther Anders,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Chartered Institute for Archaeologists,Philadelphia and Reading Railroad Bridge (Susquehanna River),0.0,0.0,0.0
+f1_konjunktiv_ii_only,Neue Kadampa-Tradition,Weinbau in Kanada,0.0,0.6365372374283895,-0.6365372374283895
+f1_konjunktiv_ii_only,Timotheus Höttges,Josephus Daniels (Schiff),0.0,0.0,0.0
+f1_konjunktiv_ii_only,Luftlager,Löffelhund,0.0,0.4244482173174873,-0.4244482173174873
+f1_konjunktiv_ii_only,Die Zeitgeist-Bewegung,Basfia succiniciproducens,0.4407227853680035,0.0,0.4407227853680035
+f1_konjunktiv_ii_only,Tempolimit,Lift-off-Verfahren,1.0664770707429791,0.0,1.0664770707429791
+f1_konjunktiv_ii_only,Iqos,ASB Bridge,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Sklavenhandel,Panzerhaubitze 2000,0.14956625785222855,0.421822272215973,-0.27225601436374447
+f1_konjunktiv_ii_only,The Third Wave,Regenbaum,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Verelendungstheorie,Big-Mac-Index,0.35676061362825545,0.0,0.35676061362825545
+f1_konjunktiv_ii_only,Jüngere Dryaszeit,Keilzinkung,0.4949269982677555,0.0,0.4949269982677555
+f1_konjunktiv_ii_only,Gestalttherapie,Katalyse,0.17220595832615807,0.0,0.17220595832615807
+f1_konjunktiv_ii_only,Küchenabfallzerkleinerer,Kauffmann-White-Schema,1.0380622837370244,0.7371913011426465,0.30087098259437783
+f1_konjunktiv_ii_only,Kurort,Schäbe,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Substanzinduzierte Psychose,Wechselwirkende Galaxien,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Das sogenannte Böse,Gänsegeier,0.22598870056497175,0.0,0.22598870056497175
+f1_konjunktiv_ii_only,Pharmahersteller,(136199) Eris,0.19611688566385566,0.0,0.19611688566385566
+f1_konjunktiv_ii_only,PANalytical,Waldsteppenotter,0.0,0.0,0.0
+f1_konjunktiv_ii_only,T-Labs,Lilium pardalinum subsp. pitkinense,0.0,0.0,0.0
+f1_konjunktiv_ii_only,Ungarische Notation,Ankylosauria,0.6106870229007634,2.7092113184828417,-2.098524295582078
+f1_konjunktiv_ii_only,Prophylaxe (Zahnmedizin),Crashtest-Dummy,0.0,0.22573363431151242,-0.22573363431151242
+f1_konjunktiv_ii_only,Alexander-Technik,Ringelröteln,0.49115913555992136,0.0,0.49115913555992136
+f1_konjunktiv_ii_only,Neoarchaikum,Schlangenadler,0.30284675953967294,0.2977963073257892,0.005050452213883727
+f1_no_generic_verbs,Evolutionärer Humanismus,Ästhetische Theorie,1.8957345971563981,0.2613695765812859,1.6343650205751121
+f1_no_generic_verbs,Franz Eibel,Wieladingen (Adelsgeschlecht),0.4001600640256103,9.868421052631579,-9.468260988605968
+f1_no_generic_verbs,Fluglärm,Spezielle Relativitätstheorie,0.2277385561375541,0.2801905295601009,-0.05245197342254679
+f1_no_generic_verbs,Armenisch-iranische Beziehungen,Absturz einer MiG-21 in Cottbus 1975,1.2539184952978057,0.0,1.2539184952978057
+f1_no_generic_verbs,Geschichte der Volksrepublik China,Neukirchen (Gemeinde Altmünster),0.0,0.5368406925244934,-0.5368406925244934
+f1_no_generic_verbs,Karl Haushofer,Jüdisches Museum Westfalen,0.0,0.6194507536650836,-0.6194507536650836
+f1_no_generic_verbs,Mobile Jugendarbeit,Mayaguez-Zwischenfall,0.6369426751592356,0.0,0.6369426751592356
+f1_no_generic_verbs,Elektrokonvulsionstherapie,Spirostachys africana,0.4363001745200698,0.0,0.4363001745200698
+f1_no_generic_verbs,Westdeutsche Studentenbewegung der 1960er Jahre,Schloss Beuggen,0.40069453719780956,1.6431603450636723,-1.2424658078658628
+f1_no_generic_verbs,Ernst Melchior,Vincenz Grimm,1.0335917312661498,1.467710371819961,-0.4341186405538111
+f1_no_generic_verbs,Backhefe,Wellensittich,0.48685491723466406,0.4982561036372695,-0.011401186402605457
+f1_no_generic_verbs,Multikulturalismus,Jiang Wei,0.0,1.00150225338007,-1.00150225338007
+f1_no_generic_verbs,Zeitfreiwilligenverband,Soo Line High Bridge,2.268859897901305,0.0,2.268859897901305
+f1_no_generic_verbs,Witness Lee,Curling,0.8990110878034162,0.14749262536873156,0.7515184624346847
+f1_no_generic_verbs,Alois Windisch,U-Boot mit Marschflugkörpern,0.0,0.0,0.0
+f1_no_generic_verbs,GEMA-freie Musik,Landmine,3.1810952056350827,0.23084025854108955,2.950254947093993
+f1_no_generic_verbs,Tuileriensturm,Christian Precht,0.9146341463414634,7.219083490269931,-6.304449343928467
+f1_no_generic_verbs,Beichte,Francis Bacon,0.6648936170212766,1.546899170299536,-0.8820055532782595
+f1_no_generic_verbs,Liber AL vel Legis,Picket Fences – Tatort Gartenzaun,1.0166045408336157,0.2601456815816858,0.7564588592519299
+f1_no_generic_verbs,"Chronik des Kriegs in Nahost, Dezember 2024 und Januar 2025",Wälder und Wiesen bei Malsch,1.1739385638818234,0.4540295119182747,0.7199090519635487
+f1_no_generic_verbs,Institut für Zeitgeschichte,Urnenfelderkultur,0.0,2.326934264107039,-2.326934264107039
+f1_no_generic_verbs,Humanitäre Intervention,Projekt A119,1.2463647694225177,0.8503401360544217,0.396024633368096
+f1_no_generic_verbs,Weltraumhabitat,Raffinerieexplosion in Texas City,7.5649151502760175,0.0,7.5649151502760175
+f1_no_generic_verbs,Klassenpolitik,Tabernae (Rheinzabern),1.187178472497032,1.203369434416366,-0.01619096191933389
+f1_no_generic_verbs,Kennedy-Methode,Galle,0.44822949350067237,0.44306601683650865,0.005163476664163724
+f1_no_generic_verbs,Tiroler Festspiele Erl,Slughorn,0.0,4.354136429608127,-4.354136429608127
+f1_no_generic_verbs,Heinrich von Brentano,Geschmackliche Schärfe,0.5790387955993052,0.0,0.5790387955993052
+f1_no_generic_verbs,Bulgarische Wiedergeburt,Elisabeth von Weida,0.0,3.1847133757961785,-3.1847133757961785
+f1_no_generic_verbs,Schulweg,Operation Earnest Will,0.0,0.5966587112171838,-0.5966587112171838
+f1_no_generic_verbs,Lindisfarne Castle,Eliezer Ben-Jehuda,0.5611672278338945,0.5178663904712584,0.043300837362636124
+f1_no_generic_verbs,Apadravya,Laufhühnchen,1.4727540500736376,0.0,1.4727540500736376
+f1_no_generic_verbs,Spervogelton,Year Zero,7.63566948459231,0.0,7.63566948459231
+f1_no_generic_verbs,MHealth,Fraktursonografie,2.599090318388564,1.2755102040816326,1.3235801143069312
+f1_no_generic_verbs,Sozionik und intertypische Beziehungen,Porsche 930,0.48549581259861635,0.1462629808395495,0.3392328317590668
+f1_no_generic_verbs,Bürgerversicherung,Grunewaldsee,0.6093845216331506,0.0,0.6093845216331506
+f1_no_generic_verbs,Kuno Raeber,Garfield Akers,0.0,1.978891820580475,-1.978891820580475
+f1_no_generic_verbs,Wandervogel,Ziehenschule,0.38699690402476783,1.079476453919849,-0.6924795498950811
+f1_no_generic_verbs,GS1,"Seawolf (U-Boot, 1957)",0.0,0.48146364949446313,-0.48146364949446313
+f1_no_generic_verbs,Franz Ruppert,Wilhelm Kühnert,1.3218770654329146,0.0,1.3218770654329146
+f1_no_generic_verbs,Sanktuarium der Barmherzigkeit Gottes,GateKeeper (Cedar Point),0.0,0.0,0.0
+f1_no_generic_verbs,Disneyland Park (Paris),Ismar Boas,0.1547508511296812,0.0,0.1547508511296812
+f1_no_generic_verbs,Entführung von Michal Kováč jun.,East Brother Light Station,1.2738853503184713,0.0,1.2738853503184713
+f1_no_generic_verbs,Wiktor Juschtschenko,Bremer Wappen,0.36656891495601174,0.7145409074669524,-0.3479719925109407
+f1_no_generic_verbs,International Christian Fellowship,Gresgen,0.0,1.0080645161290323,-1.0080645161290323
+f1_no_generic_verbs,Uniface,Wiesenweihe,0.9395552771688068,1.1726766344180592,-0.23312135724925243
+f1_no_generic_verbs,Mary Baker Eddy,Gerrard Winstanley,0.0,1.314060446780552,-1.314060446780552
+f1_no_generic_verbs,Dorje Shugden,Britische Mount-Everest-Expedition 1922,0.29824038174768863,0.9331259720062208,-0.6348855902585322
+f1_no_generic_verbs,Nichtregierungsorganisation,Straßenbahn München Baureihe R,0.33217073575817974,0.6882312456985547,-0.3560605099403749
+f1_no_generic_verbs,HolidayCheck Group,Drehstrom-Versuchsstrecke Groß-Lichterfelde–Zehlendorf,0.0,1.1049723756906078,-1.1049723756906078
+f1_no_generic_verbs,Ifo-Geschäftsklimaindex,Halsamphora des Exekias (Berlin F 1720),0.0,2.2459292532285233,-2.2459292532285233
+f1_no_generic_verbs,Klaus Berger (Theologe),Elias Canetti,1.2612612612612613,0.5450581395348837,0.7162031217263776
+f1_no_generic_verbs,Fußball in England,Uralische Sprachen,0.4708097928436911,1.5077271013946476,-1.0369173085509564
+f1_no_generic_verbs,Wilhelm Aumer,Geneviève Thiroux d’Arconville,0.8658008658008658,0.6815471119441132,0.18425375385675258
+f1_no_generic_verbs,Bund des russischen Volkes,Dschabal Sindschar,0.7218479307025986,0.2363507445048452,0.4854971861977534
+f1_no_generic_verbs,Kaufmännischer Verband Schweiz,Lendkanal,0.0,0.4904364884747425,-0.4904364884747425
+f1_no_generic_verbs,Erzgebirgischer Schwibbogen,Tokugawa Ieyasu,1.0735373054213635,2.6427061310782243,-1.5691688256568608
+f1_no_generic_verbs,Kameralistik,Parkeisenbahn Wuhlheide,1.355243096730476,0.0,1.355243096730476
+f1_no_generic_verbs,Street Football/Episodenliste,Apatheia,1.3610733035193467,1.2520868113522536,0.10898649216709311
+f1_no_generic_verbs,Revisionismus,Oliver-Hazard-Perry-Klasse,0.4830917874396135,0.0,0.4830917874396135
+f1_no_generic_verbs,Ökostrom,Physikalische Größe,0.4519433564326605,0.0,0.4519433564326605
+f1_no_generic_verbs,Holy Spirit,Ringo (Ballade),1.152073732718894,0.361794500723589,0.7902792319953049
+f1_no_generic_verbs,Etikettierungsansatz,Yorktown-Klasse (1937),0.7127583749109052,0.0,0.7127583749109052
+f1_no_generic_verbs,Michael Vassiliadis,Catarina (Schiff),0.5988023952095808,2.8885037550548818,-2.289701359845301
+f1_no_generic_verbs,Parov Stelar,Édouard Nanny,0.0,1.6863406408094435,-1.6863406408094435
+f1_no_generic_verbs,Reinhold Tüxen,Carrara-Marmor,0.45662100456621,0.4371584699453552,0.019462534620854843
+f1_no_generic_verbs,Naturwissenschaft und Religion,Metallica (Album),1.0101010101010102,0.5005840146837978,0.5095169954172124
+f1_no_generic_verbs,Angela Merici,Fish and Chips,0.670465973851827,0.7122507122507122,-0.04178473839888519
+f1_no_generic_verbs,Biphobie,Fester Wechselkurs,0.6234413965087282,0.0,0.6234413965087282
+f1_no_generic_verbs,Troy Davis,"Dorsetshire (Schiff, 1930)",1.436265709156194,0.34518467380048323,1.0910810353557108
+f1_no_generic_verbs,Oberösterreichische Versicherung,Lubok,0.0,0.0,0.0
+f1_no_generic_verbs,Kornische Sprache,Buch Tobit,2.3923444976076556,1.6008537886873,0.7914907089203556
+f1_no_generic_verbs,George Peabody,George Alsop,0.0,7.107952021323856,-7.107952021323856
+f1_no_generic_verbs,Intrexx,Coniophis,2.7124773960216997,0.0,2.7124773960216997
+f1_no_generic_verbs,Politikverdrossenheit,George Mason,2.0815264527320037,1.840942562592047,0.24058389013995662
+f1_no_generic_verbs,Nursultan Nasarbajew,Diolkos,0.0,3.8294613224406433,-3.8294613224406433
+f1_no_generic_verbs,Biofeedback,Theorie der endlichen Kugelpackungen,1.2200081333875559,1.2014417300760913,0.01856640331146453
+f1_no_generic_verbs,Kindertagesbetreuung,Wieslauftalbahn,0.26688017080330934,0.542740841248304,-0.2758606704449947
+f1_no_generic_verbs,Geschichte Äquatorialguineas,Mesolongi,0.0,0.818833162743091,-0.818833162743091
+f1_no_generic_verbs,Self Storage,Adolf von Kröner,0.0,0.423728813559322,-0.423728813559322
+f1_no_generic_verbs,Thomas Ball Barratt,Madlax,0.0,0.78064012490242,-0.78064012490242
+f1_no_generic_verbs,"Föderaler Öffentlicher Dienst Auswärtige Angelegenheiten, Außenhandel und Entwicklungszusammenarbeit",Fünfjahrplan (Briefmarkenserie),0.0,0.0,0.0
+f1_no_generic_verbs,Unicredit Bank Austria,Kloster Himmelkron,0.22686025408348456,2.576766158471119,-2.3499059043876342
+f1_no_generic_verbs,Politisches System Japans,Craters of the Moon National Monument,0.2744990392533626,0.591715976331361,-0.31721693707799836
+f1_no_generic_verbs,Al-Andalus,Basler Fasnacht,0.43057050592034446,0.21805494984736154,0.21251555607298292
+f1_no_generic_verbs,Judentum in Afrika,LGV Est européenne,0.8781834148789361,0.26068821689259647,0.6174951979863397
+f1_no_generic_verbs,Nornickel,Schwarzwaldbahn (Baden),0.0,0.21168501270110077,-0.21168501270110077
+f1_no_generic_verbs,Data Loss Prevention,Bonnetiaceae,0.5602240896358543,0.0,0.5602240896358543
+f1_no_generic_verbs,Ahmad Schah Massoud,S-Bahn Zürich,0.1375515818431912,0.41413583655438985,-0.27658425471119863
+f1_no_generic_verbs,Andor Ákos,Deutsche Bank Park,0.9077155824508321,0.45551169146674764,0.4522038909840844
+f1_no_generic_verbs,Massivholzbau,Zielratte,0.9074410163339383,0.0,0.9074410163339383
+f1_no_generic_verbs,Israelitische Synagogen-Gemeinde Adass Jisroel zu Berlin,Parochialkirche (Berlin),0.44208664898320066,2.2013207924754856,-1.759234143492285
+f1_no_generic_verbs,Bernd Kebelmann,Halo-System,0.0,0.6589785831960461,-0.6589785831960461
+f1_no_generic_verbs,Austerität,Georges Scelle,0.5161290322580645,0.2660989888238425,0.250030043434222
+f1_no_generic_verbs,Montessori Biberkor,Bruttoinlandsprodukt,0.6963788300835655,0.35816618911174786,0.33821264097181764
+f1_no_generic_verbs,Neukirchen-Vluyn,George Appo,0.15401201293700909,0.43315044758879584,-0.2791384346517868
+f1_no_generic_verbs,Gesellschaft für Unternehmensgeschichte,"Trier, Stadtbibliothek, Hs. 171/1626",0.0,1.607717041800643,-1.607717041800643
+f1_no_generic_verbs,Ilse Schwidetzky,Soliman (Elefant),0.0,1.5402387370042356,-1.5402387370042356
+f1_no_generic_verbs,Wuestenstrom,Queen-Elizabeth-Klasse (2017),0.0,1.0025062656641603,-1.0025062656641603
+f1_no_generic_verbs,Transzendentale Meditation,Ammonios Hermeiou,0.6773920406435224,2.6016260162601625,-1.92423397561664
+f1_no_generic_verbs,Monocab,Pont Ferroviaire Saint-Laurent,0.3718854592785422,0.3206155819172812,0.05126987736126104
+f1_no_generic_verbs,TransPod,Richomer,0.0,3.735325506937033,-3.735325506937033
+f1_no_generic_verbs,Wasser-Abrasiv-Suspensions-Strahlschneiden,Kleine Magellansche Wolke,0.9891196834817012,1.1057869517139698,-0.11666726823226858
+f1_no_generic_verbs,Propaganda im Ersten Weltkrieg,Zwinger (Münster),0.4563084645220169,1.4895729890764648,-1.0332645245544478
+f1_no_generic_verbs,Dräxlmaier,Brinkmanship,0.0,0.5485463521667581,-0.5485463521667581
+f1_no_generic_verbs,Schulpflicht,Straßenbahn München Baureihe S,0.6993006993006993,0.0,0.6993006993006993
+f1_no_generic_verbs,Babylon A.D.,Richard Laymon,0.0,0.0,0.0
+f1_no_generic_verbs,Fraunhofer-Institut für Keramische Technologien und Systeme,Solanum subg. Leptostemonum,0.0,0.0,0.0
+f1_no_generic_verbs,Sexhandel in Thailand,Bruno Büchner,0.0,0.0,0.0
+f1_no_generic_verbs,Deutsche Steinzeug Cremer & Breuer,Wittem-Projekt,0.21119324181626187,1.295816364309515,-1.0846231224932532
+f1_no_generic_verbs,Große Hungersnot in Irland,Teltow-Werft,1.0358400662937641,0.206996481059822,0.8288435852339422
+f1_no_generic_verbs,Staat,Computerbetrug,0.15149219815179518,0.7707723138584861,-0.619280115706691
+f1_no_generic_verbs,Ludwig-Boltzmann-Institut für Funktionelle Hirntopographie,Drahtgewebe (Filtration),0.0,0.4930966469428008,-0.4930966469428008
+f1_no_generic_verbs,Partidul Social Democrat European,Philokartie,0.0,0.5228758169934641,-0.5228758169934641
+f1_no_generic_verbs,Atari Teenage Riot,Cindy Sherman,0.3351206434316354,0.7109847138286527,-0.3758640703970173
+f1_no_generic_verbs,Schlacht im Ia-Drang-Tal,Chinesische Volksbank,0.2963841138114997,0.3000300030003,-0.003645889188800322
+f1_no_generic_verbs,Hamburg Commercial Bank,Korsika im Altertum,0.5370569280343717,2.922422954303932,-2.38536602626956
+f1_no_generic_verbs,Helmtherapie,Acherontia lachesis,0.0,0.0,0.0
+f1_no_generic_verbs,EU-Erweiterung 2004,Handelsgeschäft,2.5906735751295336,0.23057412958266083,2.3600994455468727
+f1_no_generic_verbs,Neokatechumenaler Weg,Günther Anders,0.14150275930380643,0.2697599136768276,-0.12825715437302118
+f1_no_generic_verbs,Chartered Institute for Archaeologists,Philadelphia and Reading Railroad Bridge (Susquehanna River),0.0,0.0,0.0
+f1_no_generic_verbs,Neue Kadampa-Tradition,Weinbau in Kanada,0.31377470975839344,1.591343093570974,-1.2775683838125806
+f1_no_generic_verbs,Timotheus Höttges,Josephus Daniels (Schiff),0.0,0.43103448275862066,-0.43103448275862066
+f1_no_generic_verbs,Luftlager,Löffelhund,0.8216926869350862,0.8488964346349746,-0.027203747699888314
+f1_no_generic_verbs,Die Zeitgeist-Bewegung,Basfia succiniciproducens,1.3221683561040105,0.0,1.3221683561040105
+f1_no_generic_verbs,Tempolimit,Lift-off-Verfahren,1.0664770707429791,0.3620564808110065,0.7044205899319727
+f1_no_generic_verbs,Iqos,ASB Bridge,0.9560229445506692,1.0642071656615821,-0.10818422111091297
+f1_no_generic_verbs,Sklavenhandel,Panzerhaubitze 2000,0.7478312892611427,0.7030371203599549,0.044794168901187814
+f1_no_generic_verbs,The Third Wave,Regenbaum,0.0,0.0,0.0
+f1_no_generic_verbs,Verelendungstheorie,Big-Mac-Index,1.4270424545130218,0.32247662044501774,1.104565834068004
+f1_no_generic_verbs,Jüngere Dryaszeit,Keilzinkung,1.7322444939371442,0.2403846153846154,1.4918598785525288
+f1_no_generic_verbs,Gestalttherapie,Katalyse,0.34441191665231613,0.34867503486750345,-0.004263118215187323
+f1_no_generic_verbs,Küchenabfallzerkleinerer,Kauffmann-White-Schema,1.3840830449826989,1.474382602285293,-0.0902995573025942
+f1_no_generic_verbs,Kurort,Schäbe,0.0,0.0,0.0
+f1_no_generic_verbs,Substanzinduzierte Psychose,Wechselwirkende Galaxien,0.25,1.6051364365971108,-1.3551364365971108
+f1_no_generic_verbs,Das sogenannte Böse,Gänsegeier,1.3559322033898307,3.143893591293833,-1.7879613879040022
+f1_no_generic_verbs,Pharmahersteller,(136199) Eris,0.588350656991567,0.39100684261974583,0.19734381437182114
+f1_no_generic_verbs,PANalytical,Waldsteppenotter,1.0183299389002036,0.0,1.0183299389002036
+f1_no_generic_verbs,T-Labs,Lilium pardalinum subsp. pitkinense,0.0,1.3236267372600927,-1.3236267372600927
+f1_no_generic_verbs,Ungarische Notation,Ankylosauria,0.916030534351145,5.418422636965683,-4.502392102614539
+f1_no_generic_verbs,Prophylaxe (Zahnmedizin),Crashtest-Dummy,0.2387774594078319,0.45146726862302483,-0.21268980921519293
+f1_no_generic_verbs,Alexander-Technik,Ringelröteln,0.49115913555992136,0.55005500550055,-0.05889586994062862
+f1_no_generic_verbs,Neoarchaikum,Schlangenadler,2.1199273167777104,1.1911852293031568,0.9287420874745536
+f1_strong_uncertainty_only,Evolutionärer Humanismus,Ästhetische Theorie,0.47393364928909953,0.0,0.47393364928909953
+f1_strong_uncertainty_only,Franz Eibel,Wieladingen (Adelsgeschlecht),0.4001600640256103,7.518796992481203,-7.118636928455593
+f1_strong_uncertainty_only,Fluglärm,Spezielle Relativitätstheorie,0.0,0.14009526478005044,-0.14009526478005044
+f1_strong_uncertainty_only,Armenisch-iranische Beziehungen,Absturz einer MiG-21 in Cottbus 1975,0.0,0.0,0.0
+f1_strong_uncertainty_only,Geschichte der Volksrepublik China,Neukirchen (Gemeinde Altmünster),0.0,0.40263051939337,-0.40263051939337
+f1_strong_uncertainty_only,Karl Haushofer,Jüdisches Museum Westfalen,0.0,0.20648358455502788,-0.20648358455502788
+f1_strong_uncertainty_only,Mobile Jugendarbeit,Mayaguez-Zwischenfall,0.0,0.0,0.0
+f1_strong_uncertainty_only,Elektrokonvulsionstherapie,Spirostachys africana,0.0,0.0,0.0
+f1_strong_uncertainty_only,Westdeutsche Studentenbewegung der 1960er Jahre,Schloss Beuggen,0.0,0.8215801725318361,-0.8215801725318361
+f1_strong_uncertainty_only,Ernst Melchior,Vincenz Grimm,0.5167958656330749,0.9784735812133072,-0.4616777155802323
+f1_strong_uncertainty_only,Backhefe,Wellensittich,0.0,0.4982561036372695,-0.4982561036372695
+f1_strong_uncertainty_only,Multikulturalismus,Jiang Wei,0.0,1.00150225338007,-1.00150225338007
+f1_strong_uncertainty_only,Zeitfreiwilligenverband,Soo Line High Bridge,1.1344299489506524,0.0,1.1344299489506524
+f1_strong_uncertainty_only,Witness Lee,Curling,0.0,0.0,0.0
+f1_strong_uncertainty_only,Alois Windisch,U-Boot mit Marschflugkörpern,0.0,0.0,0.0
+f1_strong_uncertainty_only,GEMA-freie Musik,Landmine,1.5905476028175414,0.0,1.5905476028175414
+f1_strong_uncertainty_only,Tuileriensturm,Christian Precht,0.9146341463414634,2.824858757062147,-1.9102246107206837
+f1_strong_uncertainty_only,Beichte,Francis Bacon,0.0,0.7031359864997891,-0.7031359864997891
+f1_strong_uncertainty_only,Liber AL vel Legis,Picket Fences – Tatort Gartenzaun,0.3388681802778719,0.0,0.3388681802778719
+f1_strong_uncertainty_only,"Chronik des Kriegs in Nahost, Dezember 2024 und Januar 2025",Wälder und Wiesen bei Malsch,0.9782821365681863,0.22701475595913734,0.751267380609049
+f1_strong_uncertainty_only,Institut für Zeitgeschichte,Urnenfelderkultur,0.0,1.4543339150668992,-1.4543339150668992
+f1_strong_uncertainty_only,Humanitäre Intervention,Projekt A119,0.8309098462816784,0.0,0.8309098462816784
+f1_strong_uncertainty_only,Weltraumhabitat,Raffinerieexplosion in Texas City,0.40891433244735226,0.0,0.40891433244735226
+f1_strong_uncertainty_only,Klassenpolitik,Tabernae (Rheinzabern),0.3957261574990107,0.40112314480545525,-0.005396987306444556
+f1_strong_uncertainty_only,Kennedy-Methode,Galle,0.0,0.44306601683650865,-0.44306601683650865
+f1_strong_uncertainty_only,Tiroler Festspiele Erl,Slughorn,0.0,1.4513788098693758,-1.4513788098693758
+f1_strong_uncertainty_only,Heinrich von Brentano,Geschmackliche Schärfe,0.5790387955993052,0.0,0.5790387955993052
+f1_strong_uncertainty_only,Bulgarische Wiedergeburt,Elisabeth von Weida,0.0,2.0473157415832577,-2.0473157415832577
+f1_strong_uncertainty_only,Schulweg,Operation Earnest Will,0.0,0.5966587112171838,-0.5966587112171838
+f1_strong_uncertainty_only,Lindisfarne Castle,Eliezer Ben-Jehuda,0.5611672278338945,0.5178663904712584,0.043300837362636124
+f1_strong_uncertainty_only,Apadravya,Laufhühnchen,0.0,0.0,0.0
+f1_strong_uncertainty_only,Spervogelton,Year Zero,1.636214889555495,0.0,1.636214889555495
+f1_strong_uncertainty_only,MHealth,Fraktursonografie,0.0,0.31887755102040816,-0.31887755102040816
+f1_strong_uncertainty_only,Sozionik und intertypische Beziehungen,Porsche 930,0.24274790629930817,0.0,0.24274790629930817
+f1_strong_uncertainty_only,Bürgerversicherung,Grunewaldsee,0.0,0.0,0.0
+f1_strong_uncertainty_only,Kuno Raeber,Garfield Akers,0.0,1.978891820580475,-1.978891820580475
+f1_strong_uncertainty_only,Wandervogel,Ziehenschule,0.12899896800825592,0.13493455673998112,-0.0059355887317252
+f1_strong_uncertainty_only,GS1,"Seawolf (U-Boot, 1957)",0.0,0.0,0.0
+f1_strong_uncertainty_only,Franz Ruppert,Wilhelm Kühnert,0.33046926635822865,0.0,0.33046926635822865
+f1_strong_uncertainty_only,Sanktuarium der Barmherzigkeit Gottes,GateKeeper (Cedar Point),0.0,0.0,0.0
+f1_strong_uncertainty_only,Disneyland Park (Paris),Ismar Boas,0.1547508511296812,0.0,0.1547508511296812
+f1_strong_uncertainty_only,Entführung von Michal Kováč jun.,East Brother Light Station,0.0,0.0,0.0
+f1_strong_uncertainty_only,Wiktor Juschtschenko,Bremer Wappen,0.0,0.0,0.0
+f1_strong_uncertainty_only,International Christian Fellowship,Gresgen,0.0,0.25201612903225806,-0.25201612903225806
+f1_strong_uncertainty_only,Uniface,Wiesenweihe,0.0,0.0,0.0
+f1_strong_uncertainty_only,Mary Baker Eddy,Gerrard Winstanley,0.0,0.0,0.0
+f1_strong_uncertainty_only,Dorje Shugden,Britische Mount-Everest-Expedition 1922,0.29824038174768863,0.6220839813374806,-0.3238435995897919
+f1_strong_uncertainty_only,Nichtregierungsorganisation,Straßenbahn München Baureihe R,0.16608536787908987,0.0,0.16608536787908987
+f1_strong_uncertainty_only,HolidayCheck Group,Drehstrom-Versuchsstrecke Groß-Lichterfelde–Zehlendorf,0.0,0.5524861878453039,-0.5524861878453039
+f1_strong_uncertainty_only,Ifo-Geschäftsklimaindex,Halsamphora des Exekias (Berlin F 1720),0.0,1.6844469399213924,-1.6844469399213924
+f1_strong_uncertainty_only,Klaus Berger (Theologe),Elias Canetti,0.7207207207207207,0.1816860465116279,0.5390346742090928
+f1_strong_uncertainty_only,Fußball in England,Uralische Sprachen,0.23540489642184556,0.6282196255811031,-0.3928147291592575
+f1_strong_uncertainty_only,Wilhelm Aumer,Geneviève Thiroux d’Arconville,0.3463203463203463,0.1703867779860283,0.175933568334318
+f1_strong_uncertainty_only,Bund des russischen Volkes,Dschabal Sindschar,0.24061597690086622,0.0,0.24061597690086622
+f1_strong_uncertainty_only,Kaufmännischer Verband Schweiz,Lendkanal,0.0,0.4904364884747425,-0.4904364884747425
+f1_strong_uncertainty_only,Erzgebirgischer Schwibbogen,Tokugawa Ieyasu,0.5367686527106817,1.0570824524312896,-0.5203137997206079
+f1_strong_uncertainty_only,Kameralistik,Parkeisenbahn Wuhlheide,0.0,0.0,0.0
+f1_strong_uncertainty_only,Street Football/Episodenliste,Apatheia,0.38887808671981333,0.0,0.38887808671981333
+f1_strong_uncertainty_only,Revisionismus,Oliver-Hazard-Perry-Klasse,0.4830917874396135,0.0,0.4830917874396135
+f1_strong_uncertainty_only,Ökostrom,Physikalische Größe,0.15064778547755348,0.0,0.15064778547755348
+f1_strong_uncertainty_only,Holy Spirit,Ringo (Ballade),0.0,0.0,0.0
+f1_strong_uncertainty_only,Etikettierungsansatz,Yorktown-Klasse (1937),0.0,0.0,0.0
+f1_strong_uncertainty_only,Michael Vassiliadis,Catarina (Schiff),0.0,0.5777007510109763,-0.5777007510109763
+f1_strong_uncertainty_only,Parov Stelar,Édouard Nanny,0.0,0.6745362563237775,-0.6745362563237775
+f1_strong_uncertainty_only,Reinhold Tüxen,Carrara-Marmor,0.228310502283105,0.2185792349726776,0.009731267310427422
+f1_strong_uncertainty_only,Naturwissenschaft und Religion,Metallica (Album),0.16835016835016836,0.1668613382279326,0.0014888301222357736
+f1_strong_uncertainty_only,Angela Merici,Fish and Chips,0.670465973851827,0.3561253561253561,0.31434061772647093
+f1_strong_uncertainty_only,Biphobie,Fester Wechselkurs,0.6234413965087282,0.0,0.6234413965087282
+f1_strong_uncertainty_only,Troy Davis,"Dorsetshire (Schiff, 1930)",1.0771992818671454,0.0,1.0771992818671454
+f1_strong_uncertainty_only,Oberösterreichische Versicherung,Lubok,0.0,0.0,0.0
+f1_strong_uncertainty_only,Kornische Sprache,Buch Tobit,0.29904306220095694,1.0672358591248667,-0.7681927969239097
+f1_strong_uncertainty_only,George Peabody,George Alsop,0.0,3.9982230119946687,-3.9982230119946687
+f1_strong_uncertainty_only,Intrexx,Coniophis,0.0,0.0,0.0
+f1_strong_uncertainty_only,Politikverdrossenheit,George Mason,0.8673026886383347,1.288659793814433,-0.42135710517609837
+f1_strong_uncertainty_only,Nursultan Nasarbajew,Diolkos,0.0,1.7870819504723003,-1.7870819504723003
+f1_strong_uncertainty_only,Biofeedback,Theorie der endlichen Kugelpackungen,0.813338755591704,0.4004805766920304,0.4128581788996736
+f1_strong_uncertainty_only,Kindertagesbetreuung,Wieslauftalbahn,0.0,0.271370420624152,-0.271370420624152
+f1_strong_uncertainty_only,Geschichte Äquatorialguineas,Mesolongi,0.0,0.4094165813715455,-0.4094165813715455
+f1_strong_uncertainty_only,Self Storage,Adolf von Kröner,0.0,0.0,0.0
+f1_strong_uncertainty_only,Thomas Ball Barratt,Madlax,0.0,0.5204267499349466,-0.5204267499349466
+f1_strong_uncertainty_only,"Föderaler Öffentlicher Dienst Auswärtige Angelegenheiten, Außenhandel und Entwicklungszusammenarbeit",Fünfjahrplan (Briefmarkenserie),0.0,0.0,0.0
+f1_strong_uncertainty_only,Unicredit Bank Austria,Kloster Himmelkron,0.0,1.2883830792355595,-1.2883830792355595
+f1_strong_uncertainty_only,Politisches System Japans,Craters of the Moon National Monument,0.0,0.0,0.0
+f1_strong_uncertainty_only,Al-Andalus,Basler Fasnacht,0.21528525296017223,0.0,0.21528525296017223
+f1_strong_uncertainty_only,Judentum in Afrika,LGV Est européenne,0.3763643206624012,0.0,0.3763643206624012
+f1_strong_uncertainty_only,Nornickel,Schwarzwaldbahn (Baden),0.0,0.0,0.0
+f1_strong_uncertainty_only,Data Loss Prevention,Bonnetiaceae,0.0,0.0,0.0
+f1_strong_uncertainty_only,Ahmad Schah Massoud,S-Bahn Zürich,0.0,0.0,0.0
+f1_strong_uncertainty_only,Andor Ákos,Deutsche Bank Park,0.0,0.0,0.0
+f1_strong_uncertainty_only,Massivholzbau,Zielratte,0.3024803387779795,0.0,0.3024803387779795
+f1_strong_uncertainty_only,Israelitische Synagogen-Gemeinde Adass Jisroel zu Berlin,Parochialkirche (Berlin),0.0,1.2007204322593557,-1.2007204322593557
+f1_strong_uncertainty_only,Bernd Kebelmann,Halo-System,0.0,0.32948929159802304,-0.32948929159802304
+f1_strong_uncertainty_only,Austerität,Georges Scelle,0.25806451612903225,0.0,0.25806451612903225
+f1_strong_uncertainty_only,Montessori Biberkor,Bruttoinlandsprodukt,0.0,0.0,0.0
+f1_strong_uncertainty_only,Neukirchen-Vluyn,George Appo,0.15401201293700909,0.28876696505919724,-0.13475495212218816
+f1_strong_uncertainty_only,Gesellschaft für Unternehmensgeschichte,"Trier, Stadtbibliothek, Hs. 171/1626",0.0,1.607717041800643,-1.607717041800643
+f1_strong_uncertainty_only,Ilse Schwidetzky,Soliman (Elefant),0.0,1.1551790527531767,-1.1551790527531767
+f1_strong_uncertainty_only,Wuestenstrom,Queen-Elizabeth-Klasse (2017),0.0,0.2506265664160401,-0.2506265664160401
+f1_strong_uncertainty_only,Transzendentale Meditation,Ammonios Hermeiou,0.1693480101608806,1.1382113821138211,-0.9688633719529405
+f1_strong_uncertainty_only,Monocab,Pont Ferroviaire Saint-Laurent,0.0,0.0,0.0
+f1_strong_uncertainty_only,TransPod,Richomer,0.0,1.6008537886873,-1.6008537886873
+f1_strong_uncertainty_only,Wasser-Abrasiv-Suspensions-Strahlschneiden,Kleine Magellansche Wolke,0.0,1.1057869517139698,-1.1057869517139698
+f1_strong_uncertainty_only,Propaganda im Ersten Weltkrieg,Zwinger (Münster),0.4563084645220169,0.9930486593843098,-0.5367401948622929
+f1_strong_uncertainty_only,Dräxlmaier,Brinkmanship,0.0,0.0,0.0
+f1_strong_uncertainty_only,Schulpflicht,Straßenbahn München Baureihe S,0.34965034965034963,0.0,0.34965034965034963
+f1_strong_uncertainty_only,Babylon A.D.,Richard Laymon,0.0,0.0,0.0
+f1_strong_uncertainty_only,Fraunhofer-Institut für Keramische Technologien und Systeme,Solanum subg. Leptostemonum,0.0,0.0,0.0
+f1_strong_uncertainty_only,Sexhandel in Thailand,Bruno Büchner,0.0,0.0,0.0
+f1_strong_uncertainty_only,Deutsche Steinzeug Cremer & Breuer,Wittem-Projekt,0.0,0.5553498704183636,-0.5553498704183636
+f1_strong_uncertainty_only,Große Hungersnot in Irland,Teltow-Werft,0.41433602651750573,0.206996481059822,0.20733954545768374
+f1_strong_uncertainty_only,Staat,Computerbetrug,0.15149219815179518,0.4624633883150917,-0.31097119016329655
+f1_strong_uncertainty_only,Ludwig-Boltzmann-Institut für Funktionelle Hirntopographie,Drahtgewebe (Filtration),0.0,0.0,0.0
+f1_strong_uncertainty_only,Partidul Social Democrat European,Philokartie,0.0,0.5228758169934641,-0.5228758169934641
+f1_strong_uncertainty_only,Atari Teenage Riot,Cindy Sherman,0.0,0.0,0.0
+f1_strong_uncertainty_only,Schlacht im Ia-Drang-Tal,Chinesische Volksbank,0.0,0.0,0.0
+f1_strong_uncertainty_only,Hamburg Commercial Bank,Korsika im Altertum,0.26852846401718583,1.594048884165781,-1.325520420148595
+f1_strong_uncertainty_only,Helmtherapie,Acherontia lachesis,0.0,0.0,0.0
+f1_strong_uncertainty_only,EU-Erweiterung 2004,Handelsgeschäft,0.0,0.0,0.0
+f1_strong_uncertainty_only,Neokatechumenaler Weg,Günther Anders,0.14150275930380643,0.0,0.14150275930380643
+f1_strong_uncertainty_only,Chartered Institute for Archaeologists,Philadelphia and Reading Railroad Bridge (Susquehanna River),0.0,0.0,0.0
+f1_strong_uncertainty_only,Neue Kadampa-Tradition,Weinbau in Kanada,0.0,0.9548058561425843,-0.9548058561425843
+f1_strong_uncertainty_only,Timotheus Höttges,Josephus Daniels (Schiff),0.0,0.43103448275862066,-0.43103448275862066
+f1_strong_uncertainty_only,Luftlager,Löffelhund,0.0,0.0,0.0
+f1_strong_uncertainty_only,Die Zeitgeist-Bewegung,Basfia succiniciproducens,0.0,0.0,0.0
+f1_strong_uncertainty_only,Tempolimit,Lift-off-Verfahren,0.0,0.0,0.0
+f1_strong_uncertainty_only,Iqos,ASB Bridge,0.9560229445506692,0.0,0.9560229445506692
+f1_strong_uncertainty_only,Sklavenhandel,Panzerhaubitze 2000,0.4486987735566856,0.140607424071991,0.3080913494846946
+f1_strong_uncertainty_only,The Third Wave,Regenbaum,0.0,0.0,0.0
+f1_strong_uncertainty_only,Verelendungstheorie,Big-Mac-Index,0.35676061362825545,0.0,0.35676061362825545
+f1_strong_uncertainty_only,Jüngere Dryaszeit,Keilzinkung,1.2373174956693886,0.0,1.2373174956693886
+f1_strong_uncertainty_only,Gestalttherapie,Katalyse,0.0,0.0,0.0
+f1_strong_uncertainty_only,Küchenabfallzerkleinerer,Kauffmann-White-Schema,0.0,0.36859565057132326,-0.36859565057132326
+f1_strong_uncertainty_only,Kurort,Schäbe,0.0,0.0,0.0
+f1_strong_uncertainty_only,Substanzinduzierte Psychose,Wechselwirkende Galaxien,0.25,0.8025682182985554,-0.5525682182985554
+f1_strong_uncertainty_only,Das sogenannte Böse,Gänsegeier,0.4519774011299435,0.9673518742442564,-0.5153744731143128
+f1_strong_uncertainty_only,Pharmahersteller,(136199) Eris,0.19611688566385566,0.39100684261974583,-0.19488995695589018
+f1_strong_uncertainty_only,PANalytical,Waldsteppenotter,0.0,0.0,0.0
+f1_strong_uncertainty_only,T-Labs,Lilium pardalinum subsp. pitkinense,0.0,0.6618133686300464,-0.6618133686300464
+f1_strong_uncertainty_only,Ungarische Notation,Ankylosauria,0.3053435114503817,2.7092113184828417,-2.40386780703246
+f1_strong_uncertainty_only,Prophylaxe (Zahnmedizin),Crashtest-Dummy,0.0,0.0,0.0
+f1_strong_uncertainty_only,Alexander-Technik,Ringelröteln,0.0,0.55005500550055,-0.55005500550055
+f1_strong_uncertainty_only,Neoarchaikum,Schlangenadler,1.5142337976983646,0.5955926146515784,0.9186411830467862

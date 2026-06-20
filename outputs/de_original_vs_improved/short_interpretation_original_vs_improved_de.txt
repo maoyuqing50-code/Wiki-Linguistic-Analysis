@@ -1,0 +1,9 @@
+German Original vs Improved Feature Evaluation
+
+The available improved German model strengthens the results. In the full available comparison, accuracy rises from 0.547 to 0.624 and macro F1 rises from 0.546 to 0.624. ROC-AUC also rises from 0.627 to 0.659.
+
+Part of the improvement is practical coverage: the original model uses only 150 rows because original F4 has many NaNs, while the improved model uses 282 rows because the expanded smoothed F4 ratio removes that sparsity. On the stricter common-sample diagnostic with the same 150 rows in both models, the improved model still improves accuracy from 0.547 to 0.607 and macro F1 from 0.546 to 0.604, while ROC-AUC rises only slightly from 0.627 to 0.636.
+
+The strongest changed feature is F4 expanded smoothed ratio. It is the largest changed-feature logistic coefficient in the full improved model and in the common-sample diagnostic. F3 no-generic-quantifiers and revised F5 also contribute, but less strongly.
+
+Interpretation: the robustness changes are practically meaningful for German, especially because improved F4 fixes missingness and improves signal. The gain is moderate rather than transformative, and exact absolute comparison to the seven-feature notebook model remains limited because final_features_de.csv does not contain the unchanged original F2 Hyland + SentiWS feature.

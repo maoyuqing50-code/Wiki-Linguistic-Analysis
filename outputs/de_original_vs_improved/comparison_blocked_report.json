@@ -1,0 +1,4 @@
+{
+  "status": "superseded",
+  "reason": "The German original-vs-improved comparison has now been completed using final_features_de.csv plus robustness outputs. See model_metrics_original_vs_improved_de.csv, feature_importance_original_vs_improved_de.csv, comparison_table_original_vs_improved_de.csv, and limitations_original_vs_improved_de.json."
+}

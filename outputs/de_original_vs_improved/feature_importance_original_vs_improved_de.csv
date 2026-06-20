@@ -1,0 +1,19 @@
+model,feature,feature_label,coefficient,abs_coefficient
+Original available,f4_current_ratio_min3,F4 original,-0.4876631031083673,0.4876631031083673
+Original available,f1_original_recomputed,F1 original,0.31292463536672116,0.31292463536672116
+Original available,f3_original_recomputed,F3 original,-0.3084379343852374,0.3084379343852374
+Original available,f6_contrastive_recomputed,F6 original recomputed,0.26993347957267233,0.26993347957267233
+Original available,topic_politics_history,topic_politics_history,-0.26749634706616143,0.26749634706616143
+Original available,topic_science,topic_science,-0.24904041016954648,0.24904041016954648
+Original available,f5_original_reproduced,F5 original,0.2244640265434153,0.2244640265434153
+Original available,topic_geography,topic_geography,-0.20370486770708246,0.20370486770708246
+Original available,f7_mtld_recomputed,F7 original recomputed,-0.054204215525733096,0.054204215525733096
+Improved available,f6_contrastive_recomputed,F6 original recomputed,0.4669813133671583,0.4669813133671583
+Improved available,f4_expanded_smoothed_ratio,F4 expanded smoothed ratio,-0.3750915216591702,0.3750915216591702
+Improved available,f3_no_generic_quantifiers,F3 no generic quantifiers,-0.318977258339563,0.318977258339563
+Improved available,f5_revised,F5 revised robustness,0.26888323357388105,0.26888323357388105
+Improved available,f7_mtld_recomputed,F7 original recomputed,-0.20720919475873484,0.20720919475873484
+Improved available,f1_original_recomputed,F1 original,0.18058853343288347,0.18058853343288347
+Improved available,topic_geography,topic_geography,-0.14423945708496863,0.14423945708496863
+Improved available,topic_science,topic_science,-0.062322137356996606,0.062322137356996606
+Improved available,topic_politics_history,topic_politics_history,0.030494668238582507,0.030494668238582507

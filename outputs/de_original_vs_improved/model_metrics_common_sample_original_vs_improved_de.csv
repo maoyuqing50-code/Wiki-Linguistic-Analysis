@@ -1,0 +1,3 @@
+model,n_rows,n_features_without_topic_controls,n_topic_controls,accuracy,macro_f1,roc_auc,baseline_accuracy
+Original common sample,150,6,3,0.5466666666666666,0.545940170940171,0.6271428571428572,0.5333333333333333
+Improved common sample,150,6,3,0.6066666666666667,0.6036899377546907,0.6364285714285713,0.5333333333333333
