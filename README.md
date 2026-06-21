@@ -110,7 +110,7 @@ The English pipeline is primarily notebook-based.
 - `final_stable_en.json`
 - `final_pairs_en.json`
 - `final_features_en.csv`
-- `final_pairs_en_strict`
+- `final_pairs_en_strict.json`
 
 The English notebooks include:
 
