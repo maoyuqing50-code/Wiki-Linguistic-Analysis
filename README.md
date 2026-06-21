@@ -1,4 +1,4 @@
-# Wiki-Trends-Analysis
+# Wiki-Analysis
 
 Computational Social Science project investigating linguistic and structural differences between contested and stable Wikipedia articles across English and German Wikipedia.
 
@@ -102,8 +102,7 @@ The English pipeline is primarily notebook-based.
 ## Main Files
 
 - `Wikipedia_EN_data_collection.ipynb`
-- `Wikipedia_EN_Analysis.ipynb`
-- `wiki_analysis_v2.ipynb`
+- `Wikipedia_EN_Analysis_v5.ipynb`
 
 ## English Outputs
 
@@ -111,6 +110,7 @@ The English pipeline is primarily notebook-based.
 - `final_stable_en.json`
 - `final_pairs_en.json`
 - `final_features_en.csv`
+-  final_pairs_en_strict
 
 The English notebooks include:
 
@@ -150,28 +150,19 @@ The German pipeline mirrors the English dataset structure while adapting:
 The project extracts both linguistic and structural features.
 
 ## Linguistic Features
+### Category 1 — Authorial Commitment
+- F1: epistemic hedge density
+- F2: affective stance marker density
+- 
+### Category 2 — Source Transparency
+- F3: verification-evading expression density
+- F4: attribution verb bias ratio
+- F5: lexical presupposition density
+- 
+### Category 3 — Textual Organisation
+- F6: contrastive transition density
+- F7: lexical diversity (MTLD)
 
-### Layer 1 — Lexical Masking
-- hedging density
-- weasel-word density
-- partisan attribution
-
-### Layer 2 — Conceptual Instability
-- definition density
-- concept naming instability
-- taxonomic inconsistency
-
-### Layer 3 — Structural Fragmentation
-- lexical diversity (MTLD)
-- paragraph coherence
-- paragraph topic jump
-
-The German implementation currently includes:
-
-- `hedging_density`
-- `weasel_density`
-- `def_ratio`
-- `mtld`
 
 German feature extraction uses:
 
